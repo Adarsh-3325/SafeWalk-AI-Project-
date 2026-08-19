@@ -1,0 +1,301 @@
+id,latitude,longitude,crime_type,severity,description,incident_timestamp
+1,37.754826,-122.347286,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-13T19:28:37.901829
+2,37.812019,-122.403615,Vandalism,2,Reported Vandalism incident,2026-07-20T14:28:37.901901
+3,37.719863,-122.474441,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T19:28:37.901931
+4,37.704193,-122.360812,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-03T05:28:37.901950
+5,37.791078,-122.386108,Theft,1,Reported Theft incident,2026-08-06T12:28:37.901969
+6,37.698194,-122.344214,Harassment,5,Reported Harassment incident,2026-06-01T18:28:37.901985
+7,37.828091,-122.465426,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-25T20:28:37.902000
+8,37.723992,-122.470055,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-20T04:28:37.902012
+9,37.743579,-122.415439,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-17T13:28:37.902025
+10,37.764011,-122.452803,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-07-05T10:28:37.902038
+11,37.792796,-122.477081,Harassment,2,Reported Harassment incident,2026-07-05T15:28:37.902052
+12,37.741643,-122.440782,Theft,4,Reported Theft incident,2026-08-05T07:28:37.902068
+13,37.767871,-122.373772,Vandalism,5,Reported Vandalism incident,2026-07-15T17:28:37.902081
+14,37.726848,-122.417122,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-10T15:28:37.902093
+15,37.789686,-122.491968,Robbery,1,Reported Robbery incident,2026-06-08T09:28:37.902106
+16,37.792107,-122.472116,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-02T00:28:37.902118
+17,37.705308,-122.347578,Harassment,1,Reported Harassment incident,2026-08-11T21:28:37.902131
+18,37.849401,-122.370056,Harassment,3,Reported Harassment incident,2026-08-07T11:28:37.902144
+19,37.743638,-122.483772,Theft,4,Reported Theft incident,2026-07-13T04:28:37.902156
+20,37.804377,-122.428976,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-28T07:28:37.902169
+21,37.714426,-122.420172,Vandalism,2,Reported Vandalism incident,2026-05-24T10:28:37.902181
+22,37.700402,-122.353909,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-31T22:28:37.902194
+23,37.736305,-122.393396,Harassment,5,Reported Harassment incident,2026-07-17T13:28:37.902206
+24,37.744774,-122.416189,Robbery,4,Reported Robbery incident,2026-07-13T22:28:37.902218
+25,37.782374,-122.469823,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-19T21:28:37.902231
+26,37.850034,-122.375379,Vandalism,1,Reported Vandalism incident,2026-07-19T17:28:37.902244
+27,37.84522,-122.356228,Vandalism,4,Reported Vandalism incident,2026-07-14T16:28:37.902257
+28,37.790564,-122.3519,Harassment,5,Reported Harassment incident,2026-07-08T12:28:37.902270
+29,37.709059,-122.468043,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-27T22:28:37.902282
+30,37.702136,-122.447347,Robbery,2,Reported Robbery incident,2026-07-15T14:28:37.902297
+31,37.757088,-122.455984,Harassment,5,Reported Harassment incident,2026-06-10T10:28:37.902312
+32,37.827498,-122.442319,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-24T00:28:37.902325
+33,37.73985,-122.412569,Robbery,3,Reported Robbery incident,2026-07-20T14:28:37.902337
+34,37.717448,-122.371048,Suspicious Activity,4,Reported Suspicious Activity incident,2026-08-06T17:28:37.902350
+35,37.706828,-122.341498,Theft,2,Reported Theft incident,2026-05-29T13:28:37.902362
+36,37.818459,-122.467605,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-02T16:28:37.902375
+37,37.695784,-122.368926,Robbery,4,Reported Robbery incident,2026-06-02T04:28:37.902387
+38,37.807997,-122.382759,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-08T18:28:37.902432
+39,37.818303,-122.487553,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T01:28:37.902450
+40,37.752255,-122.480861,Vandalism,3,Reported Vandalism incident,2026-08-03T09:28:37.902467
+41,37.832997,-122.399672,Robbery,2,Reported Robbery incident,2026-06-20T18:28:37.902484
+42,37.747844,-122.489231,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-14T13:28:37.902504
+43,37.744657,-122.447371,Suspicious Activity,1,Reported Suspicious Activity incident,2026-05-29T09:28:37.902525
+44,37.811637,-122.397391,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-01T12:28:37.902546
+45,37.836854,-122.423846,Harassment,3,Reported Harassment incident,2026-07-28T01:28:37.902569
+46,37.714035,-122.385281,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-02T08:28:37.902592
+47,37.816626,-122.409596,Robbery,1,Reported Robbery incident,2026-08-03T07:28:37.902606
+48,37.818255,-122.420393,Vandalism,2,Reported Vandalism incident,2026-08-10T11:28:37.902619
+49,37.778537,-122.430993,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-06T19:28:37.902631
+50,37.698967,-122.482137,Robbery,1,Reported Robbery incident,2026-06-10T14:28:37.902644
+51,37.699929,-122.397574,Harassment,4,Reported Harassment incident,2026-06-08T13:28:37.902660
+52,37.745197,-122.418029,Vandalism,5,Reported Vandalism incident,2026-06-01T05:28:37.902673
+53,37.840111,-122.459513,Harassment,5,Reported Harassment incident,2026-05-21T12:28:37.902685
+54,37.760561,-122.378512,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-26T21:28:37.902698
+55,37.731508,-122.487083,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-22T02:28:37.902710
+56,37.74126,-122.473605,Robbery,1,Reported Robbery incident,2026-07-17T11:28:37.902725
+57,37.843652,-122.370101,Theft,3,Reported Theft incident,2026-08-15T00:28:37.902738
+58,37.796245,-122.359966,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-03T11:28:37.902751
+59,37.823488,-122.469549,Theft,1,Reported Theft incident,2026-05-18T22:28:37.902763
+60,37.837709,-122.413105,Theft,2,Reported Theft incident,2026-08-09T17:28:37.902789
+61,37.82409,-122.356025,Vandalism,1,Reported Vandalism incident,2026-06-13T11:28:37.902801
+62,37.745781,-122.481792,Vandalism,4,Reported Vandalism incident,2026-07-21T01:28:37.902813
+63,37.73137,-122.431063,Harassment,5,Reported Harassment incident,2026-06-05T03:28:37.902825
+64,37.825782,-122.361683,Harassment,4,Reported Harassment incident,2026-06-26T12:28:37.902837
+65,37.696012,-122.41768,Theft,1,Reported Theft incident,2026-05-25T05:28:37.902849
+66,37.761686,-122.463863,Vandalism,4,Reported Vandalism incident,2026-06-26T04:28:37.902862
+67,37.714078,-122.445382,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T22:28:37.902877
+68,37.845766,-122.447688,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-10T06:28:37.902889
+69,37.777906,-122.386917,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-04T11:28:37.902901
+70,37.753081,-122.343915,Harassment,2,Reported Harassment incident,2026-06-10T04:28:37.902914
+71,37.848892,-122.459115,Harassment,4,Reported Harassment incident,2026-07-25T10:28:37.902926
+72,37.77446,-122.451259,Robbery,2,Reported Robbery incident,2026-08-08T04:28:37.902938
+73,37.740474,-122.493498,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-10T22:28:37.902951
+74,37.79243,-122.418971,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-06T11:28:37.902963
+75,37.703137,-122.454817,Harassment,4,Reported Harassment incident,2026-06-16T03:28:37.902975
+76,37.840223,-122.46107,Harassment,4,Reported Harassment incident,2026-08-10T13:28:37.902987
+77,37.718083,-122.421088,Robbery,1,Reported Robbery incident,2026-06-29T10:28:37.902999
+78,37.852604,-122.460671,Robbery,3,Reported Robbery incident,2026-06-23T20:28:37.903012
+79,37.802442,-122.377541,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-05-24T20:28:37.903025
+80,37.732922,-122.382885,Robbery,2,Reported Robbery incident,2026-07-24T09:28:37.903037
+81,37.753745,-122.398231,Harassment,1,Reported Harassment incident,2026-06-03T19:28:37.903049
+82,37.796265,-122.413676,Suspicious Activity,1,Reported Suspicious Activity incident,2026-07-08T17:28:37.903061
+83,37.709346,-122.365752,Theft,5,Reported Theft incident,2026-06-17T02:28:37.903073
+84,37.746225,-122.469557,Suspicious Activity,2,Reported Suspicious Activity incident,2026-08-10T02:28:37.903085
+85,37.701424,-122.404857,Theft,2,Reported Theft incident,2026-08-08T23:28:37.903100
+86,37.80331,-122.496746,Theft,2,Reported Theft incident,2026-06-27T15:28:37.903113
+87,37.776835,-122.463161,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-03T23:28:37.903125
+88,37.798128,-122.471501,Theft,5,Reported Theft incident,2026-08-07T05:28:37.903137
+89,37.80545,-122.437522,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-06T02:28:37.903149
+90,37.844777,-122.477397,Vandalism,3,Reported Vandalism incident,2026-07-21T21:28:37.903163
+91,37.749471,-122.481244,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-18T10:28:37.903175
+92,37.842851,-122.359026,Robbery,2,Reported Robbery incident,2026-05-23T22:28:37.903187
+93,37.736171,-122.393803,Vandalism,4,Reported Vandalism incident,2026-07-08T16:28:37.903199
+94,37.825656,-122.410568,Theft,4,Reported Theft incident,2026-05-30T00:28:37.903216
+95,37.779644,-122.460704,Theft,1,Reported Theft incident,2026-06-10T12:28:37.903228
+96,37.709796,-122.355845,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-01T07:28:37.903243
+97,37.838967,-122.398104,Theft,2,Reported Theft incident,2026-07-01T09:28:37.903255
+98,37.749145,-122.443526,Harassment,4,Reported Harassment incident,2026-06-08T20:28:37.903268
+99,37.811053,-122.355862,Vandalism,5,Reported Vandalism incident,2026-05-26T02:28:37.903280
+100,37.836834,-122.37462,Theft,5,Reported Theft incident,2026-07-09T21:28:37.903292
+101,37.797625,-122.485938,Theft,2,Reported Theft incident,2026-07-15T15:28:37.903304
+102,37.720761,-122.355631,Theft,5,Reported Theft incident,2026-07-29T10:28:37.903316
+103,37.791929,-122.497928,Vandalism,5,Reported Vandalism incident,2026-07-21T20:28:37.903328
+104,37.711135,-122.39324,Vandalism,2,Reported Vandalism incident,2026-05-21T22:28:37.903340
+105,37.69571,-122.473671,Vandalism,5,Reported Vandalism incident,2026-06-16T10:28:37.903352
+106,37.782697,-122.388697,Theft,1,Reported Theft incident,2026-05-28T05:28:37.903364
+107,37.799214,-122.463517,Vandalism,1,Reported Vandalism incident,2026-08-17T08:28:37.903376
+108,37.808849,-122.46144,Harassment,3,Reported Harassment incident,2026-07-27T19:28:37.903404
+109,37.746964,-122.379961,Robbery,5,Reported Robbery incident,2026-05-19T05:28:37.903420
+110,37.798841,-122.363524,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-03T16:28:37.903434
+111,37.800118,-122.408471,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-06-09T17:28:37.903446
+112,37.709888,-122.440565,Vandalism,5,Reported Vandalism incident,2026-06-08T14:28:37.903458
+113,37.737332,-122.460362,Robbery,2,Reported Robbery incident,2026-08-12T09:28:37.903470
+114,37.850582,-122.436504,Vandalism,1,Reported Vandalism incident,2026-07-03T12:28:37.903482
+115,37.837627,-122.398418,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-24T15:28:37.903497
+116,37.82207,-122.418978,Vandalism,5,Reported Vandalism incident,2026-06-25T23:28:37.903509
+117,37.787205,-122.420597,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-18T13:28:37.903522
+118,37.726139,-122.383808,Harassment,4,Reported Harassment incident,2026-08-14T13:28:37.903534
+119,37.739824,-122.495509,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-25T21:28:37.903546
+120,37.798176,-122.471062,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-14T13:28:37.903558
+121,37.845373,-122.346771,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-06-30T17:28:37.903570
+122,37.841278,-122.440175,Robbery,2,Reported Robbery incident,2026-07-23T04:28:37.903582
+123,37.697373,-122.350869,Vandalism,3,Reported Vandalism incident,2026-07-19T11:28:37.903595
+124,37.763409,-122.344735,Theft,2,Reported Theft incident,2026-06-27T08:28:37.903607
+125,37.849079,-122.362918,Vandalism,1,Reported Vandalism incident,2026-07-13T07:28:37.903619
+126,37.742012,-122.437784,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-26T21:28:37.903631
+127,37.831082,-122.448692,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-14T15:28:37.903643
+128,37.722019,-122.410312,Vandalism,2,Reported Vandalism incident,2026-06-04T10:28:37.903655
+129,37.844685,-122.388035,Theft,1,Reported Theft incident,2026-06-02T05:28:37.903669
+130,37.78611,-122.483852,Vandalism,3,Reported Vandalism incident,2026-06-22T23:28:37.903684
+131,37.793301,-122.340991,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-29T00:28:37.903696
+132,37.717313,-122.416467,Harassment,3,Reported Harassment incident,2026-08-11T20:28:37.903708
+133,37.83528,-122.380877,Robbery,1,Reported Robbery incident,2026-06-12T01:28:37.903720
+134,37.806423,-122.387003,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-02T05:28:37.903732
+135,37.752419,-122.452425,Theft,3,Reported Theft incident,2026-05-30T08:28:37.903745
+136,37.824398,-122.369782,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-10T02:28:37.903757
+137,37.833632,-122.353282,Vandalism,4,Reported Vandalism incident,2026-07-07T06:28:37.903782
+138,37.776715,-122.419157,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-08T14:28:37.903794
+139,37.822627,-122.395406,Harassment,4,Reported Harassment incident,2026-05-24T06:28:37.903807
+140,37.807215,-122.372073,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-31T00:28:37.903819
+141,37.837301,-122.445321,Vandalism,4,Reported Vandalism incident,2026-06-08T18:28:37.903832
+142,37.754993,-122.484363,Vandalism,3,Reported Vandalism incident,2026-07-22T05:28:37.903846
+143,37.787425,-122.493649,Suspicious Activity,5,Reported Suspicious Activity incident,2026-05-26T08:28:37.903859
+144,37.769396,-122.412577,Robbery,4,Reported Robbery incident,2026-06-21T21:28:37.903871
+145,37.740747,-122.404867,Harassment,5,Reported Harassment incident,2026-06-17T19:28:37.903883
+146,37.69978,-122.493424,Harassment,1,Reported Harassment incident,2026-07-12T02:28:37.903896
+147,37.826516,-122.441769,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-06T16:28:37.903908
+148,37.71523,-122.415841,Harassment,3,Reported Harassment incident,2026-07-20T12:28:37.903922
+149,37.818099,-122.464869,Harassment,1,Reported Harassment incident,2026-08-12T11:28:37.903937
+150,37.794562,-122.485744,Robbery,5,Reported Robbery incident,2026-08-08T04:28:37.903951
+151,37.703169,-122.414383,Robbery,5,Reported Robbery incident,2026-07-23T20:28:37.903963
+152,37.781402,-122.397411,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-15T06:28:37.903975
+153,37.811075,-122.343264,Harassment,2,Reported Harassment incident,2026-05-25T20:28:37.903988
+154,37.777508,-122.447727,Theft,1,Reported Theft incident,2026-06-24T11:28:37.904000
+155,37.82213,-122.456067,Harassment,5,Reported Harassment incident,2026-06-19T17:28:37.904012
+156,37.765135,-122.486847,Suspicious Activity,2,Reported Suspicious Activity incident,2026-08-02T04:28:37.904025
+157,37.698956,-122.345376,Harassment,4,Reported Harassment incident,2026-05-24T02:28:37.904038
+158,37.828657,-122.388044,Suspicious Activity,5,Reported Suspicious Activity incident,2026-07-08T04:28:37.904051
+159,37.760332,-122.471673,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-24T01:28:37.904063
+160,37.71993,-122.459361,Robbery,2,Reported Robbery incident,2026-06-18T04:28:37.904076
+161,37.782776,-122.385065,Vandalism,2,Reported Vandalism incident,2026-05-28T10:28:37.904088
+162,37.800532,-122.454611,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-29T11:28:37.904101
+163,37.847678,-122.381336,Vandalism,4,Reported Vandalism incident,2026-08-07T20:28:37.904113
+164,37.783597,-122.401525,Vandalism,2,Reported Vandalism incident,2026-07-14T08:28:37.904125
+165,37.762036,-122.459763,Vandalism,5,Reported Vandalism incident,2026-08-07T14:28:37.904138
+166,37.751856,-122.378145,Harassment,2,Reported Harassment incident,2026-06-28T20:28:37.904150
+167,37.697203,-122.480828,Harassment,2,Reported Harassment incident,2026-08-09T05:28:37.904162
+168,37.70226,-122.492883,Robbery,3,Reported Robbery incident,2026-06-09T04:28:37.904179
+169,37.831774,-122.386815,Robbery,1,Reported Robbery incident,2026-07-22T05:28:37.904191
+170,37.770768,-122.483747,Robbery,5,Reported Robbery incident,2026-05-20T18:28:37.904204
+171,37.773559,-122.423645,Suspicious Activity,4,Reported Suspicious Activity incident,2026-06-17T18:28:37.904216
+172,37.722612,-122.429984,Vandalism,3,Reported Vandalism incident,2026-06-29T05:28:37.904229
+173,37.758661,-122.400864,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-01T11:28:37.904242
+174,37.796515,-122.492151,Robbery,2,Reported Robbery incident,2026-07-14T05:28:37.904255
+175,37.754838,-122.399262,Robbery,1,Reported Robbery incident,2026-06-29T08:28:37.904267
+176,37.775402,-122.362362,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-07-27T04:28:37.904280
+177,37.800291,-122.47333,Harassment,5,Reported Harassment incident,2026-06-10T18:28:37.904292
+178,37.706191,-122.396613,Robbery,5,Reported Robbery incident,2026-06-05T21:28:37.904304
+179,37.699142,-122.405676,Theft,1,Reported Theft incident,2026-05-27T05:28:37.904316
+180,37.845337,-122.407324,Harassment,4,Reported Harassment incident,2026-07-25T17:28:37.904328
+181,37.757007,-122.396474,Vandalism,4,Reported Vandalism incident,2026-07-07T12:28:37.904341
+182,37.76822,-122.412101,Robbery,3,Reported Robbery incident,2026-07-05T06:28:37.904353
+183,37.845534,-122.437624,Vandalism,4,Reported Vandalism incident,2026-07-16T16:28:37.904365
+184,37.84869,-122.354544,Robbery,1,Reported Robbery incident,2026-06-09T17:28:37.904378
+185,37.726227,-122.488302,Vandalism,2,Reported Vandalism incident,2026-05-26T16:28:37.904402
+186,37.711024,-122.496485,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-14T11:28:37.904416
+187,37.710011,-122.390119,Harassment,1,Reported Harassment incident,2026-05-30T14:28:37.904431
+188,37.70629,-122.448364,Harassment,2,Reported Harassment incident,2026-06-17T21:28:37.904444
+189,37.83008,-122.495676,Theft,5,Reported Theft incident,2026-07-21T04:28:37.904456
+190,37.825215,-122.454303,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-01T13:28:37.904468
+191,37.713806,-122.387922,Suspicious Activity,5,Reported Suspicious Activity incident,2026-08-03T13:28:37.904481
+192,37.795531,-122.359004,Vandalism,1,Reported Vandalism incident,2026-06-04T18:28:37.904493
+193,37.812511,-122.370843,Vandalism,5,Reported Vandalism incident,2026-05-23T06:28:37.904505
+194,37.740026,-122.47101,Robbery,2,Reported Robbery incident,2026-08-08T00:28:37.904520
+195,37.814998,-122.370306,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-08-03T20:28:37.904535
+196,37.853381,-122.433381,Vandalism,5,Reported Vandalism incident,2026-08-02T00:28:37.904548
+197,37.754423,-122.375174,Theft,3,Reported Theft incident,2026-06-10T05:28:37.904561
+198,37.749429,-122.350479,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-09T02:28:37.904573
+199,37.832246,-122.430761,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-16T05:28:37.904585
+200,37.815039,-122.378673,Robbery,1,Reported Robbery incident,2026-06-23T07:28:37.904597
+201,37.7114,-122.354992,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-05-19T14:28:37.904610
+202,37.77574,-122.367167,Robbery,2,Reported Robbery incident,2026-06-11T22:28:37.904623
+203,37.746108,-122.356116,Vandalism,5,Reported Vandalism incident,2026-06-10T03:28:37.904636
+204,37.757172,-122.497666,Robbery,4,Reported Robbery incident,2026-06-03T10:28:37.904648
+205,37.839761,-122.484794,Vandalism,2,Reported Vandalism incident,2026-08-06T10:28:37.904660
+206,37.74599,-122.34739,Robbery,2,Reported Robbery incident,2026-06-19T00:28:37.904672
+207,37.846997,-122.40765,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-05T18:28:37.904687
+208,37.795994,-122.427649,Robbery,3,Reported Robbery incident,2026-07-25T03:28:37.904700
+209,37.741814,-122.446814,Harassment,3,Reported Harassment incident,2026-07-15T08:28:37.904714
+210,37.802503,-122.37902,Vandalism,5,Reported Vandalism incident,2026-05-20T10:28:37.904726
+211,37.821553,-122.373061,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-12T12:28:37.904739
+212,37.709493,-122.420293,Theft,2,Reported Theft incident,2026-06-26T03:28:37.904751
+213,37.704109,-122.411475,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-21T03:28:37.904763
+214,37.765545,-122.357367,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-21T18:28:37.904775
+215,37.751046,-122.480669,Theft,3,Reported Theft incident,2026-07-20T06:28:37.904788
+216,37.717779,-122.377558,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-08T21:28:37.904800
+217,37.793815,-122.48322,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-18T01:28:37.904812
+218,37.708357,-122.387245,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-23T19:28:37.904825
+219,37.706542,-122.367902,Suspicious Activity,3,Reported Suspicious Activity incident,2026-07-02T20:28:37.904837
+220,37.807899,-122.486384,Robbery,3,Reported Robbery incident,2026-07-09T10:28:37.904863
+221,37.708474,-122.341538,Harassment,1,Reported Harassment incident,2026-07-24T08:28:37.904877
+222,37.754783,-122.440097,Theft,5,Reported Theft incident,2026-05-21T13:28:37.904891
+223,37.824948,-122.34784,Harassment,2,Reported Harassment incident,2026-06-17T10:28:37.904904
+224,37.85266,-122.378859,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-10T23:28:37.904916
+225,37.755102,-122.48604,Vandalism,1,Reported Vandalism incident,2026-07-24T09:28:37.904929
+226,37.819244,-122.410055,Harassment,3,Reported Harassment incident,2026-07-26T09:28:37.904943
+227,37.762776,-122.354383,Theft,5,Reported Theft incident,2026-08-01T10:28:37.904956
+228,37.712692,-122.42058,Theft,1,Reported Theft incident,2026-06-08T09:28:37.904968
+229,37.696717,-122.424414,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-28T03:28:37.904981
+230,37.703909,-122.480389,Theft,1,Reported Theft incident,2026-06-05T09:28:37.904994
+231,37.713704,-122.395526,Robbery,4,Reported Robbery incident,2026-06-22T08:28:37.905006
+232,37.814267,-122.406061,Harassment,1,Reported Harassment incident,2026-07-16T03:28:37.905019
+233,37.848848,-122.439421,Theft,1,Reported Theft incident,2026-06-27T03:28:37.905031
+234,37.740614,-122.360424,Theft,5,Reported Theft incident,2026-05-28T21:28:37.905045
+235,37.730675,-122.345284,Theft,2,Reported Theft incident,2026-07-29T00:28:37.905058
+236,37.696845,-122.344219,Vandalism,1,Reported Vandalism incident,2026-07-17T15:28:37.905071
+237,37.701806,-122.356817,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-31T23:28:37.905083
+238,37.779332,-122.340526,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-12T06:28:37.905096
+239,37.706707,-122.410783,Robbery,4,Reported Robbery incident,2026-07-10T00:28:37.905108
+240,37.849988,-122.415704,Robbery,3,Reported Robbery incident,2026-06-05T23:28:37.905121
+241,37.795604,-122.38808,Theft,5,Reported Theft incident,2026-08-05T12:28:37.905133
+242,37.767627,-122.398991,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-14T21:28:37.905146
+243,37.78839,-122.355215,Theft,2,Reported Theft incident,2026-07-18T13:28:37.905159
+244,37.702171,-122.454446,Suspicious Activity,1,Reported Suspicious Activity incident,2026-07-28T18:28:37.905171
+245,37.846966,-122.356958,Robbery,4,Reported Robbery incident,2026-05-20T23:28:37.905184
+246,37.767805,-122.400179,Robbery,3,Reported Robbery incident,2026-08-13T11:28:37.905199
+247,37.739281,-122.469301,Vandalism,3,Reported Vandalism incident,2026-05-20T04:28:37.905211
+248,37.769092,-122.442864,Theft,2,Reported Theft incident,2026-07-14T22:28:37.905228
+249,37.788285,-122.486962,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-24T15:28:37.905241
+250,37.850803,-122.341606,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-27T14:28:37.905253
+251,37.806606,-122.413625,Vandalism,2,Reported Vandalism incident,2026-08-08T17:28:37.905266
+252,37.744424,-122.369193,Harassment,3,Reported Harassment incident,2026-06-01T19:28:37.905281
+253,37.804457,-122.473381,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-22T15:28:37.905294
+254,37.840648,-122.367794,Robbery,3,Reported Robbery incident,2026-05-20T06:28:37.905306
+255,37.846868,-122.383285,Vandalism,5,Reported Vandalism incident,2026-06-09T03:28:37.905319
+256,37.793046,-122.432481,Robbery,1,Reported Robbery incident,2026-06-02T17:28:37.905332
+257,37.844137,-122.36083,Robbery,3,Reported Robbery incident,2026-06-01T10:28:37.905344
+258,37.702135,-122.495181,Theft,1,Reported Theft incident,2026-07-18T21:28:37.905359
+259,37.755134,-122.369711,Suspicious Activity,5,Reported Suspicious Activity incident,2026-08-14T21:28:37.905372
+260,37.852864,-122.475333,Vandalism,5,Reported Vandalism incident,2026-08-12T13:28:37.905387
+261,37.789961,-122.438457,Robbery,5,Reported Robbery incident,2026-05-26T04:28:37.905400
+262,37.850086,-122.364661,Vandalism,2,Reported Vandalism incident,2026-06-04T05:28:37.905413
+263,37.829033,-122.424409,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-08-06T03:28:37.905439
+264,37.761271,-122.455655,Vandalism,4,Reported Vandalism incident,2026-07-06T08:28:37.905452
+265,37.70392,-122.361044,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-28T08:28:37.905467
+266,37.824964,-122.339445,Robbery,4,Reported Robbery incident,2026-07-11T21:28:37.905480
+267,37.854362,-122.410531,Robbery,5,Reported Robbery incident,2026-08-13T04:28:37.905493
+268,37.817938,-122.348237,Theft,3,Reported Theft incident,2026-07-16T08:28:37.905506
+269,37.830844,-122.459824,Theft,4,Reported Theft incident,2026-06-13T18:28:37.905518
+270,37.766987,-122.478734,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-19T05:28:37.905533
+271,37.847548,-122.402412,Theft,2,Reported Theft incident,2026-06-12T07:28:37.905545
+272,37.731483,-122.391928,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-29T04:28:37.905558
+273,37.793801,-122.442094,Theft,2,Reported Theft incident,2026-07-14T01:28:37.905571
+274,37.713069,-122.391948,Harassment,3,Reported Harassment incident,2026-06-21T20:28:37.905584
+275,37.778149,-122.375829,Robbery,1,Reported Robbery incident,2026-08-13T22:28:37.905596
+276,37.778126,-122.363051,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-19T13:28:37.905609
+277,37.783205,-122.40965,Vandalism,5,Reported Vandalism incident,2026-08-16T01:28:37.905622
+278,37.835165,-122.434843,Robbery,1,Reported Robbery incident,2026-07-20T15:28:37.905635
+279,37.716342,-122.494795,Robbery,1,Reported Robbery incident,2026-05-27T14:28:37.905647
+280,37.815722,-122.40015,Robbery,3,Reported Robbery incident,2026-06-12T20:28:37.905662
+281,37.807553,-122.465326,Vandalism,4,Reported Vandalism incident,2026-06-17T03:28:37.905676
+282,37.716719,-122.497073,Harassment,4,Reported Harassment incident,2026-06-08T14:28:37.905688
+283,37.750994,-122.405013,Robbery,2,Reported Robbery incident,2026-06-02T02:28:37.905701
+284,37.757659,-122.429404,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-08-09T10:28:37.905714
+285,37.839565,-122.443679,Robbery,3,Reported Robbery incident,2026-06-14T10:28:37.905729
+286,37.777138,-122.374016,Theft,3,Reported Theft incident,2026-07-10T00:28:37.905742
+287,37.758347,-122.399866,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-29T04:28:37.905755
+288,37.832878,-122.347477,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-04T08:28:37.905767
+289,37.718432,-122.351146,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-30T04:28:37.905780
+290,37.773639,-122.458081,Vandalism,2,Reported Vandalism incident,2026-05-20T11:28:37.905793
+291,37.768362,-122.342595,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-19T05:28:37.905806
+292,37.773719,-122.4468,Theft,3,Reported Theft incident,2026-06-17T20:28:37.905832
+293,37.796244,-122.460977,Robbery,4,Reported Robbery incident,2026-05-24T22:28:37.905845
+294,37.707038,-122.478779,Harassment,4,Reported Harassment incident,2026-08-13T14:28:37.905859
+295,37.715387,-122.475096,Suspicious Activity,5,Reported Suspicious Activity incident,2026-07-06T15:28:37.905872
+296,37.717112,-122.39686,Robbery,1,Reported Robbery incident,2026-06-11T04:28:37.905885
+297,37.724001,-122.444093,Theft,2,Reported Theft incident,2026-06-25T22:28:37.905898
+298,37.838386,-122.423566,Harassment,1,Reported Harassment incident,2026-06-18T10:28:37.905911
+299,37.801709,-122.471829,Vandalism,5,Reported Vandalism incident,2026-05-21T06:28:37.905924
+300,37.725666,-122.492861,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-05T21:28:37.905940

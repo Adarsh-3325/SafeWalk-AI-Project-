@@ -1,0 +1,501 @@
+id,latitude,longitude,lighting_score,light_type,is_functional
+1,37.72193,-122.454826,89.0,Solar Pole Light,True
+2,37.723222,-122.485208,96.0,LED Street Light,True
+3,37.714202,-122.425675,80.0,Solar Pole Light,True
+4,37.727913,-122.441117,70.0,Decorative Lamp,True
+5,37.775447,-122.388937,71.0,Decorative Lamp,True
+6,37.70119,-122.371494,29.0,LED Street Light,False
+7,37.795364,-122.486319,13.0,Solar Pole Light,False
+8,37.834673,-122.35206,92.0,High-Pressure Sodium,True
+9,37.704672,-122.4551,36.0,High-Pressure Sodium,False
+10,37.823892,-122.379678,15.0,Decorative Lamp,False
+11,37.724423,-122.465904,80.0,Decorative Lamp,True
+12,37.754176,-122.421876,74.0,High-Pressure Sodium,True
+13,37.793821,-122.440374,81.0,Decorative Lamp,True
+14,37.768906,-122.379805,65.0,Decorative Lamp,True
+15,37.700769,-122.45901,99.0,High-Pressure Sodium,True
+16,37.809036,-122.356167,32.0,Solar Pole Light,False
+17,37.776768,-122.414262,92.0,Solar Pole Light,True
+18,37.712048,-122.427814,84.0,High-Pressure Sodium,True
+19,37.780119,-122.460605,95.0,LED Street Light,True
+20,37.737979,-122.439035,32.0,Solar Pole Light,False
+21,37.698111,-122.447867,83.0,LED Street Light,True
+22,37.728732,-122.447,90.0,Solar Pole Light,True
+23,37.714062,-122.356916,13.0,Decorative Lamp,False
+24,37.789875,-122.390744,83.0,High-Pressure Sodium,True
+25,37.821167,-122.419649,87.0,High-Pressure Sodium,True
+26,37.708807,-122.413463,81.0,High-Pressure Sodium,True
+27,37.788795,-122.38013,67.0,Solar Pole Light,True
+28,37.763966,-122.478987,67.0,Solar Pole Light,True
+29,37.740304,-122.441307,70.0,Solar Pole Light,True
+30,37.798247,-122.408075,91.0,High-Pressure Sodium,True
+31,37.751875,-122.341558,44.0,Solar Pole Light,False
+32,37.791824,-122.461444,82.0,High-Pressure Sodium,True
+33,37.711185,-122.474943,95.0,Solar Pole Light,True
+34,37.734253,-122.473691,86.0,LED Street Light,True
+35,37.724751,-122.453785,69.0,High-Pressure Sodium,True
+36,37.72264,-122.355918,79.0,Decorative Lamp,True
+37,37.707737,-122.415478,100.0,Solar Pole Light,True
+38,37.760563,-122.342219,35.0,LED Street Light,False
+39,37.712826,-122.435743,72.0,Decorative Lamp,True
+40,37.850015,-122.360919,81.0,Decorative Lamp,True
+41,37.825632,-122.458136,88.0,LED Street Light,True
+42,37.722242,-122.392417,95.0,LED Street Light,True
+43,37.8436,-122.410318,100.0,Solar Pole Light,True
+44,37.786358,-122.454603,79.0,LED Street Light,True
+45,37.818019,-122.469473,94.0,Solar Pole Light,True
+46,37.746689,-122.43133,72.0,High-Pressure Sodium,True
+47,37.776118,-122.460614,12.0,Solar Pole Light,False
+48,37.713274,-122.401701,72.0,LED Street Light,True
+49,37.741081,-122.406402,44.0,High-Pressure Sodium,False
+50,37.719598,-122.422418,88.0,Decorative Lamp,True
+51,37.780114,-122.491108,74.0,Decorative Lamp,True
+52,37.748757,-122.477894,96.0,Decorative Lamp,True
+53,37.70504,-122.341006,82.0,LED Street Light,True
+54,37.746477,-122.36982,78.0,Decorative Lamp,True
+55,37.735643,-122.39036,80.0,Solar Pole Light,True
+56,37.816536,-122.404098,33.0,Solar Pole Light,False
+57,37.770352,-122.433505,27.0,High-Pressure Sodium,False
+58,37.750719,-122.350675,94.0,LED Street Light,True
+59,37.827799,-122.344996,66.0,LED Street Light,True
+60,37.714788,-122.382461,80.0,High-Pressure Sodium,True
+61,37.845034,-122.470403,78.0,LED Street Light,True
+62,37.705539,-122.380821,100.0,High-Pressure Sodium,True
+63,37.786816,-122.364707,79.0,Solar Pole Light,True
+64,37.717264,-122.372157,65.0,Solar Pole Light,True
+65,37.72716,-122.473215,74.0,High-Pressure Sodium,True
+66,37.721183,-122.369068,76.0,LED Street Light,True
+67,37.801332,-122.41571,66.0,High-Pressure Sodium,True
+68,37.752313,-122.359048,25.0,Solar Pole Light,False
+69,37.757691,-122.368744,26.0,LED Street Light,False
+70,37.765162,-122.439089,36.0,LED Street Light,False
+71,37.768929,-122.45118,95.0,Decorative Lamp,True
+72,37.814518,-122.418965,97.0,LED Street Light,True
+73,37.732054,-122.355468,79.0,LED Street Light,True
+74,37.756323,-122.412432,98.0,Solar Pole Light,True
+75,37.839936,-122.399522,66.0,LED Street Light,True
+76,37.713604,-122.349027,90.0,Decorative Lamp,True
+77,37.795333,-122.445815,96.0,Decorative Lamp,True
+78,37.717184,-122.372356,15.0,Solar Pole Light,False
+79,37.794112,-122.414046,69.0,High-Pressure Sodium,True
+80,37.837923,-122.373224,100.0,Solar Pole Light,True
+81,37.719168,-122.449524,98.0,Solar Pole Light,True
+82,37.734658,-122.380369,92.0,LED Street Light,True
+83,37.700265,-122.408218,72.0,High-Pressure Sodium,True
+84,37.816893,-122.359117,79.0,Decorative Lamp,True
+85,37.749633,-122.367999,94.0,Decorative Lamp,True
+86,37.712601,-122.363968,71.0,Solar Pole Light,True
+87,37.715298,-122.435834,81.0,Solar Pole Light,True
+88,37.822467,-122.475413,95.0,LED Street Light,True
+89,37.73158,-122.38384,15.0,LED Street Light,False
+90,37.810106,-122.396816,88.0,High-Pressure Sodium,True
+91,37.805932,-122.412564,100.0,Solar Pole Light,True
+92,37.735188,-122.444089,91.0,Solar Pole Light,True
+93,37.723956,-122.354048,92.0,LED Street Light,True
+94,37.788243,-122.435264,84.0,Solar Pole Light,True
+95,37.768821,-122.347835,42.0,High-Pressure Sodium,False
+96,37.719436,-122.405603,40.0,High-Pressure Sodium,False
+97,37.775842,-122.401567,87.0,Solar Pole Light,True
+98,37.697798,-122.35986,27.0,High-Pressure Sodium,False
+99,37.844039,-122.408979,100.0,LED Street Light,True
+100,37.806364,-122.3518,82.0,LED Street Light,True
+101,37.808058,-122.474994,29.0,Solar Pole Light,False
+102,37.787106,-122.402326,76.0,High-Pressure Sodium,True
+103,37.762761,-122.381569,90.0,LED Street Light,True
+104,37.844399,-122.351309,11.0,LED Street Light,False
+105,37.767034,-122.481282,78.0,Decorative Lamp,True
+106,37.852475,-122.365176,86.0,High-Pressure Sodium,True
+107,37.714846,-122.352065,85.0,LED Street Light,True
+108,37.834083,-122.416386,74.0,High-Pressure Sodium,True
+109,37.789504,-122.43556,68.0,LED Street Light,True
+110,37.703662,-122.445768,92.0,Decorative Lamp,True
+111,37.823357,-122.498659,91.0,Solar Pole Light,True
+112,37.74826,-122.435693,42.0,LED Street Light,False
+113,37.780883,-122.352223,72.0,Solar Pole Light,True
+114,37.750315,-122.443887,96.0,Solar Pole Light,True
+115,37.8129,-122.427045,35.0,LED Street Light,False
+116,37.730837,-122.42701,29.0,High-Pressure Sodium,False
+117,37.717437,-122.471178,81.0,Solar Pole Light,True
+118,37.774639,-122.432372,65.0,Decorative Lamp,True
+119,37.841275,-122.441417,76.0,High-Pressure Sodium,True
+120,37.787794,-122.398238,79.0,Solar Pole Light,True
+121,37.696995,-122.393234,12.0,Decorative Lamp,False
+122,37.723386,-122.345629,14.0,Solar Pole Light,False
+123,37.718686,-122.43306,90.0,Decorative Lamp,True
+124,37.708556,-122.3399,90.0,LED Street Light,True
+125,37.775251,-122.404138,75.0,Decorative Lamp,True
+126,37.705632,-122.379406,88.0,LED Street Light,True
+127,37.728485,-122.355711,71.0,High-Pressure Sodium,True
+128,37.727722,-122.46889,90.0,LED Street Light,True
+129,37.700748,-122.423869,84.0,Solar Pole Light,True
+130,37.785275,-122.488887,20.0,LED Street Light,False
+131,37.818984,-122.426874,72.0,High-Pressure Sodium,True
+132,37.778802,-122.428878,87.0,Solar Pole Light,True
+133,37.759022,-122.409858,74.0,High-Pressure Sodium,True
+134,37.719738,-122.470291,26.0,High-Pressure Sodium,False
+135,37.832786,-122.348022,19.0,LED Street Light,False
+136,37.754629,-122.456081,41.0,Decorative Lamp,False
+137,37.79794,-122.434003,93.0,Solar Pole Light,True
+138,37.698962,-122.474416,85.0,High-Pressure Sodium,True
+139,37.809456,-122.393972,95.0,Decorative Lamp,True
+140,37.699235,-122.463884,82.0,LED Street Light,True
+141,37.731872,-122.391897,69.0,Solar Pole Light,True
+142,37.698054,-122.482743,67.0,LED Street Light,True
+143,37.822887,-122.470833,83.0,LED Street Light,True
+144,37.799339,-122.461291,70.0,Decorative Lamp,True
+145,37.710811,-122.460492,100.0,LED Street Light,True
+146,37.810463,-122.362489,77.0,Solar Pole Light,True
+147,37.827735,-122.435851,97.0,High-Pressure Sodium,True
+148,37.801794,-122.466603,93.0,LED Street Light,True
+149,37.741804,-122.355986,86.0,LED Street Light,True
+150,37.69698,-122.485719,76.0,LED Street Light,True
+151,37.728162,-122.495155,38.0,Decorative Lamp,False
+152,37.72393,-122.406113,75.0,Solar Pole Light,True
+153,37.762328,-122.356573,83.0,Decorative Lamp,True
+154,37.825691,-122.444709,86.0,LED Street Light,True
+155,37.736408,-122.438649,86.0,LED Street Light,True
+156,37.789347,-122.45651,100.0,Decorative Lamp,True
+157,37.794764,-122.433894,74.0,Solar Pole Light,True
+158,37.783228,-122.42962,19.0,Solar Pole Light,False
+159,37.742015,-122.347647,90.0,High-Pressure Sodium,True
+160,37.817077,-122.476982,70.0,Solar Pole Light,True
+161,37.833855,-122.421411,86.0,High-Pressure Sodium,True
+162,37.838028,-122.371423,98.0,LED Street Light,True
+163,37.762934,-122.495805,92.0,Solar Pole Light,True
+164,37.737888,-122.412739,29.0,High-Pressure Sodium,False
+165,37.796257,-122.458138,86.0,Decorative Lamp,True
+166,37.717197,-122.365811,18.0,High-Pressure Sodium,False
+167,37.852404,-122.41529,16.0,LED Street Light,False
+168,37.722369,-122.455831,73.0,Decorative Lamp,True
+169,37.697843,-122.353112,21.0,High-Pressure Sodium,False
+170,37.71374,-122.407157,67.0,Decorative Lamp,True
+171,37.738749,-122.410732,80.0,Decorative Lamp,True
+172,37.799127,-122.366641,93.0,High-Pressure Sodium,True
+173,37.727927,-122.497641,84.0,Decorative Lamp,True
+174,37.716802,-122.355397,77.0,Solar Pole Light,True
+175,37.834722,-122.403814,93.0,Decorative Lamp,True
+176,37.790983,-122.392994,89.0,Decorative Lamp,True
+177,37.722959,-122.353094,77.0,High-Pressure Sodium,True
+178,37.761903,-122.438098,68.0,Decorative Lamp,True
+179,37.777927,-122.491885,100.0,LED Street Light,True
+180,37.721505,-122.381315,98.0,LED Street Light,True
+181,37.708148,-122.402896,75.0,Solar Pole Light,True
+182,37.734156,-122.437113,97.0,High-Pressure Sodium,True
+183,37.741091,-122.442492,70.0,High-Pressure Sodium,True
+184,37.809947,-122.451861,87.0,LED Street Light,True
+185,37.785525,-122.423232,90.0,Solar Pole Light,True
+186,37.801087,-122.349507,15.0,Solar Pole Light,False
+187,37.812112,-122.46501,30.0,LED Street Light,False
+188,37.699889,-122.457438,86.0,High-Pressure Sodium,True
+189,37.790112,-122.491172,28.0,Decorative Lamp,False
+190,37.774319,-122.403905,73.0,Decorative Lamp,True
+191,37.748379,-122.376054,65.0,LED Street Light,True
+192,37.711956,-122.487378,23.0,High-Pressure Sodium,False
+193,37.81141,-122.420121,98.0,Decorative Lamp,True
+194,37.805044,-122.429828,28.0,High-Pressure Sodium,False
+195,37.734324,-122.368344,68.0,High-Pressure Sodium,True
+196,37.822807,-122.388249,94.0,LED Street Light,True
+197,37.738443,-122.404963,41.0,LED Street Light,False
+198,37.752656,-122.484747,80.0,High-Pressure Sodium,True
+199,37.84167,-122.477509,65.0,Solar Pole Light,True
+200,37.846938,-122.428039,36.0,High-Pressure Sodium,False
+201,37.724521,-122.412696,70.0,Solar Pole Light,True
+202,37.834571,-122.382244,43.0,LED Street Light,False
+203,37.82395,-122.393995,95.0,LED Street Light,True
+204,37.805664,-122.363529,88.0,Solar Pole Light,True
+205,37.734847,-122.421092,87.0,LED Street Light,True
+206,37.730294,-122.341373,71.0,Solar Pole Light,True
+207,37.845949,-122.493092,32.0,Solar Pole Light,False
+208,37.807792,-122.35136,76.0,Decorative Lamp,True
+209,37.723792,-122.408529,95.0,High-Pressure Sodium,True
+210,37.841378,-122.493969,69.0,Decorative Lamp,True
+211,37.806487,-122.451824,22.0,LED Street Light,False
+212,37.842803,-122.344031,67.0,Solar Pole Light,True
+213,37.845983,-122.423526,97.0,Decorative Lamp,True
+214,37.832827,-122.364272,99.0,Decorative Lamp,True
+215,37.745956,-122.366774,77.0,Solar Pole Light,True
+216,37.700821,-122.403997,68.0,Solar Pole Light,True
+217,37.731701,-122.480109,88.0,Decorative Lamp,True
+218,37.707213,-122.387994,93.0,Decorative Lamp,True
+219,37.74928,-122.383437,76.0,Decorative Lamp,True
+220,37.705357,-122.448954,88.0,Solar Pole Light,True
+221,37.781219,-122.372884,92.0,LED Street Light,True
+222,37.7459,-122.399257,76.0,Solar Pole Light,True
+223,37.836656,-122.400862,70.0,Solar Pole Light,True
+224,37.732174,-122.495496,84.0,Decorative Lamp,True
+225,37.834116,-122.495997,92.0,High-Pressure Sodium,True
+226,37.834852,-122.41477,87.0,Decorative Lamp,True
+227,37.845151,-122.371595,32.0,Decorative Lamp,False
+228,37.854569,-122.443286,68.0,LED Street Light,True
+229,37.81765,-122.435091,90.0,Solar Pole Light,True
+230,37.77168,-122.398999,75.0,LED Street Light,True
+231,37.834688,-122.341947,38.0,LED Street Light,False
+232,37.817824,-122.432557,25.0,Solar Pole Light,False
+233,37.762317,-122.381387,67.0,High-Pressure Sodium,True
+234,37.733104,-122.481724,88.0,Solar Pole Light,True
+235,37.75164,-122.453442,69.0,High-Pressure Sodium,True
+236,37.742309,-122.462023,90.0,Solar Pole Light,True
+237,37.701635,-122.49654,80.0,LED Street Light,True
+238,37.852936,-122.430956,21.0,Decorative Lamp,False
+239,37.756392,-122.390656,100.0,LED Street Light,True
+240,37.729821,-122.347406,81.0,Decorative Lamp,True
+241,37.820715,-122.485094,28.0,Decorative Lamp,False
+242,37.761713,-122.358741,18.0,LED Street Light,False
+243,37.846057,-122.424616,93.0,LED Street Light,True
+244,37.793046,-122.472675,85.0,Solar Pole Light,True
+245,37.853487,-122.462333,100.0,Solar Pole Light,True
+246,37.845737,-122.395457,75.0,High-Pressure Sodium,True
+247,37.792138,-122.41737,97.0,High-Pressure Sodium,True
+248,37.731807,-122.471156,22.0,High-Pressure Sodium,False
+249,37.730178,-122.46957,41.0,LED Street Light,False
+250,37.819634,-122.44338,88.0,Decorative Lamp,True
+251,37.704155,-122.344344,100.0,High-Pressure Sodium,True
+252,37.836306,-122.35096,70.0,LED Street Light,True
+253,37.854085,-122.471577,95.0,Decorative Lamp,True
+254,37.758299,-122.378082,69.0,High-Pressure Sodium,True
+255,37.806263,-122.474777,69.0,Decorative Lamp,True
+256,37.825433,-122.46349,98.0,Solar Pole Light,True
+257,37.730711,-122.413484,45.0,High-Pressure Sodium,False
+258,37.78977,-122.406586,73.0,Decorative Lamp,True
+259,37.709538,-122.359006,68.0,LED Street Light,True
+260,37.737396,-122.478678,84.0,High-Pressure Sodium,True
+261,37.8371,-122.346496,24.0,Solar Pole Light,False
+262,37.83284,-122.369877,98.0,Solar Pole Light,True
+263,37.799739,-122.411263,81.0,High-Pressure Sodium,True
+264,37.708818,-122.434047,100.0,Solar Pole Light,True
+265,37.75453,-122.457839,29.0,LED Street Light,False
+266,37.810647,-122.42006,75.0,High-Pressure Sodium,True
+267,37.707867,-122.464171,31.0,LED Street Light,False
+268,37.804221,-122.487219,66.0,LED Street Light,True
+269,37.831093,-122.420177,26.0,High-Pressure Sodium,False
+270,37.771794,-122.404615,91.0,LED Street Light,True
+271,37.826849,-122.443751,99.0,Solar Pole Light,True
+272,37.803383,-122.408883,84.0,Decorative Lamp,True
+273,37.737625,-122.358819,35.0,Solar Pole Light,False
+274,37.822488,-122.394048,68.0,High-Pressure Sodium,True
+275,37.830993,-122.360633,95.0,Decorative Lamp,True
+276,37.808238,-122.365478,19.0,Solar Pole Light,False
+277,37.806495,-122.390577,85.0,Solar Pole Light,True
+278,37.793878,-122.378965,73.0,Solar Pole Light,True
+279,37.720277,-122.358461,71.0,Solar Pole Light,True
+280,37.834395,-122.49472,17.0,Solar Pole Light,False
+281,37.827031,-122.478781,74.0,LED Street Light,True
+282,37.748519,-122.380439,34.0,Decorative Lamp,False
+283,37.720622,-122.368525,20.0,Solar Pole Light,False
+284,37.828041,-122.418205,85.0,High-Pressure Sodium,True
+285,37.695922,-122.453474,96.0,Decorative Lamp,True
+286,37.793608,-122.34241,84.0,Decorative Lamp,True
+287,37.79599,-122.457831,35.0,Decorative Lamp,False
+288,37.796341,-122.413002,78.0,Solar Pole Light,True
+289,37.819675,-122.482283,28.0,Decorative Lamp,False
+290,37.816664,-122.412797,95.0,Solar Pole Light,True
+291,37.848979,-122.4447,71.0,Decorative Lamp,True
+292,37.79612,-122.350276,26.0,Solar Pole Light,False
+293,37.711302,-122.349443,88.0,LED Street Light,True
+294,37.804962,-122.488546,100.0,High-Pressure Sodium,True
+295,37.743054,-122.386092,83.0,LED Street Light,True
+296,37.705676,-122.406253,93.0,Solar Pole Light,True
+297,37.750241,-122.400054,72.0,High-Pressure Sodium,True
+298,37.702219,-122.359954,90.0,Solar Pole Light,True
+299,37.850658,-122.34438,86.0,Solar Pole Light,True
+300,37.814844,-122.478586,77.0,Decorative Lamp,True
+301,37.816222,-122.495466,67.0,LED Street Light,True
+302,37.69844,-122.447622,31.0,Decorative Lamp,False
+303,37.773083,-122.376135,74.0,High-Pressure Sodium,True
+304,37.804227,-122.428056,85.0,High-Pressure Sodium,True
+305,37.73868,-122.33986,84.0,Solar Pole Light,True
+306,37.763089,-122.427178,97.0,Decorative Lamp,True
+307,37.72108,-122.37223,84.0,Decorative Lamp,True
+308,37.805889,-122.464077,88.0,Solar Pole Light,True
+309,37.708081,-122.39052,91.0,Solar Pole Light,True
+310,37.799622,-122.455678,66.0,Decorative Lamp,True
+311,37.847038,-122.475231,79.0,LED Street Light,True
+312,37.764074,-122.348421,75.0,Decorative Lamp,True
+313,37.762056,-122.397236,25.0,LED Street Light,False
+314,37.758515,-122.455526,72.0,High-Pressure Sodium,True
+315,37.852336,-122.433907,30.0,Decorative Lamp,False
+316,37.837956,-122.462607,23.0,Decorative Lamp,False
+317,37.728997,-122.494419,95.0,LED Street Light,True
+318,37.799167,-122.440436,98.0,High-Pressure Sodium,True
+319,37.833197,-122.423686,95.0,Decorative Lamp,True
+320,37.849811,-122.469716,76.0,Decorative Lamp,True
+321,37.83388,-122.375145,86.0,Solar Pole Light,True
+322,37.818247,-122.364235,81.0,Decorative Lamp,True
+323,37.816664,-122.399205,25.0,Solar Pole Light,False
+324,37.715899,-122.494196,79.0,Solar Pole Light,True
+325,37.842236,-122.400736,78.0,Decorative Lamp,True
+326,37.822346,-122.422356,87.0,Solar Pole Light,True
+327,37.713669,-122.47937,99.0,Decorative Lamp,True
+328,37.80459,-122.430551,90.0,Solar Pole Light,True
+329,37.726984,-122.420745,74.0,Solar Pole Light,True
+330,37.705173,-122.406285,15.0,Solar Pole Light,False
+331,37.737939,-122.371791,81.0,Decorative Lamp,True
+332,37.744558,-122.426565,44.0,Solar Pole Light,False
+333,37.696759,-122.487808,82.0,High-Pressure Sodium,True
+334,37.757699,-122.42261,25.0,High-Pressure Sodium,False
+335,37.790903,-122.452734,43.0,High-Pressure Sodium,False
+336,37.806097,-122.36178,68.0,LED Street Light,True
+337,37.819676,-122.493061,95.0,LED Street Light,True
+338,37.771781,-122.482611,73.0,LED Street Light,True
+339,37.733627,-122.341534,75.0,Decorative Lamp,True
+340,37.717699,-122.419578,95.0,Decorative Lamp,True
+341,37.793805,-122.387006,83.0,Solar Pole Light,True
+342,37.784444,-122.497837,68.0,LED Street Light,True
+343,37.747134,-122.416566,79.0,LED Street Light,True
+344,37.708959,-122.4433,76.0,Decorative Lamp,True
+345,37.700212,-122.486827,76.0,LED Street Light,True
+346,37.758408,-122.478165,90.0,Decorative Lamp,True
+347,37.785707,-122.389086,28.0,LED Street Light,False
+348,37.822994,-122.467376,16.0,Solar Pole Light,False
+349,37.721697,-122.482669,99.0,Decorative Lamp,True
+350,37.796729,-122.386364,73.0,Decorative Lamp,True
+351,37.699954,-122.349606,72.0,Solar Pole Light,True
+352,37.703215,-122.412793,39.0,Solar Pole Light,False
+353,37.80835,-122.360045,65.0,Solar Pole Light,True
+354,37.809154,-122.371124,77.0,High-Pressure Sodium,True
+355,37.749212,-122.369028,90.0,Decorative Lamp,True
+356,37.707718,-122.356229,70.0,Decorative Lamp,True
+357,37.782515,-122.368632,76.0,High-Pressure Sodium,True
+358,37.767271,-122.396428,80.0,LED Street Light,True
+359,37.779124,-122.382346,80.0,Decorative Lamp,True
+360,37.707961,-122.489744,86.0,Solar Pole Light,True
+361,37.734437,-122.473873,65.0,Solar Pole Light,True
+362,37.834385,-122.464326,80.0,LED Street Light,True
+363,37.851038,-122.445497,94.0,Solar Pole Light,True
+364,37.724039,-122.373048,42.0,Solar Pole Light,False
+365,37.800293,-122.419689,83.0,Solar Pole Light,True
+366,37.783758,-122.384328,79.0,High-Pressure Sodium,True
+367,37.731453,-122.339987,94.0,Solar Pole Light,True
+368,37.850867,-122.395348,100.0,Decorative Lamp,True
+369,37.726827,-122.390563,78.0,High-Pressure Sodium,True
+370,37.706452,-122.494496,70.0,Decorative Lamp,True
+371,37.736129,-122.42538,88.0,LED Street Light,True
+372,37.833824,-122.383053,72.0,LED Street Light,True
+373,37.813733,-122.431321,97.0,High-Pressure Sodium,True
+374,37.75025,-122.440034,74.0,High-Pressure Sodium,True
+375,37.852924,-122.492983,98.0,Decorative Lamp,True
+376,37.833625,-122.406812,23.0,Decorative Lamp,False
+377,37.765078,-122.383359,42.0,Decorative Lamp,False
+378,37.772767,-122.359652,94.0,High-Pressure Sodium,True
+379,37.839012,-122.431925,94.0,LED Street Light,True
+380,37.739192,-122.404624,84.0,LED Street Light,True
+381,37.840878,-122.465694,65.0,High-Pressure Sodium,True
+382,37.794575,-122.39835,67.0,Decorative Lamp,True
+383,37.812198,-122.478349,69.0,LED Street Light,True
+384,37.809432,-122.353955,69.0,Decorative Lamp,True
+385,37.723649,-122.461393,36.0,High-Pressure Sodium,False
+386,37.850323,-122.470444,91.0,Solar Pole Light,True
+387,37.831602,-122.420636,89.0,Decorative Lamp,True
+388,37.734457,-122.36008,89.0,Decorative Lamp,True
+389,37.766149,-122.417029,44.0,High-Pressure Sodium,False
+390,37.752377,-122.404528,87.0,LED Street Light,True
+391,37.721064,-122.436827,44.0,Decorative Lamp,False
+392,37.850006,-122.458099,79.0,LED Street Light,True
+393,37.799978,-122.44737,84.0,Decorative Lamp,True
+394,37.818656,-122.47846,99.0,Decorative Lamp,True
+395,37.850071,-122.426794,79.0,High-Pressure Sodium,True
+396,37.732668,-122.487641,74.0,Solar Pole Light,True
+397,37.722061,-122.416236,17.0,LED Street Light,False
+398,37.748821,-122.366779,91.0,LED Street Light,True
+399,37.763842,-122.459606,14.0,LED Street Light,False
+400,37.793643,-122.386316,93.0,LED Street Light,True
+401,37.721627,-122.472581,12.0,Decorative Lamp,False
+402,37.700767,-122.381576,99.0,High-Pressure Sodium,True
+403,37.801109,-122.423459,68.0,High-Pressure Sodium,True
+404,37.829967,-122.370493,83.0,High-Pressure Sodium,True
+405,37.788557,-122.360477,85.0,Solar Pole Light,True
+406,37.727835,-122.481493,19.0,High-Pressure Sodium,False
+407,37.73806,-122.490266,82.0,LED Street Light,True
+408,37.779887,-122.349543,76.0,Decorative Lamp,True
+409,37.701195,-122.479862,68.0,Solar Pole Light,True
+410,37.767252,-122.34998,89.0,Solar Pole Light,True
+411,37.745485,-122.418242,91.0,High-Pressure Sodium,True
+412,37.701552,-122.475665,76.0,Decorative Lamp,True
+413,37.852761,-122.344981,24.0,Solar Pole Light,False
+414,37.69569,-122.34711,74.0,Decorative Lamp,True
+415,37.797159,-122.360533,100.0,Decorative Lamp,True
+416,37.767658,-122.416905,100.0,High-Pressure Sodium,True
+417,37.773115,-122.392702,81.0,High-Pressure Sodium,True
+418,37.717244,-122.494604,70.0,Decorative Lamp,True
+419,37.744169,-122.386651,70.0,High-Pressure Sodium,True
+420,37.727197,-122.391651,34.0,LED Street Light,False
+421,37.850086,-122.484376,77.0,High-Pressure Sodium,True
+422,37.802516,-122.4284,86.0,Solar Pole Light,True
+423,37.833803,-122.471056,65.0,High-Pressure Sodium,True
+424,37.80572,-122.365302,72.0,Decorative Lamp,True
+425,37.846038,-122.39008,78.0,Decorative Lamp,True
+426,37.774448,-122.400544,100.0,Solar Pole Light,True
+427,37.833925,-122.408102,89.0,Decorative Lamp,True
+428,37.699762,-122.350448,87.0,Solar Pole Light,True
+429,37.805224,-122.391158,97.0,Decorative Lamp,True
+430,37.729408,-122.393978,95.0,Solar Pole Light,True
+431,37.757918,-122.395203,88.0,Solar Pole Light,True
+432,37.711955,-122.394145,79.0,High-Pressure Sodium,True
+433,37.854806,-122.491686,45.0,Decorative Lamp,False
+434,37.851248,-122.434295,77.0,Solar Pole Light,True
+435,37.834221,-122.374218,25.0,Decorative Lamp,False
+436,37.785623,-122.381248,86.0,Solar Pole Light,True
+437,37.835462,-122.434738,96.0,Decorative Lamp,True
+438,37.747225,-122.392585,87.0,High-Pressure Sodium,True
+439,37.824155,-122.377434,44.0,Decorative Lamp,False
+440,37.82255,-122.429707,44.0,LED Street Light,False
+441,37.825753,-122.480167,69.0,LED Street Light,True
+442,37.782018,-122.498479,91.0,High-Pressure Sodium,True
+443,37.746834,-122.440766,79.0,LED Street Light,True
+444,37.758288,-122.388125,65.0,High-Pressure Sodium,True
+445,37.757069,-122.427609,88.0,LED Street Light,True
+446,37.732907,-122.43968,95.0,Decorative Lamp,True
+447,37.731263,-122.487689,44.0,Decorative Lamp,False
+448,37.791452,-122.392486,43.0,Solar Pole Light,False
+449,37.794018,-122.425241,83.0,LED Street Light,True
+450,37.755666,-122.361267,92.0,High-Pressure Sodium,True
+451,37.777953,-122.422731,16.0,High-Pressure Sodium,False
+452,37.699003,-122.4448,43.0,Solar Pole Light,False
+453,37.755731,-122.435588,82.0,Decorative Lamp,True
+454,37.787728,-122.414024,35.0,Decorative Lamp,False
+455,37.792165,-122.377019,79.0,Solar Pole Light,True
+456,37.824978,-122.3845,70.0,LED Street Light,True
+457,37.847784,-122.496483,34.0,Decorative Lamp,False
+458,37.726224,-122.49819,68.0,LED Street Light,True
+459,37.798496,-122.355715,70.0,Decorative Lamp,True
+460,37.733857,-122.351074,86.0,LED Street Light,True
+461,37.704543,-122.34989,67.0,High-Pressure Sodium,True
+462,37.75116,-122.483173,40.0,Solar Pole Light,False
+463,37.772639,-122.458316,14.0,Solar Pole Light,False
+464,37.74048,-122.450234,67.0,High-Pressure Sodium,True
+465,37.823384,-122.413134,85.0,LED Street Light,True
+466,37.744709,-122.401747,74.0,Decorative Lamp,True
+467,37.809484,-122.45578,84.0,High-Pressure Sodium,True
+468,37.761068,-122.479898,89.0,Solar Pole Light,True
+469,37.723884,-122.390421,73.0,LED Street Light,True
+470,37.72393,-122.415374,87.0,LED Street Light,True
+471,37.808347,-122.4823,24.0,LED Street Light,False
+472,37.78567,-122.45835,90.0,Solar Pole Light,True
+473,37.848968,-122.422033,27.0,Decorative Lamp,False
+474,37.823859,-122.411364,87.0,Decorative Lamp,True
+475,37.701846,-122.398096,89.0,LED Street Light,True
+476,37.847125,-122.403142,83.0,High-Pressure Sodium,True
+477,37.82597,-122.357927,70.0,Solar Pole Light,True
+478,37.731393,-122.465473,19.0,Decorative Lamp,False
+479,37.792657,-122.433635,71.0,LED Street Light,True
+480,37.829278,-122.355396,29.0,Decorative Lamp,False
+481,37.751447,-122.461501,82.0,LED Street Light,True
+482,37.819784,-122.455431,21.0,Decorative Lamp,False
+483,37.826518,-122.431602,100.0,Decorative Lamp,True
+484,37.801708,-122.484114,15.0,Solar Pole Light,False
+485,37.794717,-122.427117,85.0,Decorative Lamp,True
+486,37.788757,-122.472518,36.0,Decorative Lamp,False
+487,37.8128,-122.361352,100.0,High-Pressure Sodium,True
+488,37.729578,-122.484086,75.0,Decorative Lamp,True
+489,37.698682,-122.396685,27.0,Solar Pole Light,False
+490,37.792035,-122.411928,74.0,LED Street Light,True
+491,37.732012,-122.436855,27.0,Decorative Lamp,False
+492,37.790016,-122.419917,69.0,Solar Pole Light,True
+493,37.852946,-122.47757,80.0,Decorative Lamp,True
+494,37.806123,-122.434709,77.0,Decorative Lamp,True
+495,37.763412,-122.384584,29.0,LED Street Light,False
+496,37.80569,-122.340799,86.0,Decorative Lamp,True
+497,37.715443,-122.482742,86.0,Decorative Lamp,True
+498,37.810794,-122.406858,73.0,Solar Pole Light,True
+499,37.738766,-122.486693,77.0,Decorative Lamp,True
+500,37.708605,-122.356329,90.0,Solar Pole Light,True

@@ -1,0 +1,51 @@
+{
+  "model_type": "RandomForestRegressor",
+  "n_estimators": 150,
+  "metrics": {
+    "mae": 3.1895419816726545,
+    "rmse": 4.033623731420904,
+    "r2": 0.8611852080600887
+  },
+  "feature_names": [
+    "crime_incident_count",
+    "crime_density",
+    "weighted_crime_severity",
+    "min_dist_recent_crime_m",
+    "lighting_score_avg",
+    "dark_segment_pct",
+    "crowd_density_avg",
+    "isolated_segment_pct",
+    "temp_celsius",
+    "visibility_km",
+    "precipitation_mm",
+    "weather_severity",
+    "hour_of_day",
+    "is_weekend",
+    "is_night",
+    "is_peak_hour",
+    "user_report_count",
+    "weighted_user_reports",
+    "report_density"
+  ],
+  "feature_importances": {
+    "crime_incident_count": 0.0039329115384146435,
+    "crime_density": 0.007020099237965135,
+    "weighted_crime_severity": 0.6394186825049907,
+    "min_dist_recent_crime_m": 0.009252085516919313,
+    "lighting_score_avg": 0.09820207036801724,
+    "dark_segment_pct": 0.006882322141133854,
+    "crowd_density_avg": 0.12744555363032334,
+    "isolated_segment_pct": 0.007081054828391571,
+    "temp_celsius": 0.007036097807376653,
+    "visibility_km": 0.008511186474020003,
+    "precipitation_mm": 0.00913551254453239,
+    "weather_severity": 0.018177604883177254,
+    "hour_of_day": 0.005648433373793567,
+    "is_weekend": 0.0008505346013617843,
+    "is_night": 0.001173340969643695,
+    "is_peak_hour": 0.0008327073081971857,
+    "user_report_count": 0.002651165701162938,
+    "weighted_user_reports": 0.03839575727059947,
+    "report_density": 0.008352879299979216
+  }
+}

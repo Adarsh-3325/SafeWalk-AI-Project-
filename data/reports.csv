@@ -1,0 +1,101 @@
+id,category,severity,description,latitude,longitude,user_id,status,created_at
+1,Accident,3,Community report: Accident near street segment,37.736773,-122.459883,,ACTIVE,2026-08-08T18:28:37.936501
+2,Accident,2,Community report: Accident near street segment,37.839901,-122.459473,,ACTIVE,2026-08-06T18:28:37.936569
+3,Theft,2,Community report: Theft near street segment,37.738412,-122.377896,,ACTIVE,2026-08-15T18:28:37.936596
+4,Poor Lighting,4,Community report: Poor Lighting near street segment,37.766858,-122.375126,,ACTIVE,2026-08-17T18:28:37.936621
+5,Harassment,5,Community report: Harassment near street segment,37.705359,-122.421389,,ACTIVE,2026-08-12T18:28:37.936647
+6,Unsafe Area,1,Community report: Unsafe Area near street segment,37.700278,-122.489375,,ACTIVE,2026-08-12T18:28:37.936670
+7,Poor Lighting,4,Community report: Poor Lighting near street segment,37.83993,-122.477121,,ACTIVE,2026-08-04T18:28:37.936693
+8,Unsafe Area,3,Community report: Unsafe Area near street segment,37.780087,-122.433625,,ACTIVE,2026-08-16T18:28:37.936715
+9,Harassment,5,Community report: Harassment near street segment,37.750475,-122.355427,,ACTIVE,2026-08-14T18:28:37.936752
+10,Accident,4,Community report: Accident near street segment,37.698392,-122.393194,,ACTIVE,2026-08-17T18:28:37.936775
+11,Harassment,3,Community report: Harassment near street segment,37.849043,-122.409773,,ACTIVE,2026-08-16T18:28:37.936816
+12,Poor Lighting,2,Community report: Poor Lighting near street segment,37.844792,-122.491039,,ACTIVE,2026-08-03T18:28:37.936843
+13,Road Block,5,Community report: Road Block near street segment,37.761907,-122.457775,,ACTIVE,2026-08-11T18:28:37.936869
+14,Unsafe Area,3,Community report: Unsafe Area near street segment,37.811831,-122.342392,,ACTIVE,2026-08-10T18:28:37.936893
+15,Unsafe Area,1,Community report: Unsafe Area near street segment,37.735945,-122.394732,,ACTIVE,2026-08-08T18:28:37.936918
+16,Poor Lighting,5,Community report: Poor Lighting near street segment,37.726596,-122.408947,,ACTIVE,2026-08-15T18:28:37.936943
+17,Unsafe Area,4,Community report: Unsafe Area near street segment,37.769129,-122.343879,,ACTIVE,2026-08-16T18:28:37.936979
+18,Theft,5,Community report: Theft near street segment,37.792264,-122.443479,,ACTIVE,2026-08-17T18:28:37.936999
+19,Accident,2,Community report: Accident near street segment,37.713155,-122.475201,,ACTIVE,2026-08-14T18:28:37.937033
+20,Suspicious Activity,3,Community report: Suspicious Activity near street segment,37.730951,-122.459245,,ACTIVE,2026-08-04T18:28:37.937056
+21,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.830999,-122.409604,,ACTIVE,2026-08-06T18:28:37.937110
+22,Road Block,3,Community report: Road Block near street segment,37.778643,-122.481037,,ACTIVE,2026-08-12T18:28:37.937134
+23,Accident,3,Community report: Accident near street segment,37.832522,-122.38375,,ACTIVE,2026-08-14T18:28:37.937157
+24,Poor Lighting,2,Community report: Poor Lighting near street segment,37.705727,-122.386146,,ACTIVE,2026-08-15T18:28:37.937180
+25,Road Block,5,Community report: Road Block near street segment,37.781866,-122.486324,,ACTIVE,2026-08-16T18:28:37.937204
+26,Harassment,1,Community report: Harassment near street segment,37.768228,-122.421849,,ACTIVE,2026-08-15T18:28:37.937227
+27,Accident,4,Community report: Accident near street segment,37.721424,-122.348088,,ACTIVE,2026-08-12T18:28:37.937263
+28,Accident,1,Community report: Accident near street segment,37.830896,-122.392356,,ACTIVE,2026-08-09T18:28:37.937286
+29,Suspicious Activity,2,Community report: Suspicious Activity near street segment,37.768867,-122.433518,,ACTIVE,2026-08-10T18:28:37.937307
+30,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.799056,-122.412131,,ACTIVE,2026-08-13T18:28:37.937327
+31,Road Block,1,Community report: Road Block near street segment,37.704864,-122.4174,,ACTIVE,2026-08-16T18:28:37.937348
+32,Harassment,3,Community report: Harassment near street segment,37.823925,-122.425922,,ACTIVE,2026-08-04T18:28:37.937369
+33,Unsafe Area,5,Community report: Unsafe Area near street segment,37.703213,-122.373595,,ACTIVE,2026-08-17T18:28:37.937390
+34,Harassment,3,Community report: Harassment near street segment,37.727118,-122.458021,,ACTIVE,2026-08-15T18:28:37.937411
+35,Poor Lighting,2,Community report: Poor Lighting near street segment,37.721253,-122.446566,,ACTIVE,2026-08-12T18:28:37.937432
+36,Accident,5,Community report: Accident near street segment,37.81598,-122.416298,,ACTIVE,2026-08-17T18:28:37.937452
+37,Unsafe Area,3,Community report: Unsafe Area near street segment,37.727681,-122.358947,,ACTIVE,2026-08-13T18:28:37.937472
+38,Road Block,2,Community report: Road Block near street segment,37.835633,-122.360107,,ACTIVE,2026-08-17T18:28:37.937492
+39,Accident,4,Community report: Accident near street segment,37.733107,-122.427202,,ACTIVE,2026-08-09T18:28:37.937536
+40,Unsafe Area,5,Community report: Unsafe Area near street segment,37.852498,-122.375878,,ACTIVE,2026-08-14T18:28:37.937582
+41,Poor Lighting,4,Community report: Poor Lighting near street segment,37.699247,-122.488967,,ACTIVE,2026-08-16T18:28:37.937617
+42,Road Block,2,Community report: Road Block near street segment,37.769129,-122.353925,,ACTIVE,2026-08-16T18:28:37.937637
+43,Poor Lighting,1,Community report: Poor Lighting near street segment,37.781092,-122.41975,,ACTIVE,2026-08-04T18:28:37.937657
+44,Road Block,2,Community report: Road Block near street segment,37.711776,-122.394315,,ACTIVE,2026-08-15T18:28:37.937678
+45,Harassment,4,Community report: Harassment near street segment,37.826437,-122.438533,,ACTIVE,2026-08-12T18:28:37.937699
+46,Unsafe Area,1,Community report: Unsafe Area near street segment,37.818998,-122.345084,,ACTIVE,2026-08-08T18:28:37.937721
+47,Theft,3,Community report: Theft near street segment,37.727503,-122.415667,,ACTIVE,2026-08-03T18:28:37.937742
+48,Road Block,1,Community report: Road Block near street segment,37.740842,-122.372543,,ACTIVE,2026-08-17T18:28:37.937763
+49,Poor Lighting,2,Community report: Poor Lighting near street segment,37.787315,-122.397867,,ACTIVE,2026-08-03T18:28:37.937785
+50,Unsafe Area,4,Community report: Unsafe Area near street segment,37.822566,-122.436045,,ACTIVE,2026-08-05T18:28:37.937807
+51,Harassment,1,Community report: Harassment near street segment,37.841314,-122.414115,,ACTIVE,2026-08-03T18:28:37.937828
+52,Road Block,3,Community report: Road Block near street segment,37.720173,-122.388056,,ACTIVE,2026-08-16T18:28:37.937848
+53,Poor Lighting,4,Community report: Poor Lighting near street segment,37.821822,-122.448718,,ACTIVE,2026-08-17T18:28:37.937869
+54,Harassment,5,Community report: Harassment near street segment,37.832049,-122.354417,,ACTIVE,2026-08-11T18:28:37.937890
+55,Road Block,4,Community report: Road Block near street segment,37.739205,-122.342037,,ACTIVE,2026-08-10T18:28:37.937911
+56,Poor Lighting,4,Community report: Poor Lighting near street segment,37.717414,-122.467077,,ACTIVE,2026-08-07T18:28:37.937933
+57,Accident,2,Community report: Accident near street segment,37.724376,-122.356362,,ACTIVE,2026-08-12T18:28:37.937950
+58,Harassment,2,Community report: Harassment near street segment,37.799587,-122.475063,,ACTIVE,2026-08-13T18:28:37.937963
+59,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.765352,-122.400952,,ACTIVE,2026-08-03T18:28:37.937976
+60,Harassment,1,Community report: Harassment near street segment,37.708254,-122.358213,,ACTIVE,2026-08-08T18:28:37.937988
+61,Theft,5,Community report: Theft near street segment,37.823477,-122.418567,,ACTIVE,2026-08-14T18:28:37.938000
+62,Unsafe Area,3,Community report: Unsafe Area near street segment,37.84964,-122.432558,,ACTIVE,2026-08-10T18:28:37.938012
+63,Accident,5,Community report: Accident near street segment,37.852358,-122.392533,,ACTIVE,2026-08-10T18:28:37.938024
+64,Poor Lighting,1,Community report: Poor Lighting near street segment,37.796447,-122.472847,,ACTIVE,2026-08-13T18:28:37.938036
+65,Accident,2,Community report: Accident near street segment,37.836008,-122.431002,,ACTIVE,2026-08-11T18:28:37.938048
+66,Harassment,5,Community report: Harassment near street segment,37.720857,-122.497383,,ACTIVE,2026-08-14T18:28:37.938061
+67,Unsafe Area,5,Community report: Unsafe Area near street segment,37.784461,-122.415016,,ACTIVE,2026-08-05T18:28:37.938073
+68,Poor Lighting,4,Community report: Poor Lighting near street segment,37.809997,-122.356959,,ACTIVE,2026-08-05T18:28:37.938085
+69,Unsafe Area,3,Community report: Unsafe Area near street segment,37.707605,-122.382361,,ACTIVE,2026-08-10T18:28:37.938097
+70,Theft,4,Community report: Theft near street segment,37.724886,-122.362092,,ACTIVE,2026-08-12T18:28:37.938109
+71,Theft,5,Community report: Theft near street segment,37.82595,-122.412873,,ACTIVE,2026-08-12T18:28:37.938121
+72,Accident,3,Community report: Accident near street segment,37.808539,-122.449104,,ACTIVE,2026-08-15T18:28:37.938147
+73,Poor Lighting,3,Community report: Poor Lighting near street segment,37.770287,-122.367938,,ACTIVE,2026-08-08T18:28:37.938201
+74,Harassment,1,Community report: Harassment near street segment,37.768382,-122.442152,,ACTIVE,2026-08-03T18:28:37.938213
+75,Road Block,3,Community report: Road Block near street segment,37.773974,-122.36688,,ACTIVE,2026-08-17T18:28:37.938225
+76,Road Block,4,Community report: Road Block near street segment,37.748533,-122.471598,,ACTIVE,2026-08-09T18:28:37.938237
+77,Suspicious Activity,5,Community report: Suspicious Activity near street segment,37.808822,-122.367243,,ACTIVE,2026-08-14T18:28:37.938249
+78,Harassment,1,Community report: Harassment near street segment,37.711002,-122.46102,,ACTIVE,2026-08-14T18:28:37.938267
+79,Unsafe Area,2,Community report: Unsafe Area near street segment,37.717616,-122.443729,,ACTIVE,2026-08-13T18:28:37.938279
+80,Theft,1,Community report: Theft near street segment,37.766956,-122.379588,,ACTIVE,2026-08-05T18:28:37.938291
+81,Harassment,5,Community report: Harassment near street segment,37.799084,-122.400051,,ACTIVE,2026-08-04T18:28:37.938303
+82,Road Block,4,Community report: Road Block near street segment,37.75128,-122.364768,,ACTIVE,2026-08-12T18:28:37.938315
+83,Road Block,2,Community report: Road Block near street segment,37.770306,-122.342743,,ACTIVE,2026-08-15T18:28:37.938327
+84,Harassment,5,Community report: Harassment near street segment,37.796363,-122.479198,,ACTIVE,2026-08-12T18:28:37.938339
+85,Road Block,3,Community report: Road Block near street segment,37.803088,-122.447383,,ACTIVE,2026-08-03T18:28:37.938350
+86,Theft,1,Community report: Theft near street segment,37.804712,-122.488257,,ACTIVE,2026-08-06T18:28:37.938362
+87,Unsafe Area,3,Community report: Unsafe Area near street segment,37.722881,-122.362482,,ACTIVE,2026-08-08T18:28:37.938374
+88,Theft,2,Community report: Theft near street segment,37.731249,-122.365473,,ACTIVE,2026-08-08T18:28:37.938386
+89,Harassment,4,Community report: Harassment near street segment,37.739584,-122.396539,,ACTIVE,2026-08-09T18:28:37.938398
+90,Suspicious Activity,2,Community report: Suspicious Activity near street segment,37.805964,-122.417375,,ACTIVE,2026-08-10T18:28:37.938410
+91,Poor Lighting,1,Community report: Poor Lighting near street segment,37.74375,-122.465377,,ACTIVE,2026-08-17T18:28:37.938421
+92,Harassment,5,Community report: Harassment near street segment,37.70021,-122.450769,,ACTIVE,2026-08-14T18:28:37.938433
+93,Poor Lighting,5,Community report: Poor Lighting near street segment,37.799406,-122.349271,,ACTIVE,2026-08-10T18:28:37.938460
+94,Poor Lighting,3,Community report: Poor Lighting near street segment,37.834293,-122.37683,,ACTIVE,2026-08-03T18:28:37.938475
+95,Theft,2,Community report: Theft near street segment,37.821052,-122.393002,,ACTIVE,2026-08-05T18:28:37.938487
+96,Harassment,3,Community report: Harassment near street segment,37.736546,-122.354249,,ACTIVE,2026-08-06T18:28:37.938499
+97,Harassment,3,Community report: Harassment near street segment,37.802217,-122.409729,,ACTIVE,2026-08-17T18:28:37.938511
+98,Poor Lighting,2,Community report: Poor Lighting near street segment,37.712658,-122.427871,,ACTIVE,2026-08-08T18:28:37.938523
+99,Unsafe Area,2,Community report: Unsafe Area near street segment,37.768557,-122.36107,,ACTIVE,2026-08-05T18:28:37.938535
+100,Poor Lighting,5,Community report: Poor Lighting near street segment,37.782364,-122.438536,,ACTIVE,2026-08-04T18:28:37.938547

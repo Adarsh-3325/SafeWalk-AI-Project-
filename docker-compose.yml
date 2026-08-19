@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: safewalk_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: safewalk_db
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+  backend:
+    build: .
+    container_name: safewalk_backend
+    command: uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=mysql+pymysql://root:root@db:3306/safewalk_db
+      - USE_MOCK_DATA=true
+    depends_on:
+      - db
+
+  frontend:
+    build: .
+    container_name: safewalk_frontend
+    command: streamlit run frontend/streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+    volumes:
+      - .:/app
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_URL=http://backend:8000
+    depends_on:
+      - backend
+
+volumes:
+  mysql_data:
