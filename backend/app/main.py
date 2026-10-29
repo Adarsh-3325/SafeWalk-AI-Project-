@@ -20,7 +20,7 @@ from backend.app.api.reports import router as reports_router
 setup_logging()
 
 app = FastAPI(
-    title=settings.APP_NAME,
+    title="SafeWalk A Safety-Aware Route Recommendation",
     description="AI-Powered Machine Learning Safety-Aware Urban Route Recommendation API",
     version="1.0.0",
     docs_url="/docs",

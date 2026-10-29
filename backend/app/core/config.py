@@ -5,14 +5,14 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Settings(BaseSettings):
-    APP_NAME: str = "SafeWalk-AI"
+    APP_NAME: str = "SafeWalk AI"
     ENVIRONMENT: str = "development"
     LOG_LEVEL: str = "INFO"
     
     # API Keys & Mock Mode
     GOOGLE_MAPS_API_KEY: str = ""
     OPENWEATHER_API_KEY: str = ""
-    USE_MOCK_DATA: bool = True
+    USE_MOCK_DATA: bool = False
     
     # Database
     DATABASE_URL: str = "sqlite:///./safewalk.db"
@@ -34,7 +34,19 @@ class Settings(BaseSettings):
     SAFETY_WEIGHT: float = 0.70
     TIME_WEIGHT: float = 0.20
     DISTANCE_WEIGHT: float = 0.10
-    
+
+    @property
+    def clean_google_maps_api_key(self) -> str:
+        return self.GOOGLE_MAPS_API_KEY.strip().strip('"').strip("'")
+
+    @property
+    def clean_openweather_api_key(self) -> str:
+        return self.OPENWEATHER_API_KEY.strip().strip('"').strip("'")
+
+    @property
+    def clean_app_name(self) -> str:
+        return self.APP_NAME.strip().strip('"').strip("'")
+
     class Config:
         env_file = ".env"
         extra = "ignore"

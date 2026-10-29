@@ -1,501 +1,1001 @@
 id,latitude,longitude,lighting_score,light_type,is_functional
-1,37.72193,-122.454826,89.0,Solar Pole Light,True
-2,37.723222,-122.485208,96.0,LED Street Light,True
-3,37.714202,-122.425675,80.0,Solar Pole Light,True
-4,37.727913,-122.441117,70.0,Decorative Lamp,True
-5,37.775447,-122.388937,71.0,Decorative Lamp,True
-6,37.70119,-122.371494,29.0,LED Street Light,False
-7,37.795364,-122.486319,13.0,Solar Pole Light,False
-8,37.834673,-122.35206,92.0,High-Pressure Sodium,True
-9,37.704672,-122.4551,36.0,High-Pressure Sodium,False
-10,37.823892,-122.379678,15.0,Decorative Lamp,False
-11,37.724423,-122.465904,80.0,Decorative Lamp,True
-12,37.754176,-122.421876,74.0,High-Pressure Sodium,True
-13,37.793821,-122.440374,81.0,Decorative Lamp,True
-14,37.768906,-122.379805,65.0,Decorative Lamp,True
-15,37.700769,-122.45901,99.0,High-Pressure Sodium,True
-16,37.809036,-122.356167,32.0,Solar Pole Light,False
-17,37.776768,-122.414262,92.0,Solar Pole Light,True
-18,37.712048,-122.427814,84.0,High-Pressure Sodium,True
-19,37.780119,-122.460605,95.0,LED Street Light,True
-20,37.737979,-122.439035,32.0,Solar Pole Light,False
-21,37.698111,-122.447867,83.0,LED Street Light,True
-22,37.728732,-122.447,90.0,Solar Pole Light,True
-23,37.714062,-122.356916,13.0,Decorative Lamp,False
-24,37.789875,-122.390744,83.0,High-Pressure Sodium,True
-25,37.821167,-122.419649,87.0,High-Pressure Sodium,True
-26,37.708807,-122.413463,81.0,High-Pressure Sodium,True
-27,37.788795,-122.38013,67.0,Solar Pole Light,True
-28,37.763966,-122.478987,67.0,Solar Pole Light,True
-29,37.740304,-122.441307,70.0,Solar Pole Light,True
-30,37.798247,-122.408075,91.0,High-Pressure Sodium,True
-31,37.751875,-122.341558,44.0,Solar Pole Light,False
-32,37.791824,-122.461444,82.0,High-Pressure Sodium,True
-33,37.711185,-122.474943,95.0,Solar Pole Light,True
-34,37.734253,-122.473691,86.0,LED Street Light,True
-35,37.724751,-122.453785,69.0,High-Pressure Sodium,True
-36,37.72264,-122.355918,79.0,Decorative Lamp,True
-37,37.707737,-122.415478,100.0,Solar Pole Light,True
-38,37.760563,-122.342219,35.0,LED Street Light,False
-39,37.712826,-122.435743,72.0,Decorative Lamp,True
-40,37.850015,-122.360919,81.0,Decorative Lamp,True
-41,37.825632,-122.458136,88.0,LED Street Light,True
-42,37.722242,-122.392417,95.0,LED Street Light,True
-43,37.8436,-122.410318,100.0,Solar Pole Light,True
-44,37.786358,-122.454603,79.0,LED Street Light,True
-45,37.818019,-122.469473,94.0,Solar Pole Light,True
-46,37.746689,-122.43133,72.0,High-Pressure Sodium,True
-47,37.776118,-122.460614,12.0,Solar Pole Light,False
-48,37.713274,-122.401701,72.0,LED Street Light,True
-49,37.741081,-122.406402,44.0,High-Pressure Sodium,False
-50,37.719598,-122.422418,88.0,Decorative Lamp,True
-51,37.780114,-122.491108,74.0,Decorative Lamp,True
-52,37.748757,-122.477894,96.0,Decorative Lamp,True
-53,37.70504,-122.341006,82.0,LED Street Light,True
-54,37.746477,-122.36982,78.0,Decorative Lamp,True
-55,37.735643,-122.39036,80.0,Solar Pole Light,True
-56,37.816536,-122.404098,33.0,Solar Pole Light,False
-57,37.770352,-122.433505,27.0,High-Pressure Sodium,False
-58,37.750719,-122.350675,94.0,LED Street Light,True
-59,37.827799,-122.344996,66.0,LED Street Light,True
-60,37.714788,-122.382461,80.0,High-Pressure Sodium,True
-61,37.845034,-122.470403,78.0,LED Street Light,True
-62,37.705539,-122.380821,100.0,High-Pressure Sodium,True
-63,37.786816,-122.364707,79.0,Solar Pole Light,True
-64,37.717264,-122.372157,65.0,Solar Pole Light,True
-65,37.72716,-122.473215,74.0,High-Pressure Sodium,True
-66,37.721183,-122.369068,76.0,LED Street Light,True
-67,37.801332,-122.41571,66.0,High-Pressure Sodium,True
-68,37.752313,-122.359048,25.0,Solar Pole Light,False
-69,37.757691,-122.368744,26.0,LED Street Light,False
-70,37.765162,-122.439089,36.0,LED Street Light,False
-71,37.768929,-122.45118,95.0,Decorative Lamp,True
-72,37.814518,-122.418965,97.0,LED Street Light,True
-73,37.732054,-122.355468,79.0,LED Street Light,True
-74,37.756323,-122.412432,98.0,Solar Pole Light,True
-75,37.839936,-122.399522,66.0,LED Street Light,True
-76,37.713604,-122.349027,90.0,Decorative Lamp,True
-77,37.795333,-122.445815,96.0,Decorative Lamp,True
-78,37.717184,-122.372356,15.0,Solar Pole Light,False
-79,37.794112,-122.414046,69.0,High-Pressure Sodium,True
-80,37.837923,-122.373224,100.0,Solar Pole Light,True
-81,37.719168,-122.449524,98.0,Solar Pole Light,True
-82,37.734658,-122.380369,92.0,LED Street Light,True
-83,37.700265,-122.408218,72.0,High-Pressure Sodium,True
-84,37.816893,-122.359117,79.0,Decorative Lamp,True
-85,37.749633,-122.367999,94.0,Decorative Lamp,True
-86,37.712601,-122.363968,71.0,Solar Pole Light,True
-87,37.715298,-122.435834,81.0,Solar Pole Light,True
-88,37.822467,-122.475413,95.0,LED Street Light,True
-89,37.73158,-122.38384,15.0,LED Street Light,False
-90,37.810106,-122.396816,88.0,High-Pressure Sodium,True
-91,37.805932,-122.412564,100.0,Solar Pole Light,True
-92,37.735188,-122.444089,91.0,Solar Pole Light,True
-93,37.723956,-122.354048,92.0,LED Street Light,True
-94,37.788243,-122.435264,84.0,Solar Pole Light,True
-95,37.768821,-122.347835,42.0,High-Pressure Sodium,False
-96,37.719436,-122.405603,40.0,High-Pressure Sodium,False
-97,37.775842,-122.401567,87.0,Solar Pole Light,True
-98,37.697798,-122.35986,27.0,High-Pressure Sodium,False
-99,37.844039,-122.408979,100.0,LED Street Light,True
-100,37.806364,-122.3518,82.0,LED Street Light,True
-101,37.808058,-122.474994,29.0,Solar Pole Light,False
-102,37.787106,-122.402326,76.0,High-Pressure Sodium,True
-103,37.762761,-122.381569,90.0,LED Street Light,True
-104,37.844399,-122.351309,11.0,LED Street Light,False
-105,37.767034,-122.481282,78.0,Decorative Lamp,True
-106,37.852475,-122.365176,86.0,High-Pressure Sodium,True
-107,37.714846,-122.352065,85.0,LED Street Light,True
-108,37.834083,-122.416386,74.0,High-Pressure Sodium,True
-109,37.789504,-122.43556,68.0,LED Street Light,True
-110,37.703662,-122.445768,92.0,Decorative Lamp,True
-111,37.823357,-122.498659,91.0,Solar Pole Light,True
-112,37.74826,-122.435693,42.0,LED Street Light,False
-113,37.780883,-122.352223,72.0,Solar Pole Light,True
-114,37.750315,-122.443887,96.0,Solar Pole Light,True
-115,37.8129,-122.427045,35.0,LED Street Light,False
-116,37.730837,-122.42701,29.0,High-Pressure Sodium,False
-117,37.717437,-122.471178,81.0,Solar Pole Light,True
-118,37.774639,-122.432372,65.0,Decorative Lamp,True
-119,37.841275,-122.441417,76.0,High-Pressure Sodium,True
-120,37.787794,-122.398238,79.0,Solar Pole Light,True
-121,37.696995,-122.393234,12.0,Decorative Lamp,False
-122,37.723386,-122.345629,14.0,Solar Pole Light,False
-123,37.718686,-122.43306,90.0,Decorative Lamp,True
-124,37.708556,-122.3399,90.0,LED Street Light,True
-125,37.775251,-122.404138,75.0,Decorative Lamp,True
-126,37.705632,-122.379406,88.0,LED Street Light,True
-127,37.728485,-122.355711,71.0,High-Pressure Sodium,True
-128,37.727722,-122.46889,90.0,LED Street Light,True
-129,37.700748,-122.423869,84.0,Solar Pole Light,True
-130,37.785275,-122.488887,20.0,LED Street Light,False
-131,37.818984,-122.426874,72.0,High-Pressure Sodium,True
-132,37.778802,-122.428878,87.0,Solar Pole Light,True
-133,37.759022,-122.409858,74.0,High-Pressure Sodium,True
-134,37.719738,-122.470291,26.0,High-Pressure Sodium,False
-135,37.832786,-122.348022,19.0,LED Street Light,False
-136,37.754629,-122.456081,41.0,Decorative Lamp,False
-137,37.79794,-122.434003,93.0,Solar Pole Light,True
-138,37.698962,-122.474416,85.0,High-Pressure Sodium,True
-139,37.809456,-122.393972,95.0,Decorative Lamp,True
-140,37.699235,-122.463884,82.0,LED Street Light,True
-141,37.731872,-122.391897,69.0,Solar Pole Light,True
-142,37.698054,-122.482743,67.0,LED Street Light,True
-143,37.822887,-122.470833,83.0,LED Street Light,True
-144,37.799339,-122.461291,70.0,Decorative Lamp,True
-145,37.710811,-122.460492,100.0,LED Street Light,True
-146,37.810463,-122.362489,77.0,Solar Pole Light,True
-147,37.827735,-122.435851,97.0,High-Pressure Sodium,True
-148,37.801794,-122.466603,93.0,LED Street Light,True
-149,37.741804,-122.355986,86.0,LED Street Light,True
-150,37.69698,-122.485719,76.0,LED Street Light,True
-151,37.728162,-122.495155,38.0,Decorative Lamp,False
-152,37.72393,-122.406113,75.0,Solar Pole Light,True
-153,37.762328,-122.356573,83.0,Decorative Lamp,True
-154,37.825691,-122.444709,86.0,LED Street Light,True
-155,37.736408,-122.438649,86.0,LED Street Light,True
-156,37.789347,-122.45651,100.0,Decorative Lamp,True
-157,37.794764,-122.433894,74.0,Solar Pole Light,True
-158,37.783228,-122.42962,19.0,Solar Pole Light,False
-159,37.742015,-122.347647,90.0,High-Pressure Sodium,True
-160,37.817077,-122.476982,70.0,Solar Pole Light,True
-161,37.833855,-122.421411,86.0,High-Pressure Sodium,True
-162,37.838028,-122.371423,98.0,LED Street Light,True
-163,37.762934,-122.495805,92.0,Solar Pole Light,True
-164,37.737888,-122.412739,29.0,High-Pressure Sodium,False
-165,37.796257,-122.458138,86.0,Decorative Lamp,True
-166,37.717197,-122.365811,18.0,High-Pressure Sodium,False
-167,37.852404,-122.41529,16.0,LED Street Light,False
-168,37.722369,-122.455831,73.0,Decorative Lamp,True
-169,37.697843,-122.353112,21.0,High-Pressure Sodium,False
-170,37.71374,-122.407157,67.0,Decorative Lamp,True
-171,37.738749,-122.410732,80.0,Decorative Lamp,True
-172,37.799127,-122.366641,93.0,High-Pressure Sodium,True
-173,37.727927,-122.497641,84.0,Decorative Lamp,True
-174,37.716802,-122.355397,77.0,Solar Pole Light,True
-175,37.834722,-122.403814,93.0,Decorative Lamp,True
-176,37.790983,-122.392994,89.0,Decorative Lamp,True
-177,37.722959,-122.353094,77.0,High-Pressure Sodium,True
-178,37.761903,-122.438098,68.0,Decorative Lamp,True
-179,37.777927,-122.491885,100.0,LED Street Light,True
-180,37.721505,-122.381315,98.0,LED Street Light,True
-181,37.708148,-122.402896,75.0,Solar Pole Light,True
-182,37.734156,-122.437113,97.0,High-Pressure Sodium,True
-183,37.741091,-122.442492,70.0,High-Pressure Sodium,True
-184,37.809947,-122.451861,87.0,LED Street Light,True
-185,37.785525,-122.423232,90.0,Solar Pole Light,True
-186,37.801087,-122.349507,15.0,Solar Pole Light,False
-187,37.812112,-122.46501,30.0,LED Street Light,False
-188,37.699889,-122.457438,86.0,High-Pressure Sodium,True
-189,37.790112,-122.491172,28.0,Decorative Lamp,False
-190,37.774319,-122.403905,73.0,Decorative Lamp,True
-191,37.748379,-122.376054,65.0,LED Street Light,True
-192,37.711956,-122.487378,23.0,High-Pressure Sodium,False
-193,37.81141,-122.420121,98.0,Decorative Lamp,True
-194,37.805044,-122.429828,28.0,High-Pressure Sodium,False
-195,37.734324,-122.368344,68.0,High-Pressure Sodium,True
-196,37.822807,-122.388249,94.0,LED Street Light,True
-197,37.738443,-122.404963,41.0,LED Street Light,False
-198,37.752656,-122.484747,80.0,High-Pressure Sodium,True
-199,37.84167,-122.477509,65.0,Solar Pole Light,True
-200,37.846938,-122.428039,36.0,High-Pressure Sodium,False
-201,37.724521,-122.412696,70.0,Solar Pole Light,True
-202,37.834571,-122.382244,43.0,LED Street Light,False
-203,37.82395,-122.393995,95.0,LED Street Light,True
-204,37.805664,-122.363529,88.0,Solar Pole Light,True
-205,37.734847,-122.421092,87.0,LED Street Light,True
-206,37.730294,-122.341373,71.0,Solar Pole Light,True
-207,37.845949,-122.493092,32.0,Solar Pole Light,False
-208,37.807792,-122.35136,76.0,Decorative Lamp,True
-209,37.723792,-122.408529,95.0,High-Pressure Sodium,True
-210,37.841378,-122.493969,69.0,Decorative Lamp,True
-211,37.806487,-122.451824,22.0,LED Street Light,False
-212,37.842803,-122.344031,67.0,Solar Pole Light,True
-213,37.845983,-122.423526,97.0,Decorative Lamp,True
-214,37.832827,-122.364272,99.0,Decorative Lamp,True
-215,37.745956,-122.366774,77.0,Solar Pole Light,True
-216,37.700821,-122.403997,68.0,Solar Pole Light,True
-217,37.731701,-122.480109,88.0,Decorative Lamp,True
-218,37.707213,-122.387994,93.0,Decorative Lamp,True
-219,37.74928,-122.383437,76.0,Decorative Lamp,True
-220,37.705357,-122.448954,88.0,Solar Pole Light,True
-221,37.781219,-122.372884,92.0,LED Street Light,True
-222,37.7459,-122.399257,76.0,Solar Pole Light,True
-223,37.836656,-122.400862,70.0,Solar Pole Light,True
-224,37.732174,-122.495496,84.0,Decorative Lamp,True
-225,37.834116,-122.495997,92.0,High-Pressure Sodium,True
-226,37.834852,-122.41477,87.0,Decorative Lamp,True
-227,37.845151,-122.371595,32.0,Decorative Lamp,False
-228,37.854569,-122.443286,68.0,LED Street Light,True
-229,37.81765,-122.435091,90.0,Solar Pole Light,True
-230,37.77168,-122.398999,75.0,LED Street Light,True
-231,37.834688,-122.341947,38.0,LED Street Light,False
-232,37.817824,-122.432557,25.0,Solar Pole Light,False
-233,37.762317,-122.381387,67.0,High-Pressure Sodium,True
-234,37.733104,-122.481724,88.0,Solar Pole Light,True
-235,37.75164,-122.453442,69.0,High-Pressure Sodium,True
-236,37.742309,-122.462023,90.0,Solar Pole Light,True
-237,37.701635,-122.49654,80.0,LED Street Light,True
-238,37.852936,-122.430956,21.0,Decorative Lamp,False
-239,37.756392,-122.390656,100.0,LED Street Light,True
-240,37.729821,-122.347406,81.0,Decorative Lamp,True
-241,37.820715,-122.485094,28.0,Decorative Lamp,False
-242,37.761713,-122.358741,18.0,LED Street Light,False
-243,37.846057,-122.424616,93.0,LED Street Light,True
-244,37.793046,-122.472675,85.0,Solar Pole Light,True
-245,37.853487,-122.462333,100.0,Solar Pole Light,True
-246,37.845737,-122.395457,75.0,High-Pressure Sodium,True
-247,37.792138,-122.41737,97.0,High-Pressure Sodium,True
-248,37.731807,-122.471156,22.0,High-Pressure Sodium,False
-249,37.730178,-122.46957,41.0,LED Street Light,False
-250,37.819634,-122.44338,88.0,Decorative Lamp,True
-251,37.704155,-122.344344,100.0,High-Pressure Sodium,True
-252,37.836306,-122.35096,70.0,LED Street Light,True
-253,37.854085,-122.471577,95.0,Decorative Lamp,True
-254,37.758299,-122.378082,69.0,High-Pressure Sodium,True
-255,37.806263,-122.474777,69.0,Decorative Lamp,True
-256,37.825433,-122.46349,98.0,Solar Pole Light,True
-257,37.730711,-122.413484,45.0,High-Pressure Sodium,False
-258,37.78977,-122.406586,73.0,Decorative Lamp,True
-259,37.709538,-122.359006,68.0,LED Street Light,True
-260,37.737396,-122.478678,84.0,High-Pressure Sodium,True
-261,37.8371,-122.346496,24.0,Solar Pole Light,False
-262,37.83284,-122.369877,98.0,Solar Pole Light,True
-263,37.799739,-122.411263,81.0,High-Pressure Sodium,True
-264,37.708818,-122.434047,100.0,Solar Pole Light,True
-265,37.75453,-122.457839,29.0,LED Street Light,False
-266,37.810647,-122.42006,75.0,High-Pressure Sodium,True
-267,37.707867,-122.464171,31.0,LED Street Light,False
-268,37.804221,-122.487219,66.0,LED Street Light,True
-269,37.831093,-122.420177,26.0,High-Pressure Sodium,False
-270,37.771794,-122.404615,91.0,LED Street Light,True
-271,37.826849,-122.443751,99.0,Solar Pole Light,True
-272,37.803383,-122.408883,84.0,Decorative Lamp,True
-273,37.737625,-122.358819,35.0,Solar Pole Light,False
-274,37.822488,-122.394048,68.0,High-Pressure Sodium,True
-275,37.830993,-122.360633,95.0,Decorative Lamp,True
-276,37.808238,-122.365478,19.0,Solar Pole Light,False
-277,37.806495,-122.390577,85.0,Solar Pole Light,True
-278,37.793878,-122.378965,73.0,Solar Pole Light,True
-279,37.720277,-122.358461,71.0,Solar Pole Light,True
-280,37.834395,-122.49472,17.0,Solar Pole Light,False
-281,37.827031,-122.478781,74.0,LED Street Light,True
-282,37.748519,-122.380439,34.0,Decorative Lamp,False
-283,37.720622,-122.368525,20.0,Solar Pole Light,False
-284,37.828041,-122.418205,85.0,High-Pressure Sodium,True
-285,37.695922,-122.453474,96.0,Decorative Lamp,True
-286,37.793608,-122.34241,84.0,Decorative Lamp,True
-287,37.79599,-122.457831,35.0,Decorative Lamp,False
-288,37.796341,-122.413002,78.0,Solar Pole Light,True
-289,37.819675,-122.482283,28.0,Decorative Lamp,False
-290,37.816664,-122.412797,95.0,Solar Pole Light,True
-291,37.848979,-122.4447,71.0,Decorative Lamp,True
-292,37.79612,-122.350276,26.0,Solar Pole Light,False
-293,37.711302,-122.349443,88.0,LED Street Light,True
-294,37.804962,-122.488546,100.0,High-Pressure Sodium,True
-295,37.743054,-122.386092,83.0,LED Street Light,True
-296,37.705676,-122.406253,93.0,Solar Pole Light,True
-297,37.750241,-122.400054,72.0,High-Pressure Sodium,True
-298,37.702219,-122.359954,90.0,Solar Pole Light,True
-299,37.850658,-122.34438,86.0,Solar Pole Light,True
-300,37.814844,-122.478586,77.0,Decorative Lamp,True
-301,37.816222,-122.495466,67.0,LED Street Light,True
-302,37.69844,-122.447622,31.0,Decorative Lamp,False
-303,37.773083,-122.376135,74.0,High-Pressure Sodium,True
-304,37.804227,-122.428056,85.0,High-Pressure Sodium,True
-305,37.73868,-122.33986,84.0,Solar Pole Light,True
-306,37.763089,-122.427178,97.0,Decorative Lamp,True
-307,37.72108,-122.37223,84.0,Decorative Lamp,True
-308,37.805889,-122.464077,88.0,Solar Pole Light,True
-309,37.708081,-122.39052,91.0,Solar Pole Light,True
-310,37.799622,-122.455678,66.0,Decorative Lamp,True
-311,37.847038,-122.475231,79.0,LED Street Light,True
-312,37.764074,-122.348421,75.0,Decorative Lamp,True
-313,37.762056,-122.397236,25.0,LED Street Light,False
-314,37.758515,-122.455526,72.0,High-Pressure Sodium,True
-315,37.852336,-122.433907,30.0,Decorative Lamp,False
-316,37.837956,-122.462607,23.0,Decorative Lamp,False
-317,37.728997,-122.494419,95.0,LED Street Light,True
-318,37.799167,-122.440436,98.0,High-Pressure Sodium,True
-319,37.833197,-122.423686,95.0,Decorative Lamp,True
-320,37.849811,-122.469716,76.0,Decorative Lamp,True
-321,37.83388,-122.375145,86.0,Solar Pole Light,True
-322,37.818247,-122.364235,81.0,Decorative Lamp,True
-323,37.816664,-122.399205,25.0,Solar Pole Light,False
-324,37.715899,-122.494196,79.0,Solar Pole Light,True
-325,37.842236,-122.400736,78.0,Decorative Lamp,True
-326,37.822346,-122.422356,87.0,Solar Pole Light,True
-327,37.713669,-122.47937,99.0,Decorative Lamp,True
-328,37.80459,-122.430551,90.0,Solar Pole Light,True
-329,37.726984,-122.420745,74.0,Solar Pole Light,True
-330,37.705173,-122.406285,15.0,Solar Pole Light,False
-331,37.737939,-122.371791,81.0,Decorative Lamp,True
-332,37.744558,-122.426565,44.0,Solar Pole Light,False
-333,37.696759,-122.487808,82.0,High-Pressure Sodium,True
-334,37.757699,-122.42261,25.0,High-Pressure Sodium,False
-335,37.790903,-122.452734,43.0,High-Pressure Sodium,False
-336,37.806097,-122.36178,68.0,LED Street Light,True
-337,37.819676,-122.493061,95.0,LED Street Light,True
-338,37.771781,-122.482611,73.0,LED Street Light,True
-339,37.733627,-122.341534,75.0,Decorative Lamp,True
-340,37.717699,-122.419578,95.0,Decorative Lamp,True
-341,37.793805,-122.387006,83.0,Solar Pole Light,True
-342,37.784444,-122.497837,68.0,LED Street Light,True
-343,37.747134,-122.416566,79.0,LED Street Light,True
-344,37.708959,-122.4433,76.0,Decorative Lamp,True
-345,37.700212,-122.486827,76.0,LED Street Light,True
-346,37.758408,-122.478165,90.0,Decorative Lamp,True
-347,37.785707,-122.389086,28.0,LED Street Light,False
-348,37.822994,-122.467376,16.0,Solar Pole Light,False
-349,37.721697,-122.482669,99.0,Decorative Lamp,True
-350,37.796729,-122.386364,73.0,Decorative Lamp,True
-351,37.699954,-122.349606,72.0,Solar Pole Light,True
-352,37.703215,-122.412793,39.0,Solar Pole Light,False
-353,37.80835,-122.360045,65.0,Solar Pole Light,True
-354,37.809154,-122.371124,77.0,High-Pressure Sodium,True
-355,37.749212,-122.369028,90.0,Decorative Lamp,True
-356,37.707718,-122.356229,70.0,Decorative Lamp,True
-357,37.782515,-122.368632,76.0,High-Pressure Sodium,True
-358,37.767271,-122.396428,80.0,LED Street Light,True
-359,37.779124,-122.382346,80.0,Decorative Lamp,True
-360,37.707961,-122.489744,86.0,Solar Pole Light,True
-361,37.734437,-122.473873,65.0,Solar Pole Light,True
-362,37.834385,-122.464326,80.0,LED Street Light,True
-363,37.851038,-122.445497,94.0,Solar Pole Light,True
-364,37.724039,-122.373048,42.0,Solar Pole Light,False
-365,37.800293,-122.419689,83.0,Solar Pole Light,True
-366,37.783758,-122.384328,79.0,High-Pressure Sodium,True
-367,37.731453,-122.339987,94.0,Solar Pole Light,True
-368,37.850867,-122.395348,100.0,Decorative Lamp,True
-369,37.726827,-122.390563,78.0,High-Pressure Sodium,True
-370,37.706452,-122.494496,70.0,Decorative Lamp,True
-371,37.736129,-122.42538,88.0,LED Street Light,True
-372,37.833824,-122.383053,72.0,LED Street Light,True
-373,37.813733,-122.431321,97.0,High-Pressure Sodium,True
-374,37.75025,-122.440034,74.0,High-Pressure Sodium,True
-375,37.852924,-122.492983,98.0,Decorative Lamp,True
-376,37.833625,-122.406812,23.0,Decorative Lamp,False
-377,37.765078,-122.383359,42.0,Decorative Lamp,False
-378,37.772767,-122.359652,94.0,High-Pressure Sodium,True
-379,37.839012,-122.431925,94.0,LED Street Light,True
-380,37.739192,-122.404624,84.0,LED Street Light,True
-381,37.840878,-122.465694,65.0,High-Pressure Sodium,True
-382,37.794575,-122.39835,67.0,Decorative Lamp,True
-383,37.812198,-122.478349,69.0,LED Street Light,True
-384,37.809432,-122.353955,69.0,Decorative Lamp,True
-385,37.723649,-122.461393,36.0,High-Pressure Sodium,False
-386,37.850323,-122.470444,91.0,Solar Pole Light,True
-387,37.831602,-122.420636,89.0,Decorative Lamp,True
-388,37.734457,-122.36008,89.0,Decorative Lamp,True
-389,37.766149,-122.417029,44.0,High-Pressure Sodium,False
-390,37.752377,-122.404528,87.0,LED Street Light,True
-391,37.721064,-122.436827,44.0,Decorative Lamp,False
-392,37.850006,-122.458099,79.0,LED Street Light,True
-393,37.799978,-122.44737,84.0,Decorative Lamp,True
-394,37.818656,-122.47846,99.0,Decorative Lamp,True
-395,37.850071,-122.426794,79.0,High-Pressure Sodium,True
-396,37.732668,-122.487641,74.0,Solar Pole Light,True
-397,37.722061,-122.416236,17.0,LED Street Light,False
-398,37.748821,-122.366779,91.0,LED Street Light,True
-399,37.763842,-122.459606,14.0,LED Street Light,False
-400,37.793643,-122.386316,93.0,LED Street Light,True
-401,37.721627,-122.472581,12.0,Decorative Lamp,False
-402,37.700767,-122.381576,99.0,High-Pressure Sodium,True
-403,37.801109,-122.423459,68.0,High-Pressure Sodium,True
-404,37.829967,-122.370493,83.0,High-Pressure Sodium,True
-405,37.788557,-122.360477,85.0,Solar Pole Light,True
-406,37.727835,-122.481493,19.0,High-Pressure Sodium,False
-407,37.73806,-122.490266,82.0,LED Street Light,True
-408,37.779887,-122.349543,76.0,Decorative Lamp,True
-409,37.701195,-122.479862,68.0,Solar Pole Light,True
-410,37.767252,-122.34998,89.0,Solar Pole Light,True
-411,37.745485,-122.418242,91.0,High-Pressure Sodium,True
-412,37.701552,-122.475665,76.0,Decorative Lamp,True
-413,37.852761,-122.344981,24.0,Solar Pole Light,False
-414,37.69569,-122.34711,74.0,Decorative Lamp,True
-415,37.797159,-122.360533,100.0,Decorative Lamp,True
-416,37.767658,-122.416905,100.0,High-Pressure Sodium,True
-417,37.773115,-122.392702,81.0,High-Pressure Sodium,True
-418,37.717244,-122.494604,70.0,Decorative Lamp,True
-419,37.744169,-122.386651,70.0,High-Pressure Sodium,True
-420,37.727197,-122.391651,34.0,LED Street Light,False
-421,37.850086,-122.484376,77.0,High-Pressure Sodium,True
-422,37.802516,-122.4284,86.0,Solar Pole Light,True
-423,37.833803,-122.471056,65.0,High-Pressure Sodium,True
-424,37.80572,-122.365302,72.0,Decorative Lamp,True
-425,37.846038,-122.39008,78.0,Decorative Lamp,True
-426,37.774448,-122.400544,100.0,Solar Pole Light,True
-427,37.833925,-122.408102,89.0,Decorative Lamp,True
-428,37.699762,-122.350448,87.0,Solar Pole Light,True
-429,37.805224,-122.391158,97.0,Decorative Lamp,True
-430,37.729408,-122.393978,95.0,Solar Pole Light,True
-431,37.757918,-122.395203,88.0,Solar Pole Light,True
-432,37.711955,-122.394145,79.0,High-Pressure Sodium,True
-433,37.854806,-122.491686,45.0,Decorative Lamp,False
-434,37.851248,-122.434295,77.0,Solar Pole Light,True
-435,37.834221,-122.374218,25.0,Decorative Lamp,False
-436,37.785623,-122.381248,86.0,Solar Pole Light,True
-437,37.835462,-122.434738,96.0,Decorative Lamp,True
-438,37.747225,-122.392585,87.0,High-Pressure Sodium,True
-439,37.824155,-122.377434,44.0,Decorative Lamp,False
-440,37.82255,-122.429707,44.0,LED Street Light,False
-441,37.825753,-122.480167,69.0,LED Street Light,True
-442,37.782018,-122.498479,91.0,High-Pressure Sodium,True
-443,37.746834,-122.440766,79.0,LED Street Light,True
-444,37.758288,-122.388125,65.0,High-Pressure Sodium,True
-445,37.757069,-122.427609,88.0,LED Street Light,True
-446,37.732907,-122.43968,95.0,Decorative Lamp,True
-447,37.731263,-122.487689,44.0,Decorative Lamp,False
-448,37.791452,-122.392486,43.0,Solar Pole Light,False
-449,37.794018,-122.425241,83.0,LED Street Light,True
-450,37.755666,-122.361267,92.0,High-Pressure Sodium,True
-451,37.777953,-122.422731,16.0,High-Pressure Sodium,False
-452,37.699003,-122.4448,43.0,Solar Pole Light,False
-453,37.755731,-122.435588,82.0,Decorative Lamp,True
-454,37.787728,-122.414024,35.0,Decorative Lamp,False
-455,37.792165,-122.377019,79.0,Solar Pole Light,True
-456,37.824978,-122.3845,70.0,LED Street Light,True
-457,37.847784,-122.496483,34.0,Decorative Lamp,False
-458,37.726224,-122.49819,68.0,LED Street Light,True
-459,37.798496,-122.355715,70.0,Decorative Lamp,True
-460,37.733857,-122.351074,86.0,LED Street Light,True
-461,37.704543,-122.34989,67.0,High-Pressure Sodium,True
-462,37.75116,-122.483173,40.0,Solar Pole Light,False
-463,37.772639,-122.458316,14.0,Solar Pole Light,False
-464,37.74048,-122.450234,67.0,High-Pressure Sodium,True
-465,37.823384,-122.413134,85.0,LED Street Light,True
-466,37.744709,-122.401747,74.0,Decorative Lamp,True
-467,37.809484,-122.45578,84.0,High-Pressure Sodium,True
-468,37.761068,-122.479898,89.0,Solar Pole Light,True
-469,37.723884,-122.390421,73.0,LED Street Light,True
-470,37.72393,-122.415374,87.0,LED Street Light,True
-471,37.808347,-122.4823,24.0,LED Street Light,False
-472,37.78567,-122.45835,90.0,Solar Pole Light,True
-473,37.848968,-122.422033,27.0,Decorative Lamp,False
-474,37.823859,-122.411364,87.0,Decorative Lamp,True
-475,37.701846,-122.398096,89.0,LED Street Light,True
-476,37.847125,-122.403142,83.0,High-Pressure Sodium,True
-477,37.82597,-122.357927,70.0,Solar Pole Light,True
-478,37.731393,-122.465473,19.0,Decorative Lamp,False
-479,37.792657,-122.433635,71.0,LED Street Light,True
-480,37.829278,-122.355396,29.0,Decorative Lamp,False
-481,37.751447,-122.461501,82.0,LED Street Light,True
-482,37.819784,-122.455431,21.0,Decorative Lamp,False
-483,37.826518,-122.431602,100.0,Decorative Lamp,True
-484,37.801708,-122.484114,15.0,Solar Pole Light,False
-485,37.794717,-122.427117,85.0,Decorative Lamp,True
-486,37.788757,-122.472518,36.0,Decorative Lamp,False
-487,37.8128,-122.361352,100.0,High-Pressure Sodium,True
-488,37.729578,-122.484086,75.0,Decorative Lamp,True
-489,37.698682,-122.396685,27.0,Solar Pole Light,False
-490,37.792035,-122.411928,74.0,LED Street Light,True
-491,37.732012,-122.436855,27.0,Decorative Lamp,False
-492,37.790016,-122.419917,69.0,Solar Pole Light,True
-493,37.852946,-122.47757,80.0,Decorative Lamp,True
-494,37.806123,-122.434709,77.0,Decorative Lamp,True
-495,37.763412,-122.384584,29.0,LED Street Light,False
-496,37.80569,-122.340799,86.0,Decorative Lamp,True
-497,37.715443,-122.482742,86.0,Decorative Lamp,True
-498,37.810794,-122.406858,73.0,Solar Pole Light,True
-499,37.738766,-122.486693,77.0,Decorative Lamp,True
-500,37.708605,-122.356329,90.0,Solar Pole Light,True
+1,28.497504,77.080912,100.0,Smart LED Street Light,True
+2,28.624346,77.098666,64.0,Solar Pole Light,True
+3,28.568177,77.210812,69.0,Sodium Vapor Lamp,True
+4,28.59866,77.264042,34.0,Sodium Vapor Lamp,False
+5,28.636948,77.309992,50.0,Sodium Vapor Lamp,True
+6,28.515123,77.141142,26.0,Smart LED Street Light,False
+7,28.535032,77.217998,81.0,Solar Pole Light,True
+8,28.645801,77.215555,56.0,Sodium Vapor Lamp,True
+9,28.70313,77.12218,63.0,Smart LED Street Light,True
+10,28.613693,77.260603,22.0,High-Mast Floodlight,False
+11,28.471248,77.095696,89.0,High-Mast Floodlight,True
+12,28.701576,77.218476,80.0,Smart LED Street Light,True
+13,28.588394,77.043404,90.0,Smart LED Street Light,True
+14,28.550276,77.19716,83.0,High-Mast Floodlight,True
+15,28.708178,77.25441,79.0,High-Mast Floodlight,True
+16,28.63165,77.188604,50.0,Smart LED Street Light,True
+17,28.493234,77.141094,89.0,Solar Pole Light,True
+18,28.640127,77.273782,70.0,Smart LED Street Light,True
+19,28.663954,77.206628,95.0,Smart LED Street Light,True
+20,28.66308,77.223168,78.0,High-Mast Floodlight,True
+21,28.635217,77.211928,50.0,Solar Pole Light,True
+22,28.528366,77.134705,84.0,High-Mast Floodlight,True
+23,28.599714,77.252821,60.0,Sodium Vapor Lamp,True
+24,28.613382,77.261901,34.0,High-Mast Floodlight,False
+25,28.499676,77.058382,87.0,Smart LED Street Light,True
+26,28.576618,77.256671,84.0,Smart LED Street Light,True
+27,28.625125,77.282481,32.0,High-Mast Floodlight,False
+28,28.713453,77.186007,79.0,Smart LED Street Light,True
+29,28.700951,77.23688,65.0,Solar Pole Light,True
+30,28.6328,77.313885,57.0,Smart LED Street Light,True
+31,28.700067,77.21172,79.0,High-Mast Floodlight,True
+32,28.602875,77.027587,78.0,Smart LED Street Light,True
+33,28.527887,77.178326,77.0,Solar Pole Light,True
+34,28.547175,77.182022,82.0,High-Mast Floodlight,True
+35,28.628089,77.240722,54.0,High-Mast Floodlight,True
+36,28.686826,77.287183,50.0,Sodium Vapor Lamp,True
+37,28.518154,77.148672,90.0,High-Mast Floodlight,True
+38,28.564262,77.157834,79.0,High-Mast Floodlight,True
+39,28.698087,77.198466,69.0,Smart LED Street Light,True
+40,28.692741,77.204018,80.0,High-Mast Floodlight,True
+41,28.572671,77.236951,90.0,Sodium Vapor Lamp,True
+42,28.636062,77.106934,73.0,Sodium Vapor Lamp,True
+43,28.55428,77.293375,88.0,Smart LED Street Light,True
+44,28.530476,77.22016,73.0,High-Mast Floodlight,True
+45,28.517933,77.111942,94.0,Sodium Vapor Lamp,True
+46,28.672772,77.32486,54.0,Sodium Vapor Lamp,True
+47,28.539879,77.17177,88.0,Smart LED Street Light,True
+48,28.669137,77.226522,76.0,Solar Pole Light,True
+49,28.558382,77.149195,71.0,Sodium Vapor Lamp,True
+50,28.545348,77.161434,83.0,Smart LED Street Light,True
+51,28.553838,77.229841,66.0,Sodium Vapor Lamp,True
+52,28.664001,77.213385,76.0,Smart LED Street Light,True
+53,28.50573,77.071531,78.0,High-Mast Floodlight,True
+54,28.570564,77.239818,78.0,Solar Pole Light,True
+55,28.668618,77.324494,50.0,High-Mast Floodlight,True
+56,28.569499,77.256355,85.0,Smart LED Street Light,True
+57,28.692804,77.286156,50.0,High-Mast Floodlight,True
+58,28.716807,77.090363,59.0,Solar Pole Light,True
+59,28.643698,77.268896,57.0,Smart LED Street Light,True
+60,28.51231,77.202861,95.0,Sodium Vapor Lamp,True
+61,28.614033,77.240094,100.0,High-Mast Floodlight,True
+62,28.52309,77.21633,92.0,Solar Pole Light,True
+63,28.568489,77.170491,86.0,Sodium Vapor Lamp,True
+64,28.551213,77.317118,35.0,Solar Pole Light,False
+65,28.597706,77.099799,62.0,Smart LED Street Light,True
+66,28.643315,77.301675,63.0,Solar Pole Light,True
+67,28.490731,77.119315,85.0,Smart LED Street Light,True
+68,28.659173,77.234258,59.0,Solar Pole Light,True
+69,28.643932,77.234951,57.0,High-Mast Floodlight,True
+70,28.614136,77.091208,75.0,Solar Pole Light,True
+71,28.719811,77.116661,60.0,High-Mast Floodlight,True
+72,28.673739,77.298813,55.0,Solar Pole Light,True
+73,28.631891,77.199802,35.0,Sodium Vapor Lamp,False
+74,28.579322,77.236386,20.0,Sodium Vapor Lamp,False
+75,28.467662,77.085005,28.0,High-Mast Floodlight,False
+76,28.501098,77.17056,79.0,High-Mast Floodlight,True
+77,28.678329,77.243683,26.0,Solar Pole Light,False
+78,28.64467,77.189179,73.0,High-Mast Floodlight,True
+79,28.601975,77.237336,89.0,High-Mast Floodlight,True
+80,28.592322,77.091467,82.0,Smart LED Street Light,True
+81,28.630094,77.229286,77.0,High-Mast Floodlight,True
+82,28.667392,77.255539,51.0,Sodium Vapor Lamp,True
+83,28.654331,77.214529,25.0,Smart LED Street Light,False
+84,28.621354,77.069135,75.0,Smart LED Street Light,True
+85,28.558334,77.192304,88.0,Smart LED Street Light,True
+86,28.545941,77.234334,88.0,Solar Pole Light,True
+87,28.497062,77.174329,96.0,High-Mast Floodlight,True
+88,28.553923,77.202414,33.0,Smart LED Street Light,False
+89,28.633519,77.335798,59.0,Solar Pole Light,True
+90,28.557888,77.27652,64.0,Sodium Vapor Lamp,True
+91,28.660459,77.305242,72.0,High-Mast Floodlight,True
+92,28.699346,77.228886,50.0,Smart LED Street Light,True
+93,28.679842,77.280986,50.0,Sodium Vapor Lamp,True
+94,28.742635,77.14783,57.0,Solar Pole Light,True
+95,28.65684,77.225932,64.0,Solar Pole Light,True
+96,28.639599,77.204146,96.0,Solar Pole Light,True
+97,28.610268,77.242731,76.0,High-Mast Floodlight,True
+98,28.605394,77.280994,56.0,High-Mast Floodlight,True
+99,28.543057,77.300568,77.0,Sodium Vapor Lamp,True
+100,28.670908,77.301862,15.0,Solar Pole Light,False
+101,28.695662,77.127333,33.0,Sodium Vapor Lamp,False
+102,28.712614,77.224579,70.0,Sodium Vapor Lamp,True
+103,28.676121,77.225864,17.0,Smart LED Street Light,False
+104,28.639064,77.258527,79.0,Smart LED Street Light,True
+105,28.606246,77.272283,75.0,Sodium Vapor Lamp,True
+106,28.648464,77.098925,62.0,High-Mast Floodlight,True
+107,28.676618,77.2718,17.0,High-Mast Floodlight,False
+108,28.51163,77.225157,82.0,Smart LED Street Light,True
+109,28.59324,77.051372,83.0,High-Mast Floodlight,True
+110,28.643469,77.239657,100.0,Sodium Vapor Lamp,True
+111,28.560166,77.22155,79.0,Smart LED Street Light,True
+112,28.584801,77.029216,81.0,High-Mast Floodlight,True
+113,28.528504,77.160773,19.0,Smart LED Street Light,False
+114,28.692824,77.168536,66.0,Solar Pole Light,True
+115,28.647275,77.185064,78.0,Solar Pole Light,True
+116,28.555548,77.216415,60.0,Solar Pole Light,True
+117,28.639109,77.076138,62.0,Solar Pole Light,True
+118,28.661658,77.280652,50.0,Sodium Vapor Lamp,True
+119,28.637826,77.248147,50.0,High-Mast Floodlight,True
+120,28.698719,77.224898,89.0,Smart LED Street Light,True
+121,28.678258,77.298469,50.0,High-Mast Floodlight,True
+122,28.64642,77.190063,15.0,High-Mast Floodlight,False
+123,28.620894,77.216473,92.0,High-Mast Floodlight,True
+124,28.641128,77.202327,82.0,Smart LED Street Light,True
+125,28.564766,77.155425,92.0,Sodium Vapor Lamp,True
+126,28.573377,77.244044,78.0,Solar Pole Light,True
+127,28.672315,77.280534,68.0,Solar Pole Light,True
+128,28.56071,77.164885,88.0,Smart LED Street Light,True
+129,28.666767,77.198223,71.0,Smart LED Street Light,True
+130,28.638495,77.290764,29.0,Solar Pole Light,False
+131,28.589331,77.021514,77.0,Sodium Vapor Lamp,True
+132,28.62622,77.20069,84.0,Solar Pole Light,True
+133,28.63529,77.326772,56.0,Sodium Vapor Lamp,True
+134,28.603398,77.247893,77.0,High-Mast Floodlight,True
+135,28.500582,77.215492,28.0,Smart LED Street Light,False
+136,28.591133,77.197804,85.0,Smart LED Street Light,True
+137,28.71392,77.116894,36.0,Sodium Vapor Lamp,False
+138,28.576402,77.058966,31.0,High-Mast Floodlight,False
+139,28.619481,77.096191,61.0,High-Mast Floodlight,True
+140,28.64975,77.219751,22.0,Sodium Vapor Lamp,False
+141,28.703348,77.202743,88.0,Smart LED Street Light,True
+142,28.699539,77.267007,19.0,Sodium Vapor Lamp,False
+143,28.660694,77.259652,50.0,Sodium Vapor Lamp,True
+144,28.496133,77.171384,78.0,Solar Pole Light,True
+145,28.582187,77.302552,78.0,Solar Pole Light,True
+146,28.705563,77.167764,57.0,Smart LED Street Light,True
+147,28.558715,77.243691,39.0,Smart LED Street Light,False
+148,28.555342,77.246722,29.0,Sodium Vapor Lamp,False
+149,28.75783,77.140767,67.0,Solar Pole Light,True
+150,28.590481,77.251851,74.0,Solar Pole Light,True
+151,28.564967,77.189076,40.0,Solar Pole Light,False
+152,28.630536,77.314933,25.0,High-Mast Floodlight,False
+153,28.652796,77.231935,75.0,Solar Pole Light,True
+154,28.626628,77.296406,76.0,Solar Pole Light,True
+155,28.669268,77.258051,55.0,Smart LED Street Light,True
+156,28.589866,77.273427,72.0,High-Mast Floodlight,True
+157,28.535064,77.162769,85.0,High-Mast Floodlight,True
+158,28.547746,77.197665,39.0,High-Mast Floodlight,False
+159,28.554769,77.219216,82.0,Solar Pole Light,True
+160,28.635716,77.278082,53.0,Smart LED Street Light,True
+161,28.654821,77.229342,81.0,Sodium Vapor Lamp,True
+162,28.51997,77.187411,40.0,Solar Pole Light,False
+163,28.541956,77.221875,29.0,Smart LED Street Light,False
+164,28.689392,77.221465,68.0,Sodium Vapor Lamp,True
+165,28.560223,77.297608,36.0,Sodium Vapor Lamp,False
+166,28.654518,77.155231,84.0,High-Mast Floodlight,True
+167,28.673963,77.225548,78.0,High-Mast Floodlight,True
+168,28.603579,77.197606,99.0,High-Mast Floodlight,True
+169,28.602372,77.035346,88.0,Sodium Vapor Lamp,True
+170,28.589502,77.172055,27.0,High-Mast Floodlight,False
+171,28.62135,77.123245,88.0,High-Mast Floodlight,True
+172,28.573225,77.145858,82.0,Solar Pole Light,True
+173,28.557956,77.329375,85.0,Solar Pole Light,True
+174,28.645032,77.281036,50.0,Solar Pole Light,True
+175,28.667022,77.215139,34.0,High-Mast Floodlight,False
+176,28.628397,77.213627,99.0,Solar Pole Light,True
+177,28.59534,77.212962,95.0,Solar Pole Light,True
+178,28.66047,77.282347,50.0,Smart LED Street Light,True
+179,28.585472,77.193936,73.0,Smart LED Street Light,True
+180,28.597054,77.204578,90.0,Sodium Vapor Lamp,True
+181,28.688473,77.195256,92.0,High-Mast Floodlight,True
+182,28.603215,77.208281,65.0,Solar Pole Light,True
+183,28.679737,77.269373,37.0,Solar Pole Light,False
+184,28.66634,77.285319,50.0,High-Mast Floodlight,True
+185,28.538749,77.309419,75.0,Sodium Vapor Lamp,True
+186,28.628785,77.204414,22.0,High-Mast Floodlight,False
+187,28.636271,77.190568,75.0,Solar Pole Light,True
+188,28.656229,77.314287,50.0,Solar Pole Light,True
+189,28.619397,77.213895,82.0,Solar Pole Light,True
+190,28.598208,77.213295,33.0,High-Mast Floodlight,False
+191,28.553411,77.223073,87.0,Solar Pole Light,True
+192,28.635884,77.242234,75.0,Sodium Vapor Lamp,True
+193,28.673576,77.288862,24.0,Solar Pole Light,False
+194,28.528029,77.199259,93.0,Sodium Vapor Lamp,True
+195,28.553448,77.321723,75.0,Solar Pole Light,True
+196,28.545757,77.151573,91.0,High-Mast Floodlight,True
+197,28.621431,77.295379,77.0,Solar Pole Light,True
+198,28.477241,77.186405,70.0,Sodium Vapor Lamp,True
+199,28.677383,77.31615,34.0,Solar Pole Light,False
+200,28.647316,77.30044,63.0,Smart LED Street Light,True
+201,28.566342,77.347498,38.0,Smart LED Street Light,False
+202,28.554281,77.194016,75.0,High-Mast Floodlight,True
+203,28.646545,77.221933,66.0,Solar Pole Light,True
+204,28.497453,77.121994,21.0,High-Mast Floodlight,False
+205,28.662662,77.235953,70.0,Smart LED Street Light,True
+206,28.624564,77.186436,29.0,Sodium Vapor Lamp,False
+207,28.669362,77.189043,70.0,Sodium Vapor Lamp,True
+208,28.68529,77.274062,68.0,Sodium Vapor Lamp,True
+209,28.670975,77.259964,51.0,High-Mast Floodlight,True
+210,28.643173,77.213569,80.0,Smart LED Street Light,True
+211,28.594365,77.017234,23.0,Smart LED Street Light,False
+212,28.674585,77.227637,73.0,Sodium Vapor Lamp,True
+213,28.689166,77.212201,72.0,Smart LED Street Light,True
+214,28.707654,77.14222,69.0,Sodium Vapor Lamp,True
+215,28.631757,77.234755,95.0,High-Mast Floodlight,True
+216,28.656595,77.298073,50.0,Smart LED Street Light,True
+217,28.536529,77.220699,66.0,Sodium Vapor Lamp,True
+218,28.533304,77.146927,93.0,Solar Pole Light,True
+219,28.572998,77.054472,63.0,Smart LED Street Light,True
+220,28.65395,77.255949,81.0,Sodium Vapor Lamp,True
+221,28.524984,77.234844,15.0,Sodium Vapor Lamp,False
+222,28.654607,77.250047,66.0,Sodium Vapor Lamp,True
+223,28.548752,77.248566,21.0,High-Mast Floodlight,False
+224,28.588357,77.065715,75.0,Smart LED Street Light,True
+225,28.615848,77.097791,75.0,Sodium Vapor Lamp,True
+226,28.679093,77.235016,32.0,Sodium Vapor Lamp,False
+227,28.655588,77.183537,67.0,Solar Pole Light,True
+228,28.65847,77.184692,63.0,Sodium Vapor Lamp,True
+229,28.498369,77.115852,100.0,Solar Pole Light,True
+230,28.644869,77.297798,39.0,Smart LED Street Light,False
+231,28.682542,77.238639,70.0,Sodium Vapor Lamp,True
+232,28.622563,77.262844,50.0,Sodium Vapor Lamp,True
+233,28.66874,77.215543,52.0,Sodium Vapor Lamp,True
+234,28.645014,77.264905,50.0,Solar Pole Light,True
+235,28.673012,77.251935,72.0,Smart LED Street Light,True
+236,28.638021,77.208664,51.0,High-Mast Floodlight,True
+237,28.541565,77.181652,74.0,High-Mast Floodlight,True
+238,28.684008,77.184154,80.0,High-Mast Floodlight,True
+239,28.548843,77.237026,17.0,Sodium Vapor Lamp,False
+240,28.589966,77.231368,80.0,High-Mast Floodlight,True
+241,28.654975,77.314516,74.0,Smart LED Street Light,True
+242,28.638126,77.247487,57.0,Solar Pole Light,True
+243,28.643919,77.252254,79.0,Smart LED Street Light,True
+244,28.637608,77.319023,70.0,Sodium Vapor Lamp,True
+245,28.555066,77.194922,64.0,Smart LED Street Light,True
+246,28.561134,77.190602,63.0,Solar Pole Light,True
+247,28.557426,77.12808,98.0,Sodium Vapor Lamp,True
+248,28.670028,77.267279,65.0,Sodium Vapor Lamp,True
+249,28.592893,77.215945,92.0,High-Mast Floodlight,True
+250,28.657178,77.318592,67.0,Sodium Vapor Lamp,True
+251,28.619913,77.239284,100.0,Solar Pole Light,True
+252,28.579894,77.232194,30.0,Solar Pole Light,False
+253,28.697096,77.205375,40.0,Solar Pole Light,False
+254,28.605551,77.083998,75.0,Smart LED Street Light,True
+255,28.564547,77.190509,38.0,Sodium Vapor Lamp,False
+256,28.738742,77.114192,63.0,Smart LED Street Light,True
+257,28.526547,77.256948,89.0,Sodium Vapor Lamp,True
+258,28.559293,77.318189,97.0,Solar Pole Light,True
+259,28.61954,77.23331,85.0,Smart LED Street Light,True
+260,28.606289,77.03729,72.0,High-Mast Floodlight,True
+261,28.653062,77.210809,50.0,High-Mast Floodlight,True
+262,28.584776,77.252307,66.0,Smart LED Street Light,True
+263,28.548491,77.23172,16.0,Solar Pole Light,False
+264,28.559281,77.256161,86.0,Sodium Vapor Lamp,True
+265,28.650146,77.252764,64.0,Smart LED Street Light,True
+266,28.625931,77.210714,90.0,Sodium Vapor Lamp,True
+267,28.651312,77.184536,70.0,Solar Pole Light,True
+268,28.704899,77.177874,93.0,Solar Pole Light,True
+269,28.635126,77.219644,57.0,Smart LED Street Light,True
+270,28.670706,77.224812,79.0,High-Mast Floodlight,True
+271,28.565111,77.206624,86.0,High-Mast Floodlight,True
+272,28.668901,77.251738,66.0,Smart LED Street Light,True
+273,28.611853,77.222467,79.0,High-Mast Floodlight,True
+274,28.666404,77.325022,52.0,Solar Pole Light,True
+275,28.650692,77.335021,54.0,Solar Pole Light,True
+276,28.567835,77.101358,87.0,Solar Pole Light,True
+277,28.481918,77.052887,89.0,Solar Pole Light,True
+278,28.653024,77.243473,50.0,Smart LED Street Light,True
+279,28.627651,77.236757,96.0,Solar Pole Light,True
+280,28.572246,77.181298,89.0,Solar Pole Light,True
+281,28.624899,77.060843,75.0,Smart LED Street Light,True
+282,28.718109,77.084561,70.0,Solar Pole Light,True
+283,28.662579,77.211635,72.0,Solar Pole Light,True
+284,28.613419,77.236482,39.0,High-Mast Floodlight,False
+285,28.615364,77.24053,100.0,Sodium Vapor Lamp,True
+286,28.717472,77.150501,73.0,Smart LED Street Light,True
+287,28.557547,77.323892,78.0,Sodium Vapor Lamp,True
+288,28.597851,77.2509,56.0,High-Mast Floodlight,True
+289,28.704365,77.115859,57.0,Sodium Vapor Lamp,True
+290,28.680314,77.196352,92.0,High-Mast Floodlight,True
+291,28.511874,77.153338,73.0,Sodium Vapor Lamp,True
+292,28.494406,77.221801,93.0,High-Mast Floodlight,True
+293,28.718249,77.087449,57.0,Solar Pole Light,True
+294,28.561016,77.194957,74.0,Sodium Vapor Lamp,True
+295,28.722983,77.143409,68.0,Solar Pole Light,True
+296,28.457497,77.091801,90.0,Smart LED Street Light,True
+297,28.661797,77.288427,50.0,Smart LED Street Light,True
+298,28.574264,77.304961,86.0,Smart LED Street Light,True
+299,28.606319,77.261379,68.0,Smart LED Street Light,True
+300,28.54602,77.207026,21.0,Solar Pole Light,False
+301,28.659924,77.086587,88.0,Sodium Vapor Lamp,True
+302,28.510332,77.176326,92.0,High-Mast Floodlight,True
+303,28.620137,77.209317,65.0,High-Mast Floodlight,True
+304,28.721943,77.126775,50.0,Sodium Vapor Lamp,True
+305,28.635876,77.246401,74.0,High-Mast Floodlight,True
+306,28.655339,77.277936,50.0,Smart LED Street Light,True
+307,28.556744,77.224537,90.0,Sodium Vapor Lamp,True
+308,28.607329,77.259476,70.0,Sodium Vapor Lamp,True
+309,28.587364,77.203317,21.0,Solar Pole Light,False
+310,28.626177,77.197956,99.0,High-Mast Floodlight,True
+311,28.627775,77.219237,95.0,High-Mast Floodlight,True
+312,28.562703,77.197,76.0,Solar Pole Light,True
+313,28.527873,77.215439,31.0,Solar Pole Light,False
+314,28.629892,77.218819,16.0,Solar Pole Light,False
+315,28.590128,77.046377,76.0,Solar Pole Light,True
+316,28.636064,77.092464,64.0,Solar Pole Light,True
+317,28.589063,77.325742,76.0,High-Mast Floodlight,True
+318,28.600451,77.28453,22.0,High-Mast Floodlight,False
+319,28.547125,77.242171,78.0,High-Mast Floodlight,True
+320,28.548735,77.195938,80.0,Smart LED Street Light,True
+321,28.610129,77.239663,63.0,Smart LED Street Light,True
+322,28.635926,77.316857,66.0,Smart LED Street Light,True
+323,28.633597,77.197146,18.0,Sodium Vapor Lamp,False
+324,28.520314,77.072177,92.0,Solar Pole Light,True
+325,28.589389,77.328544,76.0,Smart LED Street Light,True
+326,28.579175,77.081506,63.0,Solar Pole Light,True
+327,28.623027,77.333383,50.0,Sodium Vapor Lamp,True
+328,28.569412,77.186688,79.0,Smart LED Street Light,True
+329,28.619949,77.040999,18.0,Sodium Vapor Lamp,False
+330,28.575774,77.245206,84.0,Solar Pole Light,True
+331,28.640114,77.232216,50.0,Sodium Vapor Lamp,True
+332,28.60797,77.011029,77.0,Sodium Vapor Lamp,True
+333,28.596087,77.20675,75.0,Solar Pole Light,True
+334,28.587851,77.232534,36.0,Smart LED Street Light,False
+335,28.527581,77.191884,81.0,Sodium Vapor Lamp,True
+336,28.502386,77.202302,94.0,Smart LED Street Light,True
+337,28.543239,77.215693,80.0,High-Mast Floodlight,True
+338,28.521206,77.117414,84.0,Solar Pole Light,True
+339,28.483757,77.085316,20.0,Smart LED Street Light,False
+340,28.558431,77.029883,81.0,Solar Pole Light,True
+341,28.641197,77.120112,63.0,Smart LED Street Light,True
+342,28.605713,77.205851,96.0,High-Mast Floodlight,True
+343,28.716072,77.122203,64.0,Solar Pole Light,True
+344,28.640008,77.249481,55.0,High-Mast Floodlight,True
+345,28.539923,77.199811,90.0,Sodium Vapor Lamp,True
+346,28.678426,77.228628,72.0,Sodium Vapor Lamp,True
+347,28.613172,77.085608,85.0,High-Mast Floodlight,True
+348,28.547633,77.1927,38.0,Smart LED Street Light,False
+349,28.646524,77.222573,33.0,Sodium Vapor Lamp,False
+350,28.676218,77.26909,50.0,Sodium Vapor Lamp,True
+351,28.702839,77.203524,92.0,High-Mast Floodlight,True
+352,28.593462,77.327393,73.0,Sodium Vapor Lamp,True
+353,28.492854,77.098454,23.0,Solar Pole Light,False
+354,28.598982,77.195165,96.0,High-Mast Floodlight,True
+355,28.692721,77.119459,72.0,Smart LED Street Light,True
+356,28.65655,77.132426,67.0,Sodium Vapor Lamp,True
+357,28.701661,77.220217,85.0,Sodium Vapor Lamp,True
+358,28.488479,77.195747,87.0,Smart LED Street Light,True
+359,28.614644,77.205283,80.0,Sodium Vapor Lamp,True
+360,28.566637,77.310558,72.0,Sodium Vapor Lamp,True
+361,28.677014,77.131558,58.0,Smart LED Street Light,True
+362,28.621345,77.220785,55.0,Sodium Vapor Lamp,True
+363,28.654182,77.258912,57.0,Sodium Vapor Lamp,True
+364,28.444394,77.08378,89.0,Smart LED Street Light,True
+365,28.592019,77.359167,73.0,Sodium Vapor Lamp,True
+366,28.605809,77.227634,28.0,Smart LED Street Light,False
+367,28.530694,77.152881,96.0,Smart LED Street Light,True
+368,28.699787,77.284941,65.0,Solar Pole Light,True
+369,28.647875,77.225354,55.0,Sodium Vapor Lamp,True
+370,28.738316,77.11856,51.0,High-Mast Floodlight,True
+371,28.501161,77.081667,99.0,Sodium Vapor Lamp,True
+372,28.694283,77.203336,68.0,Smart LED Street Light,True
+373,28.579631,77.202608,26.0,Solar Pole Light,False
+374,28.547542,77.154415,92.0,Smart LED Street Light,True
+375,28.635421,77.228472,95.0,High-Mast Floodlight,True
+376,28.586439,77.113038,34.0,High-Mast Floodlight,False
+377,28.551885,77.226925,27.0,High-Mast Floodlight,False
+378,28.483087,77.116989,81.0,Solar Pole Light,True
+379,28.506687,77.262855,61.0,Smart LED Street Light,True
+380,28.516121,77.093965,93.0,High-Mast Floodlight,True
+381,28.568902,77.325711,38.0,Smart LED Street Light,False
+382,28.550422,77.167904,96.0,Sodium Vapor Lamp,True
+383,28.653912,77.217792,64.0,High-Mast Floodlight,True
+384,28.661053,77.271975,56.0,High-Mast Floodlight,True
+385,28.545502,77.222775,79.0,Solar Pole Light,True
+386,28.654671,77.157192,50.0,High-Mast Floodlight,True
+387,28.680618,77.232395,60.0,Solar Pole Light,True
+388,28.494626,77.08173,79.0,Sodium Vapor Lamp,True
+389,28.669382,77.333951,68.0,Solar Pole Light,True
+390,28.524542,77.163141,92.0,High-Mast Floodlight,True
+391,28.550567,77.212408,82.0,Solar Pole Light,True
+392,28.676366,77.227448,69.0,High-Mast Floodlight,True
+393,28.661863,77.226262,55.0,Solar Pole Light,True
+394,28.563902,77.210424,77.0,Sodium Vapor Lamp,True
+395,28.65217,77.283638,51.0,Sodium Vapor Lamp,True
+396,28.556008,77.170086,97.0,Sodium Vapor Lamp,True
+397,28.654178,77.231866,75.0,Sodium Vapor Lamp,True
+398,28.531529,77.228003,16.0,High-Mast Floodlight,False
+399,28.66697,77.210863,55.0,Solar Pole Light,True
+400,28.664239,77.213602,16.0,Solar Pole Light,False
+401,28.556496,77.23711,61.0,Solar Pole Light,True
+402,28.479152,77.083341,36.0,High-Mast Floodlight,False
+403,28.502128,77.159266,86.0,Solar Pole Light,True
+404,28.612924,77.213158,92.0,Sodium Vapor Lamp,True
+405,28.729785,77.135351,51.0,Smart LED Street Light,True
+406,28.635349,77.213246,77.0,Sodium Vapor Lamp,True
+407,28.551817,77.191202,87.0,Solar Pole Light,True
+408,28.681589,77.271123,50.0,High-Mast Floodlight,True
+409,28.56471,77.199923,65.0,Smart LED Street Light,True
+410,28.664408,77.165815,78.0,Smart LED Street Light,True
+411,28.613899,77.282848,23.0,Solar Pole Light,False
+412,28.551713,77.180424,97.0,Solar Pole Light,True
+413,28.57001,77.221377,97.0,High-Mast Floodlight,True
+414,28.64891,77.254279,90.0,Smart LED Street Light,True
+415,28.651093,77.305167,54.0,Sodium Vapor Lamp,True
+416,28.681142,77.255529,50.0,Solar Pole Light,True
+417,28.652327,77.226109,50.0,Smart LED Street Light,True
+418,28.664004,77.271193,52.0,Sodium Vapor Lamp,True
+419,28.664048,77.230821,73.0,High-Mast Floodlight,True
+420,28.716089,77.081218,59.0,High-Mast Floodlight,True
+421,28.633006,77.306814,62.0,Smart LED Street Light,True
+422,28.538918,77.203147,74.0,High-Mast Floodlight,True
+423,28.630452,77.337421,52.0,Smart LED Street Light,True
+424,28.716604,77.116414,75.0,Smart LED Street Light,True
+425,28.606142,77.280404,78.0,Solar Pole Light,True
+426,28.646902,77.200357,100.0,Solar Pole Light,True
+427,28.629638,77.209925,50.0,Sodium Vapor Lamp,True
+428,28.585983,77.213115,100.0,High-Mast Floodlight,True
+429,28.707076,77.134088,80.0,Smart LED Street Light,True
+430,28.656951,77.194472,79.0,Smart LED Street Light,True
+431,28.673218,77.238253,65.0,High-Mast Floodlight,True
+432,28.629709,77.085736,66.0,Sodium Vapor Lamp,True
+433,28.661507,77.229345,50.0,Smart LED Street Light,True
+434,28.446224,77.086814,76.0,Smart LED Street Light,True
+435,28.684655,77.259524,40.0,Solar Pole Light,False
+436,28.559308,77.179723,22.0,Solar Pole Light,False
+437,28.623673,77.091746,80.0,Sodium Vapor Lamp,True
+438,28.609547,77.081479,72.0,Smart LED Street Light,True
+439,28.552315,77.179078,38.0,Smart LED Street Light,False
+440,28.662211,77.265996,17.0,Solar Pole Light,False
+441,28.642811,77.228024,40.0,Solar Pole Light,False
+442,28.618023,77.269076,39.0,Sodium Vapor Lamp,False
+443,28.601689,77.252886,76.0,Smart LED Street Light,True
+444,28.559837,77.317044,77.0,High-Mast Floodlight,True
+445,28.603635,77.306349,82.0,Solar Pole Light,True
+446,28.531035,77.212609,98.0,Solar Pole Light,True
+447,28.642844,77.194923,92.0,High-Mast Floodlight,True
+448,28.570182,77.198585,33.0,Sodium Vapor Lamp,False
+449,28.55341,77.133563,72.0,Solar Pole Light,True
+450,28.538925,77.256358,88.0,Solar Pole Light,True
+451,28.577528,77.221959,80.0,High-Mast Floodlight,True
+452,28.634307,77.213109,74.0,Solar Pole Light,True
+453,28.546212,77.272853,36.0,Smart LED Street Light,False
+454,28.521988,77.167768,87.0,Smart LED Street Light,True
+455,28.585528,77.058064,68.0,Smart LED Street Light,True
+456,28.559118,77.236744,75.0,Solar Pole Light,True
+457,28.689718,77.190156,35.0,High-Mast Floodlight,False
+458,28.564216,77.189836,62.0,High-Mast Floodlight,True
+459,28.712028,77.096713,60.0,Solar Pole Light,True
+460,28.613753,77.271179,50.0,Solar Pole Light,True
+461,28.764852,77.132292,55.0,Smart LED Street Light,True
+462,28.716215,77.111342,57.0,Sodium Vapor Lamp,True
+463,28.667949,77.239442,54.0,Solar Pole Light,True
+464,28.546384,77.342286,81.0,Solar Pole Light,True
+465,28.584308,77.334364,75.0,Smart LED Street Light,True
+466,28.67627,77.228892,54.0,High-Mast Floodlight,True
+467,28.680957,77.240336,70.0,Smart LED Street Light,True
+468,28.649119,77.229528,72.0,Smart LED Street Light,True
+469,28.667037,77.30598,54.0,High-Mast Floodlight,True
+470,28.588118,77.200149,97.0,Sodium Vapor Lamp,True
+471,28.527795,77.207618,77.0,Solar Pole Light,True
+472,28.527967,77.211479,86.0,Smart LED Street Light,True
+473,28.608236,77.307097,55.0,High-Mast Floodlight,True
+474,28.614882,77.29843,69.0,High-Mast Floodlight,True
+475,28.492935,77.056636,93.0,High-Mast Floodlight,True
+476,28.566483,77.353229,71.0,High-Mast Floodlight,True
+477,28.570418,77.324614,78.0,Solar Pole Light,True
+478,28.541997,77.197673,21.0,Solar Pole Light,False
+479,28.605196,77.270946,69.0,Smart LED Street Light,True
+480,28.638533,77.240654,90.0,Smart LED Street Light,True
+481,28.620571,77.22093,50.0,Solar Pole Light,True
+482,28.674964,77.297803,50.0,Sodium Vapor Lamp,True
+483,28.644311,77.256998,75.0,Smart LED Street Light,True
+484,28.626583,77.190848,64.0,High-Mast Floodlight,True
+485,28.63812,77.225327,61.0,Solar Pole Light,True
+486,28.589747,77.318481,98.0,Smart LED Street Light,True
+487,28.636403,77.219035,50.0,High-Mast Floodlight,True
+488,28.550497,77.251791,35.0,Solar Pole Light,False
+489,28.537847,77.243695,65.0,Solar Pole Light,True
+490,28.687372,77.315136,50.0,High-Mast Floodlight,True
+491,28.618099,77.080651,83.0,Smart LED Street Light,True
+492,28.566392,77.347457,85.0,High-Mast Floodlight,True
+493,28.620763,77.305669,56.0,Sodium Vapor Lamp,True
+494,28.601921,77.212367,79.0,High-Mast Floodlight,True
+495,28.515915,77.218371,71.0,High-Mast Floodlight,True
+496,28.580938,77.238743,100.0,High-Mast Floodlight,True
+497,28.683286,77.188737,54.0,Smart LED Street Light,True
+498,28.595894,77.03276,66.0,Sodium Vapor Lamp,True
+499,28.655418,77.315383,72.0,Sodium Vapor Lamp,True
+500,28.63887,77.200357,68.0,High-Mast Floodlight,True
+501,28.701087,77.271182,50.0,Solar Pole Light,True
+502,28.666095,77.164735,65.0,Sodium Vapor Lamp,True
+503,28.627771,77.324448,52.0,Sodium Vapor Lamp,True
+504,28.642382,77.284412,15.0,High-Mast Floodlight,False
+505,28.636539,77.215986,51.0,Sodium Vapor Lamp,True
+506,28.499492,77.21869,75.0,Sodium Vapor Lamp,True
+507,28.664547,77.305958,73.0,Smart LED Street Light,True
+508,28.646799,77.246318,50.0,Smart LED Street Light,True
+509,28.613166,77.086477,71.0,Smart LED Street Light,True
+510,28.684794,77.211059,65.0,Sodium Vapor Lamp,True
+511,28.605533,77.264349,80.0,Smart LED Street Light,True
+512,28.636784,77.084176,30.0,High-Mast Floodlight,False
+513,28.643213,77.267426,73.0,Sodium Vapor Lamp,True
+514,28.695892,77.216492,72.0,Smart LED Street Light,True
+515,28.627669,77.29515,50.0,Smart LED Street Light,True
+516,28.599007,77.293113,77.0,Solar Pole Light,True
+517,28.582498,77.105652,64.0,Sodium Vapor Lamp,True
+518,28.640777,77.289615,57.0,Sodium Vapor Lamp,True
+519,28.665285,77.255921,50.0,Sodium Vapor Lamp,True
+520,28.561859,77.253726,85.0,Sodium Vapor Lamp,True
+521,28.653818,77.202288,72.0,Sodium Vapor Lamp,True
+522,28.707029,77.197215,68.0,Solar Pole Light,True
+523,28.645044,77.279387,82.0,Smart LED Street Light,True
+524,28.549224,77.183394,87.0,High-Mast Floodlight,True
+525,28.545618,77.218533,72.0,Solar Pole Light,True
+526,28.537449,77.185223,91.0,Smart LED Street Light,True
+527,28.622676,77.190358,75.0,Smart LED Street Light,True
+528,28.631152,77.248273,60.0,Sodium Vapor Lamp,True
+529,28.673938,77.232585,22.0,Solar Pole Light,False
+530,28.604116,77.244979,68.0,Sodium Vapor Lamp,True
+531,28.621435,77.285386,71.0,Solar Pole Light,True
+532,28.671616,77.293579,39.0,High-Mast Floodlight,False
+533,28.583604,77.34385,76.0,Solar Pole Light,True
+534,28.534428,77.246393,34.0,High-Mast Floodlight,False
+535,28.636816,77.31337,50.0,Solar Pole Light,True
+536,28.574154,77.200255,70.0,Smart LED Street Light,True
+537,28.653986,77.229183,61.0,Sodium Vapor Lamp,True
+538,28.590955,77.255583,71.0,Smart LED Street Light,True
+539,28.669787,77.218024,62.0,Solar Pole Light,True
+540,28.553326,77.164252,81.0,Solar Pole Light,True
+541,28.632984,77.214949,80.0,High-Mast Floodlight,True
+542,28.518882,77.069877,93.0,Smart LED Street Light,True
+543,28.658212,77.237741,66.0,Smart LED Street Light,True
+544,28.555668,77.149969,24.0,Solar Pole Light,False
+545,28.53745,77.228547,90.0,Solar Pole Light,True
+546,28.574778,77.174577,88.0,Solar Pole Light,True
+547,28.496706,77.073335,93.0,Sodium Vapor Lamp,True
+548,28.550591,77.22045,95.0,Sodium Vapor Lamp,True
+549,28.503368,77.117532,100.0,Smart LED Street Light,True
+550,28.583009,77.289938,17.0,Sodium Vapor Lamp,False
+551,28.588239,77.190039,72.0,Solar Pole Light,True
+552,28.614221,77.092804,76.0,Smart LED Street Light,True
+553,28.707413,77.290698,52.0,Sodium Vapor Lamp,True
+554,28.728734,77.112936,20.0,Sodium Vapor Lamp,False
+555,28.72729,77.134353,78.0,Solar Pole Light,True
+556,28.645287,77.226504,76.0,High-Mast Floodlight,True
+557,28.574601,77.329955,77.0,High-Mast Floodlight,True
+558,28.680818,77.236932,56.0,High-Mast Floodlight,True
+559,28.663679,77.302655,69.0,Smart LED Street Light,True
+560,28.538234,77.178097,81.0,Sodium Vapor Lamp,True
+561,28.65569,77.330579,32.0,Smart LED Street Light,False
+562,28.579155,77.35349,80.0,Sodium Vapor Lamp,True
+563,28.664888,77.288375,50.0,High-Mast Floodlight,True
+564,28.620966,77.208258,50.0,High-Mast Floodlight,True
+565,28.626811,77.246482,93.0,Sodium Vapor Lamp,True
+566,28.534121,77.153568,26.0,Sodium Vapor Lamp,False
+567,28.621343,77.183459,58.0,Sodium Vapor Lamp,True
+568,28.734408,77.128104,50.0,High-Mast Floodlight,True
+569,28.622713,77.278295,65.0,Solar Pole Light,True
+570,28.647041,77.301794,50.0,Solar Pole Light,True
+571,28.581177,77.218419,95.0,Solar Pole Light,True
+572,28.69874,77.199679,78.0,High-Mast Floodlight,True
+573,28.578833,77.109743,71.0,Solar Pole Light,True
+574,28.603123,77.260044,60.0,High-Mast Floodlight,True
+575,28.67887,77.26716,56.0,Smart LED Street Light,True
+576,28.688699,77.24084,67.0,Sodium Vapor Lamp,True
+577,28.626371,77.249981,80.0,High-Mast Floodlight,True
+578,28.594239,77.325225,75.0,Sodium Vapor Lamp,True
+579,28.562614,77.322868,35.0,Solar Pole Light,False
+580,28.534475,77.328173,87.0,Smart LED Street Light,True
+581,28.592113,77.250247,20.0,Smart LED Street Light,False
+582,28.539553,77.262254,75.0,Smart LED Street Light,True
+583,28.482415,77.120175,83.0,Solar Pole Light,True
+584,28.678184,77.176053,94.0,Solar Pole Light,True
+585,28.66657,77.234916,18.0,Solar Pole Light,False
+586,28.643782,77.304034,63.0,High-Mast Floodlight,True
+587,28.5953,77.056036,81.0,Sodium Vapor Lamp,True
+588,28.517348,77.11847,87.0,Solar Pole Light,True
+589,28.487805,77.062979,79.0,High-Mast Floodlight,True
+590,28.708331,77.121806,69.0,Sodium Vapor Lamp,True
+591,28.636925,77.221857,25.0,High-Mast Floodlight,False
+592,28.723476,77.115627,59.0,Solar Pole Light,True
+593,28.647556,77.29983,53.0,Sodium Vapor Lamp,True
+594,28.684292,77.191715,81.0,Sodium Vapor Lamp,True
+595,28.639704,77.108505,87.0,Smart LED Street Light,True
+596,28.487576,77.18801,91.0,Solar Pole Light,True
+597,28.626269,77.228,57.0,Smart LED Street Light,True
+598,28.547731,77.171107,30.0,Smart LED Street Light,False
+599,28.611963,77.197621,91.0,Smart LED Street Light,True
+600,28.553545,77.201487,64.0,Smart LED Street Light,True
+601,28.598265,77.280836,62.0,Solar Pole Light,True
+602,28.484066,77.084067,79.0,High-Mast Floodlight,True
+603,28.663869,77.244509,26.0,Solar Pole Light,False
+604,28.544008,77.336595,97.0,Solar Pole Light,True
+605,28.556228,77.132035,100.0,High-Mast Floodlight,True
+606,28.681376,77.305759,50.0,Sodium Vapor Lamp,True
+607,28.620349,77.19765,52.0,Solar Pole Light,True
+608,28.709253,77.21563,72.0,Smart LED Street Light,True
+609,28.50603,77.096312,88.0,Solar Pole Light,True
+610,28.532314,77.180071,70.0,High-Mast Floodlight,True
+611,28.709846,77.233592,82.0,Smart LED Street Light,True
+612,28.565412,77.31913,85.0,Solar Pole Light,True
+613,28.599778,77.227985,100.0,Solar Pole Light,True
+614,28.658341,77.313756,50.0,Solar Pole Light,True
+615,28.592487,77.233318,77.0,Sodium Vapor Lamp,True
+616,28.623992,77.256907,77.0,Sodium Vapor Lamp,True
+617,28.612229,77.273813,57.0,Sodium Vapor Lamp,True
+618,28.571706,77.202609,90.0,Solar Pole Light,True
+619,28.589471,77.062521,77.0,Solar Pole Light,True
+620,28.613165,77.055668,62.0,High-Mast Floodlight,True
+621,28.559492,77.234229,90.0,Sodium Vapor Lamp,True
+622,28.621055,77.328794,67.0,Sodium Vapor Lamp,True
+623,28.559941,77.24527,64.0,Smart LED Street Light,True
+624,28.545884,77.150312,18.0,Solar Pole Light,False
+625,28.651825,77.214689,29.0,Smart LED Street Light,False
+626,28.548876,77.193364,15.0,Sodium Vapor Lamp,False
+627,28.568656,77.225685,69.0,Sodium Vapor Lamp,True
+628,28.702541,77.239945,90.0,Smart LED Street Light,True
+629,28.704999,77.121388,39.0,High-Mast Floodlight,False
+630,28.622894,77.23894,92.0,Smart LED Street Light,True
+631,28.541519,77.169854,76.0,Solar Pole Light,True
+632,28.622345,77.252547,58.0,High-Mast Floodlight,True
+633,28.630083,77.295046,69.0,High-Mast Floodlight,True
+634,28.597634,77.230259,100.0,Smart LED Street Light,True
+635,28.656467,77.211814,50.0,Sodium Vapor Lamp,True
+636,28.63416,77.324577,64.0,Solar Pole Light,True
+637,28.63598,77.162979,56.0,Smart LED Street Light,True
+638,28.673576,77.242931,59.0,High-Mast Floodlight,True
+639,28.684283,77.239265,92.0,High-Mast Floodlight,True
+640,28.522628,77.213958,73.0,Solar Pole Light,True
+641,28.618283,77.252088,83.0,Smart LED Street Light,True
+642,28.65255,77.261967,55.0,Smart LED Street Light,True
+643,28.654009,77.292192,50.0,High-Mast Floodlight,True
+644,28.681157,77.209292,72.0,High-Mast Floodlight,True
+645,28.570508,77.281607,34.0,Solar Pole Light,False
+646,28.612623,77.215705,35.0,High-Mast Floodlight,False
+647,28.530138,77.183873,74.0,Sodium Vapor Lamp,True
+648,28.54207,77.226264,82.0,Solar Pole Light,True
+649,28.489421,77.083905,75.0,Sodium Vapor Lamp,True
+650,28.704707,77.217001,73.0,Smart LED Street Light,True
+651,28.581412,77.339364,87.0,Solar Pole Light,True
+652,28.533374,77.142755,76.0,High-Mast Floodlight,True
+653,28.518297,77.138492,93.0,Sodium Vapor Lamp,True
+654,28.726482,77.253394,69.0,High-Mast Floodlight,True
+655,28.629179,77.214551,59.0,Solar Pole Light,True
+656,28.677137,77.239445,64.0,Smart LED Street Light,True
+657,28.653778,77.210901,50.0,Smart LED Street Light,True
+658,28.644391,77.321558,69.0,High-Mast Floodlight,True
+659,28.718318,77.072214,71.0,Sodium Vapor Lamp,True
+660,28.565404,77.222972,75.0,High-Mast Floodlight,True
+661,28.650404,77.374705,58.0,Solar Pole Light,True
+662,28.55675,77.193829,36.0,Smart LED Street Light,False
+663,28.631336,77.239154,84.0,High-Mast Floodlight,True
+664,28.621302,77.241637,95.0,High-Mast Floodlight,True
+665,28.590531,77.177482,35.0,Sodium Vapor Lamp,False
+666,28.579473,77.301472,92.0,Solar Pole Light,True
+667,28.62401,77.211126,99.0,Smart LED Street Light,True
+668,28.622053,77.211798,81.0,Sodium Vapor Lamp,True
+669,28.675716,77.259369,65.0,Smart LED Street Light,True
+670,28.663986,77.211299,95.0,Sodium Vapor Lamp,True
+671,28.674708,77.18503,66.0,Solar Pole Light,True
+672,28.63846,77.20983,17.0,Solar Pole Light,False
+673,28.704734,77.249659,75.0,Smart LED Street Light,True
+674,28.521848,77.188805,77.0,Sodium Vapor Lamp,True
+675,28.590428,77.281769,81.0,High-Mast Floodlight,True
+676,28.63328,77.237402,50.0,Sodium Vapor Lamp,True
+677,28.586819,77.207892,78.0,Solar Pole Light,True
+678,28.477634,77.100193,88.0,Smart LED Street Light,True
+679,28.598985,77.190668,72.0,Sodium Vapor Lamp,True
+680,28.649356,77.234485,50.0,Sodium Vapor Lamp,True
+681,28.668622,77.211914,82.0,Solar Pole Light,True
+682,28.670392,77.215308,85.0,Sodium Vapor Lamp,True
+683,28.698693,77.108438,68.0,High-Mast Floodlight,True
+684,28.592784,77.290323,84.0,Solar Pole Light,True
+685,28.706069,77.205508,79.0,Sodium Vapor Lamp,True
+686,28.631165,77.188728,84.0,Smart LED Street Light,True
+687,28.636806,77.214996,24.0,Smart LED Street Light,False
+688,28.644516,77.023761,66.0,Solar Pole Light,True
+689,28.659684,77.237637,100.0,Solar Pole Light,True
+690,28.545613,77.190172,88.0,High-Mast Floodlight,True
+691,28.556842,77.207883,26.0,High-Mast Floodlight,False
+692,28.523438,77.231071,98.0,High-Mast Floodlight,True
+693,28.589129,77.197486,74.0,Smart LED Street Light,True
+694,28.638615,77.27094,59.0,High-Mast Floodlight,True
+695,28.640199,77.23973,70.0,Sodium Vapor Lamp,True
+696,28.676449,77.181454,83.0,Smart LED Street Light,True
+697,28.646044,77.31616,50.0,Sodium Vapor Lamp,True
+698,28.673169,77.196062,74.0,Solar Pole Light,True
+699,28.676766,77.214426,78.0,Sodium Vapor Lamp,True
+700,28.573402,77.190262,67.0,Smart LED Street Light,True
+701,28.575169,77.289694,31.0,Smart LED Street Light,False
+702,28.703893,77.092807,54.0,Solar Pole Light,True
+703,28.630313,77.212309,50.0,Smart LED Street Light,True
+704,28.600605,77.233189,79.0,Smart LED Street Light,True
+705,28.585141,77.235498,90.0,Sodium Vapor Lamp,True
+706,28.53753,77.183846,17.0,Sodium Vapor Lamp,False
+707,28.66097,77.27487,50.0,Sodium Vapor Lamp,True
+708,28.679476,77.241867,31.0,Sodium Vapor Lamp,False
+709,28.509817,77.20824,85.0,High-Mast Floodlight,True
+710,28.579146,77.349116,88.0,High-Mast Floodlight,True
+711,28.55409,77.170781,93.0,High-Mast Floodlight,True
+712,28.568877,77.238209,39.0,Sodium Vapor Lamp,False
+713,28.724795,77.099378,68.0,Smart LED Street Light,True
+714,28.577467,77.214058,73.0,Solar Pole Light,True
+715,28.680039,77.20061,76.0,Smart LED Street Light,True
+716,28.598032,77.055264,71.0,Sodium Vapor Lamp,True
+717,28.650846,77.321226,16.0,High-Mast Floodlight,False
+718,28.603999,77.261431,64.0,Smart LED Street Light,True
+719,28.553213,77.218926,67.0,High-Mast Floodlight,True
+720,28.57145,77.053959,37.0,Smart LED Street Light,False
+721,28.628286,77.041639,60.0,Solar Pole Light,True
+722,28.553047,77.226958,66.0,High-Mast Floodlight,True
+723,28.518207,77.139305,78.0,Sodium Vapor Lamp,True
+724,28.63949,77.286889,50.0,Smart LED Street Light,True
+725,28.613012,77.295346,76.0,Smart LED Street Light,True
+726,28.649345,77.258886,59.0,High-Mast Floodlight,True
+727,28.657116,77.335612,59.0,Smart LED Street Light,True
+728,28.643043,77.258091,53.0,Solar Pole Light,True
+729,28.527561,77.217905,35.0,Sodium Vapor Lamp,False
+730,28.570637,77.221065,81.0,Smart LED Street Light,True
+731,28.693088,77.098699,69.0,Smart LED Street Light,True
+732,28.663645,77.171633,85.0,Sodium Vapor Lamp,True
+733,28.549264,77.127657,70.0,Smart LED Street Light,True
+734,28.584163,77.18535,74.0,Solar Pole Light,True
+735,28.581046,77.332513,75.0,Smart LED Street Light,True
+736,28.674965,77.221841,76.0,Solar Pole Light,True
+737,28.572409,77.199223,81.0,Solar Pole Light,True
+738,28.592729,77.190247,100.0,Sodium Vapor Lamp,True
+739,28.637393,77.186404,100.0,Solar Pole Light,True
+740,28.569107,77.204731,93.0,Sodium Vapor Lamp,True
+741,28.538083,77.200559,27.0,High-Mast Floodlight,False
+742,28.615311,77.102437,64.0,Sodium Vapor Lamp,True
+743,28.598801,77.052323,70.0,Sodium Vapor Lamp,True
+744,28.549385,77.124289,35.0,High-Mast Floodlight,False
+745,28.680136,77.287249,55.0,High-Mast Floodlight,True
+746,28.504166,77.201718,92.0,High-Mast Floodlight,True
+747,28.621114,77.08511,84.0,High-Mast Floodlight,True
+748,28.671677,77.303627,50.0,Smart LED Street Light,True
+749,28.561635,77.128756,93.0,Smart LED Street Light,True
+750,28.664141,77.217179,83.0,High-Mast Floodlight,True
+751,28.638136,77.23952,100.0,Sodium Vapor Lamp,True
+752,28.662145,77.108274,83.0,Solar Pole Light,True
+753,28.529486,77.227502,73.0,High-Mast Floodlight,True
+754,28.654598,77.191078,34.0,Solar Pole Light,False
+755,28.639872,77.346268,52.0,High-Mast Floodlight,True
+756,28.550831,77.240647,76.0,Smart LED Street Light,True
+757,28.579997,77.292014,34.0,Sodium Vapor Lamp,False
+758,28.696253,77.168199,77.0,Sodium Vapor Lamp,True
+759,28.58251,77.337705,21.0,High-Mast Floodlight,False
+760,28.601053,77.231971,80.0,Solar Pole Light,True
+761,28.660983,77.077685,81.0,High-Mast Floodlight,True
+762,28.548822,77.269633,29.0,Sodium Vapor Lamp,False
+763,28.755852,77.116674,78.0,High-Mast Floodlight,True
+764,28.642129,77.11463,61.0,Sodium Vapor Lamp,True
+765,28.70175,77.106894,80.0,Smart LED Street Light,True
+766,28.667417,77.2497,29.0,Smart LED Street Light,False
+767,28.578458,77.192404,77.0,Smart LED Street Light,True
+768,28.579741,77.144381,94.0,Smart LED Street Light,True
+769,28.563297,77.246847,72.0,Solar Pole Light,True
+770,28.623183,77.06308,73.0,Solar Pole Light,True
+771,28.655197,77.324266,67.0,High-Mast Floodlight,True
+772,28.49587,77.100663,89.0,Smart LED Street Light,True
+773,28.592209,77.210068,39.0,High-Mast Floodlight,False
+774,28.617526,77.25428,69.0,Smart LED Street Light,True
+775,28.659426,77.186511,83.0,High-Mast Floodlight,True
+776,28.53011,77.12096,25.0,High-Mast Floodlight,False
+777,28.540084,77.197083,37.0,Sodium Vapor Lamp,False
+778,28.687421,77.201167,37.0,Sodium Vapor Lamp,False
+779,28.6467,77.200834,50.0,Sodium Vapor Lamp,True
+780,28.517388,77.167454,94.0,High-Mast Floodlight,True
+781,28.729191,77.100514,71.0,High-Mast Floodlight,True
+782,28.669607,77.177968,60.0,Smart LED Street Light,True
+783,28.626963,77.104207,83.0,Sodium Vapor Lamp,True
+784,28.591428,77.055095,63.0,High-Mast Floodlight,True
+785,28.559671,77.236071,39.0,Solar Pole Light,False
+786,28.626283,77.202768,100.0,Sodium Vapor Lamp,True
+787,28.536465,77.124028,89.0,Sodium Vapor Lamp,True
+788,28.557377,77.204302,86.0,Sodium Vapor Lamp,True
+789,28.489876,77.08467,77.0,Smart LED Street Light,True
+790,28.565965,77.219589,73.0,High-Mast Floodlight,True
+791,28.63039,77.216505,81.0,Solar Pole Light,True
+792,28.588836,77.208659,16.0,Solar Pole Light,False
+793,28.706856,77.109562,51.0,Smart LED Street Light,True
+794,28.6065,77.061878,65.0,Solar Pole Light,True
+795,28.637778,77.318629,67.0,High-Mast Floodlight,True
+796,28.506901,77.078352,86.0,Smart LED Street Light,True
+797,28.64794,77.222466,55.0,Solar Pole Light,True
+798,28.612071,77.260331,79.0,Sodium Vapor Lamp,True
+799,28.551463,77.119283,30.0,High-Mast Floodlight,False
+800,28.542207,77.206122,68.0,Solar Pole Light,True
+801,28.646477,77.269861,50.0,High-Mast Floodlight,True
+802,28.653896,77.294919,33.0,Smart LED Street Light,False
+803,28.568091,77.284475,89.0,Solar Pole Light,True
+804,28.620288,77.071139,70.0,Solar Pole Light,True
+805,28.661108,77.205009,54.0,Solar Pole Light,True
+806,28.522165,77.193889,85.0,Sodium Vapor Lamp,True
+807,28.604777,77.313575,98.0,High-Mast Floodlight,True
+808,28.628751,77.062283,60.0,Smart LED Street Light,True
+809,28.640041,77.225075,100.0,Smart LED Street Light,True
+810,28.577876,77.201447,73.0,Sodium Vapor Lamp,True
+811,28.607322,77.246403,97.0,High-Mast Floodlight,True
+812,28.629422,77.189596,97.0,Solar Pole Light,True
+813,28.666452,77.262582,59.0,Solar Pole Light,True
+814,28.667738,77.21476,59.0,Smart LED Street Light,True
+815,28.568429,77.19277,70.0,Sodium Vapor Lamp,True
+816,28.630923,77.256511,50.0,High-Mast Floodlight,True
+817,28.601258,77.23452,70.0,Sodium Vapor Lamp,True
+818,28.565132,77.314003,90.0,High-Mast Floodlight,True
+819,28.608083,77.352519,84.0,Solar Pole Light,True
+820,28.539376,77.086319,88.0,Smart LED Street Light,True
+821,28.648712,77.185667,58.0,Solar Pole Light,True
+822,28.569539,77.131644,76.0,Solar Pole Light,True
+823,28.693236,77.188254,19.0,Solar Pole Light,False
+824,28.618623,77.200955,87.0,High-Mast Floodlight,True
+825,28.652842,77.264218,50.0,Smart LED Street Light,True
+826,28.581135,77.062667,70.0,Smart LED Street Light,True
+827,28.645403,77.232911,65.0,High-Mast Floodlight,True
+828,28.713259,77.199936,95.0,Solar Pole Light,True
+829,28.555642,77.23539,65.0,Smart LED Street Light,True
+830,28.712495,77.214082,89.0,High-Mast Floodlight,True
+831,28.645576,77.250678,50.0,Sodium Vapor Lamp,True
+832,28.620754,77.229627,50.0,Sodium Vapor Lamp,True
+833,28.650972,77.209844,50.0,High-Mast Floodlight,True
+834,28.532628,77.182366,90.0,High-Mast Floodlight,True
+835,28.580696,77.26458,74.0,Sodium Vapor Lamp,True
+836,28.630054,77.225168,24.0,Smart LED Street Light,False
+837,28.605159,77.303308,55.0,Sodium Vapor Lamp,True
+838,28.612279,77.211306,39.0,Solar Pole Light,False
+839,28.61167,77.204344,84.0,High-Mast Floodlight,True
+840,28.722444,77.112853,59.0,Solar Pole Light,True
+841,28.495235,77.112586,84.0,Smart LED Street Light,True
+842,28.655363,77.237654,23.0,Smart LED Street Light,False
+843,28.57545,77.207705,92.0,Smart LED Street Light,True
+844,28.559475,77.267767,77.0,Solar Pole Light,True
+845,28.6598,77.23616,37.0,Solar Pole Light,False
+846,28.667825,77.232389,50.0,Solar Pole Light,True
+847,28.662264,77.319308,62.0,Sodium Vapor Lamp,True
+848,28.623065,77.308025,30.0,Smart LED Street Light,False
+849,28.507718,77.234594,62.0,Sodium Vapor Lamp,True
+850,28.606951,77.283047,74.0,Sodium Vapor Lamp,True
+851,28.64599,77.306515,55.0,High-Mast Floodlight,True
+852,28.528603,77.16159,39.0,Sodium Vapor Lamp,False
+853,28.634657,77.290012,40.0,Sodium Vapor Lamp,False
+854,28.541076,77.177499,81.0,Sodium Vapor Lamp,True
+855,28.561,77.345143,77.0,High-Mast Floodlight,True
+856,28.636193,77.322169,56.0,Sodium Vapor Lamp,True
+857,28.637081,77.205758,76.0,Solar Pole Light,True
+858,28.73031,77.153572,50.0,Smart LED Street Light,True
+859,28.566489,77.333373,30.0,Sodium Vapor Lamp,False
+860,28.653661,77.216517,66.0,High-Mast Floodlight,True
+861,28.628423,77.2309,37.0,Smart LED Street Light,False
+862,28.712706,77.115316,52.0,Solar Pole Light,True
+863,28.541835,77.160045,88.0,Sodium Vapor Lamp,True
+864,28.564875,77.214294,82.0,High-Mast Floodlight,True
+865,28.601562,77.339709,80.0,High-Mast Floodlight,True
+866,28.682383,77.265889,50.0,Solar Pole Light,True
+867,28.522215,77.174106,75.0,Smart LED Street Light,True
+868,28.682521,77.304453,50.0,Sodium Vapor Lamp,True
+869,28.70452,77.112009,76.0,Sodium Vapor Lamp,True
+870,28.61891,77.182751,67.0,Smart LED Street Light,True
+871,28.666831,77.30567,34.0,Sodium Vapor Lamp,False
+872,28.72941,77.11279,71.0,Smart LED Street Light,True
+873,28.662681,77.218046,50.0,Smart LED Street Light,True
+874,28.526204,77.146777,84.0,Solar Pole Light,True
+875,28.608962,77.244691,69.0,High-Mast Floodlight,True
+876,28.59412,77.255548,70.0,Solar Pole Light,True
+877,28.674333,77.30542,51.0,Solar Pole Light,True
+878,28.602922,77.122747,89.0,Solar Pole Light,True
+879,28.674844,77.236269,64.0,Sodium Vapor Lamp,True
+880,28.547212,77.184474,71.0,Solar Pole Light,True
+881,28.52351,77.142828,70.0,Solar Pole Light,True
+882,28.53882,77.178969,87.0,Smart LED Street Light,True
+883,28.591662,77.204823,83.0,Sodium Vapor Lamp,True
+884,28.72365,77.105193,62.0,Sodium Vapor Lamp,True
+885,28.585488,77.093201,81.0,High-Mast Floodlight,True
+886,28.531755,77.318627,32.0,Sodium Vapor Lamp,False
+887,28.661534,77.249946,69.0,Solar Pole Light,True
+888,28.542727,77.208715,17.0,Smart LED Street Light,False
+889,28.549774,77.189674,85.0,Sodium Vapor Lamp,True
+890,28.53537,77.210596,35.0,Sodium Vapor Lamp,False
+891,28.50028,77.114947,97.0,Sodium Vapor Lamp,True
+892,28.66155,77.320774,61.0,Sodium Vapor Lamp,True
+893,28.506902,77.135799,82.0,Solar Pole Light,True
+894,28.564746,77.211867,84.0,Smart LED Street Light,True
+895,28.642396,77.323234,53.0,High-Mast Floodlight,True
+896,28.673128,77.228042,64.0,Solar Pole Light,True
+897,28.614341,77.225256,98.0,Sodium Vapor Lamp,True
+898,28.669862,77.21175,30.0,Smart LED Street Light,False
+899,28.529655,77.181765,86.0,Solar Pole Light,True
+900,28.501684,77.086395,91.0,Smart LED Street Light,True
+901,28.529044,77.192792,88.0,Smart LED Street Light,True
+902,28.531728,77.192754,79.0,Smart LED Street Light,True
+903,28.727731,77.08989,50.0,Sodium Vapor Lamp,True
+904,28.504721,77.058554,90.0,Solar Pole Light,True
+905,28.643554,77.078378,85.0,Solar Pole Light,True
+906,28.590227,77.072516,82.0,Solar Pole Light,True
+907,28.639257,77.247058,50.0,Sodium Vapor Lamp,True
+908,28.653328,77.295768,50.0,Solar Pole Light,True
+909,28.616513,77.258357,30.0,Smart LED Street Light,False
+910,28.515477,77.217635,97.0,Solar Pole Light,True
+911,28.691505,77.219237,23.0,Solar Pole Light,False
+912,28.659271,77.251578,18.0,High-Mast Floodlight,False
+913,28.627605,77.26723,51.0,Sodium Vapor Lamp,True
+914,28.692708,77.219184,73.0,High-Mast Floodlight,True
+915,28.559804,77.320689,86.0,Smart LED Street Light,True
+916,28.666833,77.103435,80.0,High-Mast Floodlight,True
+917,28.65597,77.295354,50.0,Sodium Vapor Lamp,True
+918,28.62308,77.096737,67.0,Sodium Vapor Lamp,True
+919,28.644849,77.194009,78.0,Solar Pole Light,True
+920,28.593645,77.225368,100.0,Smart LED Street Light,True
+921,28.625104,77.232639,92.0,Sodium Vapor Lamp,True
+922,28.580369,77.050484,90.0,High-Mast Floodlight,True
+923,28.626992,77.236301,67.0,Sodium Vapor Lamp,True
+924,28.690681,77.221775,28.0,Smart LED Street Light,False
+925,28.60061,77.069945,74.0,Sodium Vapor Lamp,True
+926,28.689167,77.102411,71.0,Smart LED Street Light,True
+927,28.543629,77.184425,80.0,Solar Pole Light,True
+928,28.656599,77.070665,80.0,Solar Pole Light,True
+929,28.705489,77.120688,75.0,Smart LED Street Light,True
+930,28.643457,77.220586,62.0,Sodium Vapor Lamp,True
+931,28.573549,77.203343,83.0,High-Mast Floodlight,True
+932,28.640932,77.205413,57.0,High-Mast Floodlight,True
+933,28.686311,77.123032,71.0,Smart LED Street Light,True
+934,28.691299,77.241368,18.0,Smart LED Street Light,False
+935,28.499505,77.103354,98.0,Solar Pole Light,True
+936,28.642113,77.26255,50.0,Smart LED Street Light,True
+937,28.616947,77.262137,100.0,High-Mast Floodlight,True
+938,28.632239,77.351361,67.0,Smart LED Street Light,True
+939,28.671703,77.252061,50.0,Sodium Vapor Lamp,True
+940,28.66968,77.270029,50.0,Smart LED Street Light,True
+941,28.675711,77.193407,69.0,Smart LED Street Light,True
+942,28.455659,77.067156,83.0,Sodium Vapor Lamp,True
+943,28.712883,77.1228,74.0,Smart LED Street Light,True
+944,28.666368,77.252879,62.0,Sodium Vapor Lamp,True
+945,28.677578,77.119472,58.0,Solar Pole Light,True
+946,28.61534,77.205794,70.0,High-Mast Floodlight,True
+947,28.645011,77.323392,65.0,Sodium Vapor Lamp,True
+948,28.532122,77.225689,39.0,Sodium Vapor Lamp,False
+949,28.590834,77.251671,63.0,Sodium Vapor Lamp,True
+950,28.66491,77.240097,17.0,Smart LED Street Light,False
+951,28.650862,77.292111,54.0,Sodium Vapor Lamp,True
+952,28.66339,77.239112,79.0,Smart LED Street Light,True
+953,28.598308,77.236728,88.0,High-Mast Floodlight,True
+954,28.690737,77.128048,68.0,Smart LED Street Light,True
+955,28.651812,77.178604,59.0,Sodium Vapor Lamp,True
+956,28.546764,77.314337,97.0,Smart LED Street Light,True
+957,28.533983,77.13081,82.0,Sodium Vapor Lamp,True
+958,28.55718,77.205129,89.0,Solar Pole Light,True
+959,28.712715,77.101484,62.0,Smart LED Street Light,True
+960,28.677174,77.274108,72.0,Solar Pole Light,True
+961,28.646529,77.228757,69.0,Solar Pole Light,True
+962,28.579824,77.232839,61.0,Sodium Vapor Lamp,True
+963,28.567212,77.254793,72.0,Smart LED Street Light,True
+964,28.650713,77.236566,93.0,Sodium Vapor Lamp,True
+965,28.571454,77.23177,21.0,Smart LED Street Light,False
+966,28.663215,77.274249,50.0,Smart LED Street Light,True
+967,28.505376,77.184899,85.0,Sodium Vapor Lamp,True
+968,28.631227,77.22656,16.0,Solar Pole Light,False
+969,28.631931,77.209077,86.0,Sodium Vapor Lamp,True
+970,28.549469,77.149647,33.0,High-Mast Floodlight,False
+971,28.673135,77.198455,19.0,Sodium Vapor Lamp,False
+972,28.628418,77.205644,100.0,Smart LED Street Light,True
+973,28.575845,77.219401,69.0,Smart LED Street Light,True
+974,28.637547,77.176357,83.0,Solar Pole Light,True
+975,28.547187,77.182167,65.0,Smart LED Street Light,True
+976,28.56624,77.192716,34.0,High-Mast Floodlight,False
+977,28.59806,77.233504,58.0,Solar Pole Light,True
+978,28.591929,77.244674,76.0,High-Mast Floodlight,True
+979,28.691851,77.118788,75.0,High-Mast Floodlight,True
+980,28.639473,77.235764,90.0,Smart LED Street Light,True
+981,28.53727,77.209218,84.0,Sodium Vapor Lamp,True
+982,28.642518,77.176708,72.0,High-Mast Floodlight,True
+983,28.471913,77.054463,93.0,Smart LED Street Light,True
+984,28.516702,77.209761,35.0,Sodium Vapor Lamp,False
+985,28.649768,77.182281,30.0,Smart LED Street Light,False
+986,28.611485,77.229865,17.0,Solar Pole Light,False
+987,28.595557,77.103321,85.0,Sodium Vapor Lamp,True
+988,28.504456,77.191551,90.0,Solar Pole Light,True
+989,28.613464,77.205972,50.0,High-Mast Floodlight,True
+990,28.666406,77.325313,64.0,High-Mast Floodlight,True
+991,28.589568,77.330443,72.0,Solar Pole Light,True
+992,28.666827,77.203584,82.0,High-Mast Floodlight,True
+993,28.554396,77.266611,31.0,Smart LED Street Light,False
+994,28.622964,77.332874,69.0,High-Mast Floodlight,True
+995,28.512859,77.126092,96.0,High-Mast Floodlight,True
+996,28.659306,77.242746,18.0,High-Mast Floodlight,False
+997,28.615633,77.307647,75.0,Smart LED Street Light,True
+998,28.582199,77.1919,89.0,High-Mast Floodlight,True
+999,28.636154,77.050137,79.0,Sodium Vapor Lamp,True
+1000,28.605454,77.238246,16.0,High-Mast Floodlight,False

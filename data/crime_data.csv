@@ -1,301 +1,601 @@
 id,latitude,longitude,crime_type,severity,description,incident_timestamp
-1,37.754826,-122.347286,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-13T19:28:37.901829
-2,37.812019,-122.403615,Vandalism,2,Reported Vandalism incident,2026-07-20T14:28:37.901901
-3,37.719863,-122.474441,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T19:28:37.901931
-4,37.704193,-122.360812,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-03T05:28:37.901950
-5,37.791078,-122.386108,Theft,1,Reported Theft incident,2026-08-06T12:28:37.901969
-6,37.698194,-122.344214,Harassment,5,Reported Harassment incident,2026-06-01T18:28:37.901985
-7,37.828091,-122.465426,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-25T20:28:37.902000
-8,37.723992,-122.470055,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-20T04:28:37.902012
-9,37.743579,-122.415439,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-17T13:28:37.902025
-10,37.764011,-122.452803,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-07-05T10:28:37.902038
-11,37.792796,-122.477081,Harassment,2,Reported Harassment incident,2026-07-05T15:28:37.902052
-12,37.741643,-122.440782,Theft,4,Reported Theft incident,2026-08-05T07:28:37.902068
-13,37.767871,-122.373772,Vandalism,5,Reported Vandalism incident,2026-07-15T17:28:37.902081
-14,37.726848,-122.417122,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-10T15:28:37.902093
-15,37.789686,-122.491968,Robbery,1,Reported Robbery incident,2026-06-08T09:28:37.902106
-16,37.792107,-122.472116,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-02T00:28:37.902118
-17,37.705308,-122.347578,Harassment,1,Reported Harassment incident,2026-08-11T21:28:37.902131
-18,37.849401,-122.370056,Harassment,3,Reported Harassment incident,2026-08-07T11:28:37.902144
-19,37.743638,-122.483772,Theft,4,Reported Theft incident,2026-07-13T04:28:37.902156
-20,37.804377,-122.428976,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-28T07:28:37.902169
-21,37.714426,-122.420172,Vandalism,2,Reported Vandalism incident,2026-05-24T10:28:37.902181
-22,37.700402,-122.353909,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-31T22:28:37.902194
-23,37.736305,-122.393396,Harassment,5,Reported Harassment incident,2026-07-17T13:28:37.902206
-24,37.744774,-122.416189,Robbery,4,Reported Robbery incident,2026-07-13T22:28:37.902218
-25,37.782374,-122.469823,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-19T21:28:37.902231
-26,37.850034,-122.375379,Vandalism,1,Reported Vandalism incident,2026-07-19T17:28:37.902244
-27,37.84522,-122.356228,Vandalism,4,Reported Vandalism incident,2026-07-14T16:28:37.902257
-28,37.790564,-122.3519,Harassment,5,Reported Harassment incident,2026-07-08T12:28:37.902270
-29,37.709059,-122.468043,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-27T22:28:37.902282
-30,37.702136,-122.447347,Robbery,2,Reported Robbery incident,2026-07-15T14:28:37.902297
-31,37.757088,-122.455984,Harassment,5,Reported Harassment incident,2026-06-10T10:28:37.902312
-32,37.827498,-122.442319,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-24T00:28:37.902325
-33,37.73985,-122.412569,Robbery,3,Reported Robbery incident,2026-07-20T14:28:37.902337
-34,37.717448,-122.371048,Suspicious Activity,4,Reported Suspicious Activity incident,2026-08-06T17:28:37.902350
-35,37.706828,-122.341498,Theft,2,Reported Theft incident,2026-05-29T13:28:37.902362
-36,37.818459,-122.467605,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-02T16:28:37.902375
-37,37.695784,-122.368926,Robbery,4,Reported Robbery incident,2026-06-02T04:28:37.902387
-38,37.807997,-122.382759,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-08T18:28:37.902432
-39,37.818303,-122.487553,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T01:28:37.902450
-40,37.752255,-122.480861,Vandalism,3,Reported Vandalism incident,2026-08-03T09:28:37.902467
-41,37.832997,-122.399672,Robbery,2,Reported Robbery incident,2026-06-20T18:28:37.902484
-42,37.747844,-122.489231,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-14T13:28:37.902504
-43,37.744657,-122.447371,Suspicious Activity,1,Reported Suspicious Activity incident,2026-05-29T09:28:37.902525
-44,37.811637,-122.397391,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-01T12:28:37.902546
-45,37.836854,-122.423846,Harassment,3,Reported Harassment incident,2026-07-28T01:28:37.902569
-46,37.714035,-122.385281,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-02T08:28:37.902592
-47,37.816626,-122.409596,Robbery,1,Reported Robbery incident,2026-08-03T07:28:37.902606
-48,37.818255,-122.420393,Vandalism,2,Reported Vandalism incident,2026-08-10T11:28:37.902619
-49,37.778537,-122.430993,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-06T19:28:37.902631
-50,37.698967,-122.482137,Robbery,1,Reported Robbery incident,2026-06-10T14:28:37.902644
-51,37.699929,-122.397574,Harassment,4,Reported Harassment incident,2026-06-08T13:28:37.902660
-52,37.745197,-122.418029,Vandalism,5,Reported Vandalism incident,2026-06-01T05:28:37.902673
-53,37.840111,-122.459513,Harassment,5,Reported Harassment incident,2026-05-21T12:28:37.902685
-54,37.760561,-122.378512,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-26T21:28:37.902698
-55,37.731508,-122.487083,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-22T02:28:37.902710
-56,37.74126,-122.473605,Robbery,1,Reported Robbery incident,2026-07-17T11:28:37.902725
-57,37.843652,-122.370101,Theft,3,Reported Theft incident,2026-08-15T00:28:37.902738
-58,37.796245,-122.359966,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-03T11:28:37.902751
-59,37.823488,-122.469549,Theft,1,Reported Theft incident,2026-05-18T22:28:37.902763
-60,37.837709,-122.413105,Theft,2,Reported Theft incident,2026-08-09T17:28:37.902789
-61,37.82409,-122.356025,Vandalism,1,Reported Vandalism incident,2026-06-13T11:28:37.902801
-62,37.745781,-122.481792,Vandalism,4,Reported Vandalism incident,2026-07-21T01:28:37.902813
-63,37.73137,-122.431063,Harassment,5,Reported Harassment incident,2026-06-05T03:28:37.902825
-64,37.825782,-122.361683,Harassment,4,Reported Harassment incident,2026-06-26T12:28:37.902837
-65,37.696012,-122.41768,Theft,1,Reported Theft incident,2026-05-25T05:28:37.902849
-66,37.761686,-122.463863,Vandalism,4,Reported Vandalism incident,2026-06-26T04:28:37.902862
-67,37.714078,-122.445382,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-05-22T22:28:37.902877
-68,37.845766,-122.447688,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-10T06:28:37.902889
-69,37.777906,-122.386917,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-04T11:28:37.902901
-70,37.753081,-122.343915,Harassment,2,Reported Harassment incident,2026-06-10T04:28:37.902914
-71,37.848892,-122.459115,Harassment,4,Reported Harassment incident,2026-07-25T10:28:37.902926
-72,37.77446,-122.451259,Robbery,2,Reported Robbery incident,2026-08-08T04:28:37.902938
-73,37.740474,-122.493498,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-10T22:28:37.902951
-74,37.79243,-122.418971,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-06T11:28:37.902963
-75,37.703137,-122.454817,Harassment,4,Reported Harassment incident,2026-06-16T03:28:37.902975
-76,37.840223,-122.46107,Harassment,4,Reported Harassment incident,2026-08-10T13:28:37.902987
-77,37.718083,-122.421088,Robbery,1,Reported Robbery incident,2026-06-29T10:28:37.902999
-78,37.852604,-122.460671,Robbery,3,Reported Robbery incident,2026-06-23T20:28:37.903012
-79,37.802442,-122.377541,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-05-24T20:28:37.903025
-80,37.732922,-122.382885,Robbery,2,Reported Robbery incident,2026-07-24T09:28:37.903037
-81,37.753745,-122.398231,Harassment,1,Reported Harassment incident,2026-06-03T19:28:37.903049
-82,37.796265,-122.413676,Suspicious Activity,1,Reported Suspicious Activity incident,2026-07-08T17:28:37.903061
-83,37.709346,-122.365752,Theft,5,Reported Theft incident,2026-06-17T02:28:37.903073
-84,37.746225,-122.469557,Suspicious Activity,2,Reported Suspicious Activity incident,2026-08-10T02:28:37.903085
-85,37.701424,-122.404857,Theft,2,Reported Theft incident,2026-08-08T23:28:37.903100
-86,37.80331,-122.496746,Theft,2,Reported Theft incident,2026-06-27T15:28:37.903113
-87,37.776835,-122.463161,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-03T23:28:37.903125
-88,37.798128,-122.471501,Theft,5,Reported Theft incident,2026-08-07T05:28:37.903137
-89,37.80545,-122.437522,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-06T02:28:37.903149
-90,37.844777,-122.477397,Vandalism,3,Reported Vandalism incident,2026-07-21T21:28:37.903163
-91,37.749471,-122.481244,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-18T10:28:37.903175
-92,37.842851,-122.359026,Robbery,2,Reported Robbery incident,2026-05-23T22:28:37.903187
-93,37.736171,-122.393803,Vandalism,4,Reported Vandalism incident,2026-07-08T16:28:37.903199
-94,37.825656,-122.410568,Theft,4,Reported Theft incident,2026-05-30T00:28:37.903216
-95,37.779644,-122.460704,Theft,1,Reported Theft incident,2026-06-10T12:28:37.903228
-96,37.709796,-122.355845,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-01T07:28:37.903243
-97,37.838967,-122.398104,Theft,2,Reported Theft incident,2026-07-01T09:28:37.903255
-98,37.749145,-122.443526,Harassment,4,Reported Harassment incident,2026-06-08T20:28:37.903268
-99,37.811053,-122.355862,Vandalism,5,Reported Vandalism incident,2026-05-26T02:28:37.903280
-100,37.836834,-122.37462,Theft,5,Reported Theft incident,2026-07-09T21:28:37.903292
-101,37.797625,-122.485938,Theft,2,Reported Theft incident,2026-07-15T15:28:37.903304
-102,37.720761,-122.355631,Theft,5,Reported Theft incident,2026-07-29T10:28:37.903316
-103,37.791929,-122.497928,Vandalism,5,Reported Vandalism incident,2026-07-21T20:28:37.903328
-104,37.711135,-122.39324,Vandalism,2,Reported Vandalism incident,2026-05-21T22:28:37.903340
-105,37.69571,-122.473671,Vandalism,5,Reported Vandalism incident,2026-06-16T10:28:37.903352
-106,37.782697,-122.388697,Theft,1,Reported Theft incident,2026-05-28T05:28:37.903364
-107,37.799214,-122.463517,Vandalism,1,Reported Vandalism incident,2026-08-17T08:28:37.903376
-108,37.808849,-122.46144,Harassment,3,Reported Harassment incident,2026-07-27T19:28:37.903404
-109,37.746964,-122.379961,Robbery,5,Reported Robbery incident,2026-05-19T05:28:37.903420
-110,37.798841,-122.363524,Suspicious Activity,1,Reported Suspicious Activity incident,2026-08-03T16:28:37.903434
-111,37.800118,-122.408471,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-06-09T17:28:37.903446
-112,37.709888,-122.440565,Vandalism,5,Reported Vandalism incident,2026-06-08T14:28:37.903458
-113,37.737332,-122.460362,Robbery,2,Reported Robbery incident,2026-08-12T09:28:37.903470
-114,37.850582,-122.436504,Vandalism,1,Reported Vandalism incident,2026-07-03T12:28:37.903482
-115,37.837627,-122.398418,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-24T15:28:37.903497
-116,37.82207,-122.418978,Vandalism,5,Reported Vandalism incident,2026-06-25T23:28:37.903509
-117,37.787205,-122.420597,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-18T13:28:37.903522
-118,37.726139,-122.383808,Harassment,4,Reported Harassment incident,2026-08-14T13:28:37.903534
-119,37.739824,-122.495509,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-25T21:28:37.903546
-120,37.798176,-122.471062,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-14T13:28:37.903558
-121,37.845373,-122.346771,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-06-30T17:28:37.903570
-122,37.841278,-122.440175,Robbery,2,Reported Robbery incident,2026-07-23T04:28:37.903582
-123,37.697373,-122.350869,Vandalism,3,Reported Vandalism incident,2026-07-19T11:28:37.903595
-124,37.763409,-122.344735,Theft,2,Reported Theft incident,2026-06-27T08:28:37.903607
-125,37.849079,-122.362918,Vandalism,1,Reported Vandalism incident,2026-07-13T07:28:37.903619
-126,37.742012,-122.437784,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-26T21:28:37.903631
-127,37.831082,-122.448692,Suspicious Activity,3,Reported Suspicious Activity incident,2026-08-14T15:28:37.903643
-128,37.722019,-122.410312,Vandalism,2,Reported Vandalism incident,2026-06-04T10:28:37.903655
-129,37.844685,-122.388035,Theft,1,Reported Theft incident,2026-06-02T05:28:37.903669
-130,37.78611,-122.483852,Vandalism,3,Reported Vandalism incident,2026-06-22T23:28:37.903684
-131,37.793301,-122.340991,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-29T00:28:37.903696
-132,37.717313,-122.416467,Harassment,3,Reported Harassment incident,2026-08-11T20:28:37.903708
-133,37.83528,-122.380877,Robbery,1,Reported Robbery incident,2026-06-12T01:28:37.903720
-134,37.806423,-122.387003,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-02T05:28:37.903732
-135,37.752419,-122.452425,Theft,3,Reported Theft incident,2026-05-30T08:28:37.903745
-136,37.824398,-122.369782,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-10T02:28:37.903757
-137,37.833632,-122.353282,Vandalism,4,Reported Vandalism incident,2026-07-07T06:28:37.903782
-138,37.776715,-122.419157,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-06-08T14:28:37.903794
-139,37.822627,-122.395406,Harassment,4,Reported Harassment incident,2026-05-24T06:28:37.903807
-140,37.807215,-122.372073,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-31T00:28:37.903819
-141,37.837301,-122.445321,Vandalism,4,Reported Vandalism incident,2026-06-08T18:28:37.903832
-142,37.754993,-122.484363,Vandalism,3,Reported Vandalism incident,2026-07-22T05:28:37.903846
-143,37.787425,-122.493649,Suspicious Activity,5,Reported Suspicious Activity incident,2026-05-26T08:28:37.903859
-144,37.769396,-122.412577,Robbery,4,Reported Robbery incident,2026-06-21T21:28:37.903871
-145,37.740747,-122.404867,Harassment,5,Reported Harassment incident,2026-06-17T19:28:37.903883
-146,37.69978,-122.493424,Harassment,1,Reported Harassment incident,2026-07-12T02:28:37.903896
-147,37.826516,-122.441769,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-07-06T16:28:37.903908
-148,37.71523,-122.415841,Harassment,3,Reported Harassment incident,2026-07-20T12:28:37.903922
-149,37.818099,-122.464869,Harassment,1,Reported Harassment incident,2026-08-12T11:28:37.903937
-150,37.794562,-122.485744,Robbery,5,Reported Robbery incident,2026-08-08T04:28:37.903951
-151,37.703169,-122.414383,Robbery,5,Reported Robbery incident,2026-07-23T20:28:37.903963
-152,37.781402,-122.397411,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-15T06:28:37.903975
-153,37.811075,-122.343264,Harassment,2,Reported Harassment incident,2026-05-25T20:28:37.903988
-154,37.777508,-122.447727,Theft,1,Reported Theft incident,2026-06-24T11:28:37.904000
-155,37.82213,-122.456067,Harassment,5,Reported Harassment incident,2026-06-19T17:28:37.904012
-156,37.765135,-122.486847,Suspicious Activity,2,Reported Suspicious Activity incident,2026-08-02T04:28:37.904025
-157,37.698956,-122.345376,Harassment,4,Reported Harassment incident,2026-05-24T02:28:37.904038
-158,37.828657,-122.388044,Suspicious Activity,5,Reported Suspicious Activity incident,2026-07-08T04:28:37.904051
-159,37.760332,-122.471673,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-24T01:28:37.904063
-160,37.71993,-122.459361,Robbery,2,Reported Robbery incident,2026-06-18T04:28:37.904076
-161,37.782776,-122.385065,Vandalism,2,Reported Vandalism incident,2026-05-28T10:28:37.904088
-162,37.800532,-122.454611,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-29T11:28:37.904101
-163,37.847678,-122.381336,Vandalism,4,Reported Vandalism incident,2026-08-07T20:28:37.904113
-164,37.783597,-122.401525,Vandalism,2,Reported Vandalism incident,2026-07-14T08:28:37.904125
-165,37.762036,-122.459763,Vandalism,5,Reported Vandalism incident,2026-08-07T14:28:37.904138
-166,37.751856,-122.378145,Harassment,2,Reported Harassment incident,2026-06-28T20:28:37.904150
-167,37.697203,-122.480828,Harassment,2,Reported Harassment incident,2026-08-09T05:28:37.904162
-168,37.70226,-122.492883,Robbery,3,Reported Robbery incident,2026-06-09T04:28:37.904179
-169,37.831774,-122.386815,Robbery,1,Reported Robbery incident,2026-07-22T05:28:37.904191
-170,37.770768,-122.483747,Robbery,5,Reported Robbery incident,2026-05-20T18:28:37.904204
-171,37.773559,-122.423645,Suspicious Activity,4,Reported Suspicious Activity incident,2026-06-17T18:28:37.904216
-172,37.722612,-122.429984,Vandalism,3,Reported Vandalism incident,2026-06-29T05:28:37.904229
-173,37.758661,-122.400864,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-01T11:28:37.904242
-174,37.796515,-122.492151,Robbery,2,Reported Robbery incident,2026-07-14T05:28:37.904255
-175,37.754838,-122.399262,Robbery,1,Reported Robbery incident,2026-06-29T08:28:37.904267
-176,37.775402,-122.362362,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-07-27T04:28:37.904280
-177,37.800291,-122.47333,Harassment,5,Reported Harassment incident,2026-06-10T18:28:37.904292
-178,37.706191,-122.396613,Robbery,5,Reported Robbery incident,2026-06-05T21:28:37.904304
-179,37.699142,-122.405676,Theft,1,Reported Theft incident,2026-05-27T05:28:37.904316
-180,37.845337,-122.407324,Harassment,4,Reported Harassment incident,2026-07-25T17:28:37.904328
-181,37.757007,-122.396474,Vandalism,4,Reported Vandalism incident,2026-07-07T12:28:37.904341
-182,37.76822,-122.412101,Robbery,3,Reported Robbery incident,2026-07-05T06:28:37.904353
-183,37.845534,-122.437624,Vandalism,4,Reported Vandalism incident,2026-07-16T16:28:37.904365
-184,37.84869,-122.354544,Robbery,1,Reported Robbery incident,2026-06-09T17:28:37.904378
-185,37.726227,-122.488302,Vandalism,2,Reported Vandalism incident,2026-05-26T16:28:37.904402
-186,37.711024,-122.496485,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-08-14T11:28:37.904416
-187,37.710011,-122.390119,Harassment,1,Reported Harassment incident,2026-05-30T14:28:37.904431
-188,37.70629,-122.448364,Harassment,2,Reported Harassment incident,2026-06-17T21:28:37.904444
-189,37.83008,-122.495676,Theft,5,Reported Theft incident,2026-07-21T04:28:37.904456
-190,37.825215,-122.454303,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-07-01T13:28:37.904468
-191,37.713806,-122.387922,Suspicious Activity,5,Reported Suspicious Activity incident,2026-08-03T13:28:37.904481
-192,37.795531,-122.359004,Vandalism,1,Reported Vandalism incident,2026-06-04T18:28:37.904493
-193,37.812511,-122.370843,Vandalism,5,Reported Vandalism incident,2026-05-23T06:28:37.904505
-194,37.740026,-122.47101,Robbery,2,Reported Robbery incident,2026-08-08T00:28:37.904520
-195,37.814998,-122.370306,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-08-03T20:28:37.904535
-196,37.853381,-122.433381,Vandalism,5,Reported Vandalism incident,2026-08-02T00:28:37.904548
-197,37.754423,-122.375174,Theft,3,Reported Theft incident,2026-06-10T05:28:37.904561
-198,37.749429,-122.350479,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-09T02:28:37.904573
-199,37.832246,-122.430761,Vehicle Break-in,3,Reported Vehicle Break-in incident,2026-08-16T05:28:37.904585
-200,37.815039,-122.378673,Robbery,1,Reported Robbery incident,2026-06-23T07:28:37.904597
-201,37.7114,-122.354992,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-05-19T14:28:37.904610
-202,37.77574,-122.367167,Robbery,2,Reported Robbery incident,2026-06-11T22:28:37.904623
-203,37.746108,-122.356116,Vandalism,5,Reported Vandalism incident,2026-06-10T03:28:37.904636
-204,37.757172,-122.497666,Robbery,4,Reported Robbery incident,2026-06-03T10:28:37.904648
-205,37.839761,-122.484794,Vandalism,2,Reported Vandalism incident,2026-08-06T10:28:37.904660
-206,37.74599,-122.34739,Robbery,2,Reported Robbery incident,2026-06-19T00:28:37.904672
-207,37.846997,-122.40765,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-05T18:28:37.904687
-208,37.795994,-122.427649,Robbery,3,Reported Robbery incident,2026-07-25T03:28:37.904700
-209,37.741814,-122.446814,Harassment,3,Reported Harassment incident,2026-07-15T08:28:37.904714
-210,37.802503,-122.37902,Vandalism,5,Reported Vandalism incident,2026-05-20T10:28:37.904726
-211,37.821553,-122.373061,Suspicious Activity,1,Reported Suspicious Activity incident,2026-06-12T12:28:37.904739
-212,37.709493,-122.420293,Theft,2,Reported Theft incident,2026-06-26T03:28:37.904751
-213,37.704109,-122.411475,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-21T03:28:37.904763
-214,37.765545,-122.357367,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-06-21T18:28:37.904775
-215,37.751046,-122.480669,Theft,3,Reported Theft incident,2026-07-20T06:28:37.904788
-216,37.717779,-122.377558,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-08T21:28:37.904800
-217,37.793815,-122.48322,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-18T01:28:37.904812
-218,37.708357,-122.387245,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-23T19:28:37.904825
-219,37.706542,-122.367902,Suspicious Activity,3,Reported Suspicious Activity incident,2026-07-02T20:28:37.904837
-220,37.807899,-122.486384,Robbery,3,Reported Robbery incident,2026-07-09T10:28:37.904863
-221,37.708474,-122.341538,Harassment,1,Reported Harassment incident,2026-07-24T08:28:37.904877
-222,37.754783,-122.440097,Theft,5,Reported Theft incident,2026-05-21T13:28:37.904891
-223,37.824948,-122.34784,Harassment,2,Reported Harassment incident,2026-06-17T10:28:37.904904
-224,37.85266,-122.378859,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-10T23:28:37.904916
-225,37.755102,-122.48604,Vandalism,1,Reported Vandalism incident,2026-07-24T09:28:37.904929
-226,37.819244,-122.410055,Harassment,3,Reported Harassment incident,2026-07-26T09:28:37.904943
-227,37.762776,-122.354383,Theft,5,Reported Theft incident,2026-08-01T10:28:37.904956
-228,37.712692,-122.42058,Theft,1,Reported Theft incident,2026-06-08T09:28:37.904968
-229,37.696717,-122.424414,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-05-28T03:28:37.904981
-230,37.703909,-122.480389,Theft,1,Reported Theft incident,2026-06-05T09:28:37.904994
-231,37.713704,-122.395526,Robbery,4,Reported Robbery incident,2026-06-22T08:28:37.905006
-232,37.814267,-122.406061,Harassment,1,Reported Harassment incident,2026-07-16T03:28:37.905019
-233,37.848848,-122.439421,Theft,1,Reported Theft incident,2026-06-27T03:28:37.905031
-234,37.740614,-122.360424,Theft,5,Reported Theft incident,2026-05-28T21:28:37.905045
-235,37.730675,-122.345284,Theft,2,Reported Theft incident,2026-07-29T00:28:37.905058
-236,37.696845,-122.344219,Vandalism,1,Reported Vandalism incident,2026-07-17T15:28:37.905071
-237,37.701806,-122.356817,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-31T23:28:37.905083
-238,37.779332,-122.340526,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-12T06:28:37.905096
-239,37.706707,-122.410783,Robbery,4,Reported Robbery incident,2026-07-10T00:28:37.905108
-240,37.849988,-122.415704,Robbery,3,Reported Robbery incident,2026-06-05T23:28:37.905121
-241,37.795604,-122.38808,Theft,5,Reported Theft incident,2026-08-05T12:28:37.905133
-242,37.767627,-122.398991,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-07-14T21:28:37.905146
-243,37.78839,-122.355215,Theft,2,Reported Theft incident,2026-07-18T13:28:37.905159
-244,37.702171,-122.454446,Suspicious Activity,1,Reported Suspicious Activity incident,2026-07-28T18:28:37.905171
-245,37.846966,-122.356958,Robbery,4,Reported Robbery incident,2026-05-20T23:28:37.905184
-246,37.767805,-122.400179,Robbery,3,Reported Robbery incident,2026-08-13T11:28:37.905199
-247,37.739281,-122.469301,Vandalism,3,Reported Vandalism incident,2026-05-20T04:28:37.905211
-248,37.769092,-122.442864,Theft,2,Reported Theft incident,2026-07-14T22:28:37.905228
-249,37.788285,-122.486962,Suspicious Activity,2,Reported Suspicious Activity incident,2026-06-24T15:28:37.905241
-250,37.850803,-122.341606,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-27T14:28:37.905253
-251,37.806606,-122.413625,Vandalism,2,Reported Vandalism incident,2026-08-08T17:28:37.905266
-252,37.744424,-122.369193,Harassment,3,Reported Harassment incident,2026-06-01T19:28:37.905281
-253,37.804457,-122.473381,Suspicious Activity,3,Reported Suspicious Activity incident,2026-06-22T15:28:37.905294
-254,37.840648,-122.367794,Robbery,3,Reported Robbery incident,2026-05-20T06:28:37.905306
-255,37.846868,-122.383285,Vandalism,5,Reported Vandalism incident,2026-06-09T03:28:37.905319
-256,37.793046,-122.432481,Robbery,1,Reported Robbery incident,2026-06-02T17:28:37.905332
-257,37.844137,-122.36083,Robbery,3,Reported Robbery incident,2026-06-01T10:28:37.905344
-258,37.702135,-122.495181,Theft,1,Reported Theft incident,2026-07-18T21:28:37.905359
-259,37.755134,-122.369711,Suspicious Activity,5,Reported Suspicious Activity incident,2026-08-14T21:28:37.905372
-260,37.852864,-122.475333,Vandalism,5,Reported Vandalism incident,2026-08-12T13:28:37.905387
-261,37.789961,-122.438457,Robbery,5,Reported Robbery incident,2026-05-26T04:28:37.905400
-262,37.850086,-122.364661,Vandalism,2,Reported Vandalism incident,2026-06-04T05:28:37.905413
-263,37.829033,-122.424409,Vehicle Break-in,4,Reported Vehicle Break-in incident,2026-08-06T03:28:37.905439
-264,37.761271,-122.455655,Vandalism,4,Reported Vandalism incident,2026-07-06T08:28:37.905452
-265,37.70392,-122.361044,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-28T08:28:37.905467
-266,37.824964,-122.339445,Robbery,4,Reported Robbery incident,2026-07-11T21:28:37.905480
-267,37.854362,-122.410531,Robbery,5,Reported Robbery incident,2026-08-13T04:28:37.905493
-268,37.817938,-122.348237,Theft,3,Reported Theft incident,2026-07-16T08:28:37.905506
-269,37.830844,-122.459824,Theft,4,Reported Theft incident,2026-06-13T18:28:37.905518
-270,37.766987,-122.478734,Vehicle Break-in,5,Reported Vehicle Break-in incident,2026-06-19T05:28:37.905533
-271,37.847548,-122.402412,Theft,2,Reported Theft incident,2026-06-12T07:28:37.905545
-272,37.731483,-122.391928,Suspicious Activity,4,Reported Suspicious Activity incident,2026-05-29T04:28:37.905558
-273,37.793801,-122.442094,Theft,2,Reported Theft incident,2026-07-14T01:28:37.905571
-274,37.713069,-122.391948,Harassment,3,Reported Harassment incident,2026-06-21T20:28:37.905584
-275,37.778149,-122.375829,Robbery,1,Reported Robbery incident,2026-08-13T22:28:37.905596
-276,37.778126,-122.363051,Suspicious Activity,2,Reported Suspicious Activity incident,2026-05-19T13:28:37.905609
-277,37.783205,-122.40965,Vandalism,5,Reported Vandalism incident,2026-08-16T01:28:37.905622
-278,37.835165,-122.434843,Robbery,1,Reported Robbery incident,2026-07-20T15:28:37.905635
-279,37.716342,-122.494795,Robbery,1,Reported Robbery incident,2026-05-27T14:28:37.905647
-280,37.815722,-122.40015,Robbery,3,Reported Robbery incident,2026-06-12T20:28:37.905662
-281,37.807553,-122.465326,Vandalism,4,Reported Vandalism incident,2026-06-17T03:28:37.905676
-282,37.716719,-122.497073,Harassment,4,Reported Harassment incident,2026-06-08T14:28:37.905688
-283,37.750994,-122.405013,Robbery,2,Reported Robbery incident,2026-06-02T02:28:37.905701
-284,37.757659,-122.429404,Vehicle Break-in,2,Reported Vehicle Break-in incident,2026-08-09T10:28:37.905714
-285,37.839565,-122.443679,Robbery,3,Reported Robbery incident,2026-06-14T10:28:37.905729
-286,37.777138,-122.374016,Theft,3,Reported Theft incident,2026-07-10T00:28:37.905742
-287,37.758347,-122.399866,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-29T04:28:37.905755
-288,37.832878,-122.347477,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-04T08:28:37.905767
-289,37.718432,-122.351146,Suspicious Activity,5,Reported Suspicious Activity incident,2026-06-30T04:28:37.905780
-290,37.773639,-122.458081,Vandalism,2,Reported Vandalism incident,2026-05-20T11:28:37.905793
-291,37.768362,-122.342595,Suspicious Activity,4,Reported Suspicious Activity incident,2026-07-19T05:28:37.905806
-292,37.773719,-122.4468,Theft,3,Reported Theft incident,2026-06-17T20:28:37.905832
-293,37.796244,-122.460977,Robbery,4,Reported Robbery incident,2026-05-24T22:28:37.905845
-294,37.707038,-122.478779,Harassment,4,Reported Harassment incident,2026-08-13T14:28:37.905859
-295,37.715387,-122.475096,Suspicious Activity,5,Reported Suspicious Activity incident,2026-07-06T15:28:37.905872
-296,37.717112,-122.39686,Robbery,1,Reported Robbery incident,2026-06-11T04:28:37.905885
-297,37.724001,-122.444093,Theft,2,Reported Theft incident,2026-06-25T22:28:37.905898
-298,37.838386,-122.423566,Harassment,1,Reported Harassment incident,2026-06-18T10:28:37.905911
-299,37.801709,-122.471829,Vandalism,5,Reported Vandalism incident,2026-05-21T06:28:37.905924
-300,37.725666,-122.492861,Vehicle Break-in,1,Reported Vehicle Break-in incident,2026-07-05T21:28:37.905940
+1,28.556851,77.198026,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Hauz Khas / Green Park,2026-09-01T09:32:47.775877
+2,28.534215,77.229445,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-08-05T16:49:47.776271
+3,28.536488,77.151488,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-08-22T15:45:47.776309
+4,28.679888,77.252512,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-08-16T21:45:47.776333
+5,28.532958,77.163138,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-08-07T18:12:47.776354
+6,28.614949,77.080814,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Janakpuri District Centre,2026-08-12T07:55:47.776372
+7,28.634029,77.189001,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-08-22T06:29:47.776387
+8,28.498626,77.198166,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Saket / Select Citywalk,2026-09-12T14:22:47.776402
+9,28.534208,77.204814,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-08-11T07:55:47.776416
+10,28.59928,77.208315,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near India Gate / Kartavya Path,2026-08-15T12:47:47.776431
+11,28.634685,77.273913,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Mayur Vihar / Akshardham,2026-08-30T20:07:47.776445
+12,28.689913,77.188829,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-08-04T14:44:47.776460
+13,28.559034,77.211664,Pickpocketing,1,Delhi Police Reported: Pickpocketing near AIIMS / Safdarjung,2026-07-26T08:51:47.776484
+14,28.532135,77.205735,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-08-19T19:53:47.776499
+15,28.67989,77.205825,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Delhi University North Campus,2026-08-27T10:04:47.776512
+16,28.658474,77.256284,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Kashmere Gate ISBT,2026-08-08T14:08:47.776526
+17,28.651498,77.174734,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-09-03T11:17:47.776540
+18,28.625038,77.258987,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-08-04T23:32:47.776553
+19,28.719733,77.087205,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-07-28T14:55:47.776567
+20,28.696677,77.119553,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-09-14T09:48:47.776580
+21,28.676077,77.277571,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-09-04T20:15:47.776594
+22,28.610965,77.272783,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Mayur Vihar / Akshardham,2026-09-09T08:38:47.776608
+23,28.545022,77.199202,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near AIIMS / Safdarjung,2026-08-15T07:59:47.776621
+24,28.65809,77.290857,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-08-24T05:32:47.776634
+25,28.529654,77.180154,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-09-13T14:51:47.776647
+26,28.554261,77.194324,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Hauz Khas / Green Park,2026-09-07T19:19:47.776661
+27,28.636746,77.324175,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-08-24T21:17:47.776675
+28,28.658265,77.229969,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Paharganj / New Delhi Station,2026-07-25T16:03:47.776689
+29,28.536812,77.195462,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-08-01T07:57:47.776703
+30,28.721569,77.131233,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-22T11:17:47.776716
+31,28.623212,77.214915,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-09-01T23:58:47.776734
+32,28.635105,77.172657,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-07-24T20:27:47.776750
+33,28.654988,77.236344,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Paharganj / New Delhi Station,2026-09-09T04:58:47.776764
+34,28.65062,77.205653,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-07-22T16:08:47.776778
+35,28.722025,77.106923,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-09-11T04:50:47.776791
+36,28.597521,77.069071,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-09-02T22:41:47.776805
+37,28.655663,77.26447,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Chandni Chowk / Red Fort,2026-07-28T13:58:47.776819
+38,28.500704,77.167329,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-08-07T01:11:47.776832
+39,28.653006,77.186115,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Karol Bagh / Pusa Road,2026-07-24T21:19:47.776845
+40,28.571376,77.210186,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Lajpat Nagar / Central Market,2026-08-05T10:01:47.776859
+41,28.588805,77.051357,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-08T05:18:47.776872
+42,28.664968,77.208226,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-09-03T09:42:47.776886
+43,28.704473,77.109074,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-14T09:09:47.776902
+44,28.580931,77.214931,Phone Snatching,1,Delhi Police Reported: Phone Snatching near AIIMS / Safdarjung,2026-08-03T20:43:47.776916
+45,28.559254,77.217699,Phone Snatching,1,Delhi Police Reported: Phone Snatching near AIIMS / Safdarjung,2026-07-25T06:42:47.776929
+46,28.644256,77.23053,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-08-07T01:33:47.776942
+47,28.529469,77.150085,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-07-20T22:10:47.776955
+48,28.564118,77.298047,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-07-29T03:34:47.776969
+49,28.553842,77.204016,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Hauz Khas / Green Park,2026-08-22T05:19:47.776982
+50,28.621977,77.084281,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Janakpuri District Centre,2026-09-14T19:05:47.776998
+51,28.528169,77.19379,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Hauz Khas / Green Park,2026-08-03T05:55:47.777012
+52,28.544259,77.188066,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Hauz Khas / Green Park,2026-09-05T23:18:47.777028
+53,28.522081,77.212661,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Saket / Select Citywalk,2026-09-01T02:31:47.777042
+54,28.684493,77.243619,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Chandni Chowk / Red Fort,2026-09-12T15:05:47.777066
+55,28.543863,77.153883,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-07-21T09:36:47.777083
+56,28.593118,77.087402,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Janakpuri District Centre,2026-09-05T03:49:47.777097
+57,28.613803,77.266449,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near India Gate / Kartavya Path,2026-09-18T04:30:47.777110
+58,28.492115,77.094023,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-04T16:56:47.777124
+59,28.539479,77.13747,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-08-18T12:34:47.777139
+60,28.609242,77.057279,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-08-11T17:12:47.777152
+61,28.624765,77.215859,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near India Gate / Kartavya Path,2026-09-15T15:09:47.777169
+62,28.591042,77.298972,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Sector 18 / Atta Market Noida,2026-09-08T15:14:47.777182
+63,28.665003,77.273857,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-08-11T14:03:47.777196
+64,28.552342,77.201506,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-07-19T22:31:47.777209
+65,28.666495,77.267448,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-10T14:20:47.777226
+66,28.64174,77.276028,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-29T08:33:47.777242
+67,28.700665,77.123704,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Rohini Sector 10 / Rithala,2026-08-24T12:04:47.777256
+68,28.578309,77.069249,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-07-21T14:46:47.777269
+69,28.483251,77.084669,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-09-12T14:12:47.777283
+70,28.582203,77.221537,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Lajpat Nagar / Central Market,2026-09-10T04:50:47.777296
+71,28.659612,77.260607,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-08-31T11:18:47.777313
+72,28.515888,77.15777,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-08-09T20:13:47.777326
+73,28.634298,77.229427,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-08-29T19:40:47.777340
+74,28.505946,77.186793,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-07-24T12:59:47.777353
+75,28.547829,77.159455,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-08-30T21:33:47.777366
+76,28.720357,77.121797,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Rohini Sector 10 / Rithala,2026-08-09T08:14:47.777380
+77,28.5598,77.323484,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Sector 18 / Atta Market Noida,2026-09-12T20:19:47.777393
+78,28.671896,77.217785,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Kashmere Gate ISBT,2026-08-28T12:06:47.777410
+79,28.695487,77.235607,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Kashmere Gate ISBT,2026-08-20T23:01:47.777424
+80,28.60403,77.097648,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-09-11T13:50:47.777437
+81,28.50988,77.218406,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-07-27T05:09:47.777450
+82,28.557379,77.14269,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-09-10T15:27:47.777463
+83,28.703351,77.216392,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-09-04T19:31:47.777477
+84,28.561731,77.228552,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-07-24T03:07:47.777491
+85,28.520819,77.195294,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Saket / Select Citywalk,2026-07-29T10:50:47.777505
+86,28.608557,77.075563,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Janakpuri District Centre,2026-08-02T05:56:47.777519
+87,28.620743,77.092917,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-07-29T09:29:47.777532
+88,28.65585,77.203008,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Karol Bagh / Pusa Road,2026-08-25T14:52:47.777546
+89,28.570195,77.341803,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-07-28T02:24:47.777560
+90,28.58813,77.086803,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-09-16T19:34:47.777573
+91,28.622085,77.264443,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-07-25T13:57:47.777589
+92,28.651437,77.235737,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Kashmere Gate ISBT,2026-08-17T04:03:47.777602
+93,28.536648,77.16571,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-09-11T08:35:47.777616
+94,28.672099,77.273908,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-09-11T21:19:47.777633
+95,28.676198,77.187477,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Delhi University North Campus,2026-08-21T21:14:47.777650
+96,28.542702,77.212946,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-09-06T08:44:47.777663
+97,28.625111,77.069114,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Janakpuri District Centre,2026-07-20T23:03:47.777677
+98,28.572598,77.24578,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Lajpat Nagar / Central Market,2026-09-13T18:48:47.777690
+99,28.703342,77.118906,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-08-07T13:00:47.777704
+100,28.592973,77.028855,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-08-07T03:26:47.777717
+101,28.618067,77.285712,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Mayur Vihar / Akshardham,2026-08-14T12:34:47.777730
+102,28.638146,77.103607,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-08-05T16:49:47.777743
+103,28.631035,77.176533,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-08-30T04:11:47.777769
+104,28.638126,77.225407,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Connaught Place / Rajiv Chowk,2026-09-05T02:56:47.777780
+105,28.672726,77.332791,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-29T02:18:47.777792
+106,28.503563,77.106533,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-17T00:56:47.777819
+107,28.66601,77.200371,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Karol Bagh / Pusa Road,2026-08-31T00:04:47.777833
+108,28.642171,77.326385,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Anand Vihar ISBT,2026-07-28T09:03:47.777846
+109,28.580508,77.042448,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-09-09T16:44:47.777859
+110,28.55992,77.211228,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-07-26T14:17:47.777876
+111,28.65662,77.059791,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-09-05T18:02:47.777890
+112,28.622994,77.253109,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Mayur Vihar / Akshardham,2026-09-03T12:05:47.777904
+113,28.623321,77.234034,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Connaught Place / Rajiv Chowk,2026-09-04T10:55:47.777918
+114,28.643764,77.199834,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-08-14T08:48:47.777931
+115,28.53867,77.210294,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-07-29T02:04:47.777947
+116,28.631845,77.219247,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Paharganj / New Delhi Station,2026-08-29T02:07:47.777961
+117,28.643484,77.206226,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-08-21T10:59:47.777975
+118,28.602159,77.329509,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-08-01T08:53:47.777989
+119,28.637123,77.231297,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-08-09T09:29:47.778002
+120,28.485073,77.102287,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-08-31T09:29:47.778027
+121,28.704712,77.114879,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Rohini Sector 10 / Rithala,2026-09-13T12:37:47.778039
+122,28.574775,77.222986,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-09-08T18:33:47.778051
+123,28.638196,77.235982,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Chandni Chowk / Red Fort,2026-08-27T23:17:47.778062
+124,28.614776,77.078,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Janakpuri District Centre,2026-07-27T03:22:47.778073
+125,28.691482,77.281075,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-07-25T22:22:47.778084
+126,28.551087,77.333768,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-30T03:52:47.778095
+127,28.653732,77.103287,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-08-01T22:55:47.778107
+128,28.624109,77.307736,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-09-04T08:19:47.778118
+129,28.589004,77.309385,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-27T19:03:47.778132
+130,28.619357,77.28892,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Mayur Vihar / Akshardham,2026-07-27T01:48:47.778147
+131,28.510596,77.205707,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-09-17T04:09:47.778159
+132,28.616381,77.259634,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-09-12T20:19:47.778170
+133,28.520711,77.187883,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Saket / Select Citywalk,2026-09-15T08:22:47.778181
+134,28.741086,77.095148,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Rohini Sector 10 / Rithala,2026-08-29T05:58:47.778192
+135,28.606099,77.279261,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-09-02T14:16:47.778205
+136,28.652019,77.196162,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-09-15T05:32:47.778216
+137,28.673647,77.241153,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Chandni Chowk / Red Fort,2026-08-01T16:31:47.778228
+138,28.555277,77.246932,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Lajpat Nagar / Central Market,2026-09-09T09:38:47.778239
+139,28.572986,77.310997,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Sector 18 / Atta Market Noida,2026-08-13T10:17:47.778250
+140,28.668547,77.22272,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Kashmere Gate ISBT,2026-08-10T20:59:47.778261
+141,28.551103,77.210032,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Hauz Khas / Green Park,2026-09-11T22:45:47.778272
+142,28.61589,77.027433,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-07-22T04:21:47.778283
+143,28.601996,77.210719,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Lajpat Nagar / Central Market,2026-08-04T20:31:47.778295
+144,28.547123,77.208925,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-07-25T19:08:47.778306
+145,28.553615,77.19076,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Hauz Khas / Green Park,2026-08-26T23:19:47.778320
+146,28.685778,77.202805,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-08-08T06:46:47.778332
+147,28.61306,77.100544,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Janakpuri District Centre,2026-08-22T05:06:47.778344
+148,28.500355,77.079106,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-22T11:00:47.778355
+149,28.656294,77.220609,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Paharganj / New Delhi Station,2026-08-09T22:57:47.778369
+150,28.582193,77.329444,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-07-27T17:09:47.778382
+151,28.655065,77.220097,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Kashmere Gate ISBT,2026-07-27T14:29:47.778393
+152,28.506209,77.098656,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Cyber City / DLF Phase 2 Gurgaon,2026-08-12T21:04:47.778404
+153,28.612386,77.27906,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-08-18T06:35:47.778416
+154,28.589165,77.311126,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-07-29T08:25:47.778427
+155,28.675706,77.225467,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-07-24T08:11:47.778439
+156,28.627135,77.234182,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Connaught Place / Rajiv Chowk,2026-09-13T09:00:47.778450
+157,28.634281,77.100003,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Janakpuri District Centre,2026-08-01T09:02:47.778461
+158,28.589582,77.320315,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Sector 18 / Atta Market Noida,2026-08-18T01:56:47.778472
+159,28.640629,77.213046,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Connaught Place / Rajiv Chowk,2026-09-04T04:02:47.778486
+160,28.572062,77.208048,Pickpocketing,3,Delhi Police Reported: Pickpocketing near AIIMS / Safdarjung,2026-08-12T05:16:47.778497
+161,28.541455,77.163927,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Vasant Kunj Promenade,2026-08-21T17:11:47.778508
+162,28.704327,77.147986,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Rohini Sector 10 / Rithala,2026-08-20T08:27:47.778519
+163,28.65241,77.210287,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Kashmere Gate ISBT,2026-08-03T10:26:47.778530
+164,28.566772,77.211975,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-07-19T18:35:47.778542
+165,28.579362,77.249425,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Lajpat Nagar / Central Market,2026-08-19T08:00:47.778553
+166,28.664816,77.261541,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-31T12:53:47.778564
+167,28.571137,77.229843,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Lajpat Nagar / Central Market,2026-08-26T11:27:47.778575
+168,28.645027,77.215494,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-09-10T08:44:47.778586
+169,28.600518,77.224679,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near India Gate / Kartavya Path,2026-08-05T12:06:47.778599
+170,28.576194,77.311544,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-13T07:16:47.778611
+171,28.557667,77.323655,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-09-07T15:30:47.778622
+172,28.573674,77.312396,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-24T01:42:47.778633
+173,28.657934,77.278481,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-09-15T12:37:47.778644
+174,28.643279,77.253888,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-09-03T13:11:47.778656
+175,28.611123,77.084598,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-07-29T21:32:47.778667
+176,28.647464,77.23813,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-07-22T02:27:47.778678
+177,28.677865,77.272601,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-08-12T21:43:47.778689
+178,28.646615,77.299962,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-07-20T10:06:47.778702
+179,28.569722,77.23567,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Lajpat Nagar / Central Market,2026-09-13T11:31:47.778713
+180,28.656541,77.178192,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-09-08T16:20:47.778723
+181,28.50279,77.112491,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-19T07:44:47.778734
+182,28.565569,77.216026,Pickpocketing,3,Delhi Police Reported: Pickpocketing near AIIMS / Safdarjung,2026-08-30T17:51:47.778745
+183,28.505352,77.083482,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-09-04T07:56:47.778756
+184,28.668361,77.275189,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-08-22T13:12:47.778768
+185,28.568665,77.198405,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near AIIMS / Safdarjung,2026-07-22T07:54:47.778778
+186,28.524868,77.21407,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-09-08T07:08:47.778789
+187,28.686767,77.289389,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-09-11T02:02:47.778800
+188,28.624398,77.03449,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-07-20T08:14:47.778813
+189,28.553085,77.15775,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-09-12T21:44:47.778825
+190,28.654747,77.075676,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-08-11T08:45:47.778836
+191,28.643604,77.232009,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-07-26T22:09:47.778847
+192,28.598542,77.209814,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-08-13T14:58:47.778860
+193,28.640313,77.192856,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Karol Bagh / Pusa Road,2026-08-08T01:48:47.778871
+194,28.672626,77.256643,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Kashmere Gate ISBT,2026-08-21T19:54:47.778882
+195,28.584256,77.311346,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-27T03:25:47.778893
+196,28.703124,77.123979,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Rohini Sector 10 / Rithala,2026-07-26T11:25:47.778904
+197,28.602097,77.115272,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-08-30T19:21:47.778918
+198,28.557692,77.147962,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-09-13T06:30:47.778930
+199,28.690903,77.136908,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-07-24T23:54:47.778942
+200,28.628682,77.236267,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-08-20T03:43:47.778953
+201,28.546084,77.231009,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Lajpat Nagar / Central Market,2026-08-10T01:06:47.778964
+202,28.495079,77.090205,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-08-31T23:38:47.778976
+203,28.585349,77.055343,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-18T13:45:47.778987
+204,28.630886,77.312864,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-09-08T07:11:47.778998
+205,28.632204,77.225417,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Connaught Place / Rajiv Chowk,2026-09-13T08:53:47.779009
+206,28.560074,77.18323,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-08-08T12:15:47.779039
+207,28.569088,77.065165,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-09-01T02:53:47.779053
+208,28.574985,77.308773,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-08-19T23:37:47.779077
+209,28.635967,77.279035,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Mayur Vihar / Akshardham,2026-08-16T16:50:47.779092
+210,28.542189,77.207613,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-07-31T03:25:47.779105
+211,28.673711,77.24233,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Paharganj / New Delhi Station,2026-08-30T17:27:47.779119
+212,28.661266,77.289574,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-18T12:18:47.779132
+213,28.549681,77.175529,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-08-27T22:58:47.779145
+214,28.525526,77.165291,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-07-21T05:51:47.779159
+215,28.585876,77.213619,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Lajpat Nagar / Central Market,2026-08-13T04:32:47.779172
+216,28.604151,77.057212,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Janakpuri District Centre,2026-08-02T01:01:47.779185
+217,28.608659,77.288063,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Mayur Vihar / Akshardham,2026-07-29T20:37:47.779199
+218,28.592535,77.321111,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-16T22:25:47.779212
+219,28.573829,77.179398,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-08-16T02:46:47.779225
+220,28.498949,77.205767,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Saket / Select Citywalk,2026-09-09T14:16:47.779239
+221,28.673261,77.22801,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Kashmere Gate ISBT,2026-08-05T04:05:47.779252
+222,28.625188,77.239663,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Chandni Chowk / Red Fort,2026-07-25T23:22:47.779266
+223,28.697033,77.126645,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Rohini Sector 10 / Rithala,2026-07-24T00:51:47.779287
+224,28.545499,77.140902,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-09-14T09:06:47.779301
+225,28.584392,77.030112,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-09-13T03:40:47.779315
+226,28.54846,77.214427,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-08-05T06:49:47.779328
+227,28.615614,77.225261,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Connaught Place / Rajiv Chowk,2026-07-30T15:28:47.779344
+228,28.680946,77.198307,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Delhi University North Campus,2026-09-09T09:13:47.779358
+229,28.620295,77.072271,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-07-30T11:36:47.779371
+230,28.643395,77.172632,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Karol Bagh / Pusa Road,2026-07-25T04:07:47.779385
+231,28.596671,77.210529,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-09-09T09:17:47.779398
+232,28.657004,77.23171,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-08-07T15:49:47.779411
+233,28.493315,77.086185,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-15T11:42:47.779425
+234,28.504213,77.100863,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-29T20:19:47.779440
+235,28.659542,77.219863,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-09-06T03:52:47.779454
+236,28.565874,77.285471,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-24T22:24:47.779470
+237,28.642272,77.295503,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-08-31T15:53:47.779485
+238,28.637375,77.273564,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-08-12T18:57:47.779498
+239,28.621548,77.234169,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near India Gate / Kartavya Path,2026-08-18T06:57:47.779511
+240,28.613383,77.226794,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near AIIMS / Safdarjung,2026-09-03T20:34:47.779525
+241,28.644981,77.300667,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Anand Vihar ISBT,2026-07-31T16:57:47.779538
+242,28.500403,77.209652,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-07-22T20:05:47.779551
+243,28.601555,77.208166,Pickpocketing,2,Delhi Police Reported: Pickpocketing near India Gate / Kartavya Path,2026-09-15T22:23:47.779576
+244,28.514801,77.190377,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-08-28T17:20:47.779587
+245,28.677007,77.203825,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Karol Bagh / Pusa Road,2026-07-29T22:50:47.779598
+246,28.68878,77.232399,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-07-22T07:53:47.779610
+247,28.652861,77.177681,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Karol Bagh / Pusa Road,2026-07-29T06:59:47.779625
+248,28.739447,77.124684,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-09-14T11:58:47.779637
+249,28.551641,77.207145,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near AIIMS / Safdarjung,2026-08-06T03:52:47.779648
+250,28.526866,77.134258,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-07-30T04:46:47.779659
+251,28.681393,77.257141,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-08-20T05:03:47.779670
+252,28.646521,77.236945,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-07-27T20:23:47.779681
+253,28.53964,77.192793,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-08-19T16:07:47.779692
+254,28.531114,77.14204,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-09-03T20:42:47.779704
+255,28.495728,77.077036,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-08T03:39:47.779715
+256,28.528557,77.205846,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-08-30T01:39:47.779728
+257,28.545816,77.186487,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Hauz Khas / Green Park,2026-09-10T04:17:47.779739
+258,28.680248,77.221531,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Delhi University North Campus,2026-08-04T23:20:47.779751
+259,28.672514,77.260337,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Seelampur / Shahdara,2026-09-09T03:05:47.779762
+260,28.55089,77.211371,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Hauz Khas / Green Park,2026-08-23T08:44:47.779774
+261,28.663859,77.21835,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Delhi University North Campus,2026-08-21T08:52:47.779785
+262,28.678961,77.218759,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-08-25T22:49:47.779796
+263,28.677451,77.183127,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-09-01T10:39:47.779807
+264,28.470587,77.090221,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-09-04T20:06:47.779818
+265,28.650796,77.301435,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-07-30T06:31:47.779829
+266,28.534079,77.181677,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-09-13T23:33:47.779842
+267,28.664009,77.256835,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Seelampur / Shahdara,2026-08-28T11:56:47.779854
+268,28.637122,77.315711,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-07-26T12:38:47.779865
+269,28.527094,77.149232,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-09-10T18:51:47.779876
+270,28.645494,77.209047,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-08-27T09:09:47.779888
+271,28.729135,77.099654,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-09-02T15:38:47.779900
+272,28.629847,77.109424,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-08-02T14:16:47.779911
+273,28.457925,77.077547,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-12T13:18:47.779922
+274,28.651456,77.212954,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-09-15T16:56:47.779933
+275,28.648367,77.20694,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Paharganj / New Delhi Station,2026-08-08T16:43:47.779944
+276,28.571299,77.317665,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-08-06T13:15:47.779955
+277,28.512517,77.093316,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-08-28T21:37:47.779966
+278,28.661264,77.234822,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-08-09T20:09:47.779977
+279,28.532686,77.148512,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-08-24T21:13:47.779988
+280,28.598017,77.039685,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-11T03:40:47.779999
+281,28.553747,77.231231,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-07-23T23:00:47.780010
+282,28.583067,77.23511,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Lajpat Nagar / Central Market,2026-07-24T09:20:47.780021
+283,28.734618,77.110479,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-08-22T17:40:47.780032
+284,28.686028,77.101479,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-08-07T08:23:47.780043
+285,28.496438,77.201327,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-09-14T13:53:47.780054
+286,28.656476,77.266147,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Chandni Chowk / Red Fort,2026-09-11T16:59:47.780069
+287,28.693804,77.206913,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Delhi University North Campus,2026-09-14T22:11:47.780080
+288,28.552441,77.121833,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-09-11T03:24:47.780091
+289,28.625434,77.099363,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-08-30T21:27:47.780103
+290,28.666721,77.227356,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-08-17T10:37:47.780114
+291,28.575077,77.313771,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-08-26T23:23:47.780125
+292,28.558892,77.23416,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-09-04T02:52:47.780136
+293,28.542728,77.158723,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Vasant Kunj Promenade,2026-08-05T20:11:47.780147
+294,28.62351,77.204952,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Connaught Place / Rajiv Chowk,2026-07-26T18:29:47.780160
+295,28.642855,77.204859,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-08-05T06:48:47.780173
+296,28.717673,77.109435,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Rohini Sector 10 / Rithala,2026-09-07T12:10:47.780185
+297,28.619885,77.282305,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Mayur Vihar / Akshardham,2026-08-01T20:45:47.780196
+298,28.671763,77.23335,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Chandni Chowk / Red Fort,2026-09-05T04:20:47.780209
+299,28.490952,77.074819,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-26T07:00:47.780222
+300,28.709936,77.12226,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-09-13T15:37:47.780233
+301,28.663055,77.176768,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-08-06T14:29:47.780244
+302,28.508044,77.109835,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-17T21:18:47.780255
+303,28.628102,77.115952,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Janakpuri District Centre,2026-08-01T00:39:47.780266
+304,28.677293,77.19153,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Delhi University North Campus,2026-08-30T19:03:47.780277
+305,28.638319,77.297441,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-08-07T07:44:47.780289
+306,28.577015,77.209166,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-09-15T16:33:47.780301
+307,28.5963,77.029118,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-08-01T08:28:47.780312
+308,28.753286,77.118538,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-17T17:19:47.780323
+309,28.653341,77.201486,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Karol Bagh / Pusa Road,2026-08-14T18:32:47.780334
+310,28.650015,77.219358,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Paharganj / New Delhi Station,2026-07-29T05:42:47.780346
+311,28.600843,77.284372,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Mayur Vihar / Akshardham,2026-08-22T16:17:47.780357
+312,28.68443,77.261181,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Chandni Chowk / Red Fort,2026-08-21T22:21:47.780369
+313,28.645798,77.080132,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Janakpuri District Centre,2026-08-24T16:26:47.780380
+314,28.636856,77.188713,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-07-26T17:48:47.780391
+315,28.689736,77.226613,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-07-26T13:31:47.780402
+316,28.596513,77.110743,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-08-16T14:21:47.780412
+317,28.58973,77.039597,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-09-04T05:57:47.780423
+318,28.636518,77.165777,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Karol Bagh / Pusa Road,2026-08-09T13:13:47.780434
+319,28.655148,77.2171,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-08-26T16:54:47.780445
+320,28.505151,77.187174,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Saket / Select Citywalk,2026-09-09T08:34:47.780456
+321,28.646663,77.215635,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-07-31T20:42:47.780467
+322,28.647806,77.168053,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Karol Bagh / Pusa Road,2026-08-19T21:58:47.780478
+323,28.661314,77.270909,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-07-20T22:05:47.780489
+324,28.606447,77.314186,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Anand Vihar ISBT,2026-08-29T12:18:47.780501
+325,28.652736,77.251443,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Chandni Chowk / Red Fort,2026-08-09T06:56:47.780514
+326,28.695234,77.245398,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-08-27T00:42:47.780525
+327,28.588067,77.029402,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-09-16T15:23:47.780536
+328,28.6307,77.046888,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Dwarka Sector 10 & 21,2026-07-25T14:07:47.780547
+329,28.647109,77.314638,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Anand Vihar ISBT,2026-08-19T22:11:47.780559
+330,28.615871,77.227335,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-08-08T10:26:47.780570
+331,28.638295,77.306797,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Anand Vihar ISBT,2026-09-09T15:18:47.780581
+332,28.548909,77.191949,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-09-13T00:05:47.780592
+333,28.641007,77.192196,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Karol Bagh / Pusa Road,2026-08-04T02:18:47.780618
+334,28.638975,77.23856,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Paharganj / New Delhi Station,2026-09-08T05:23:47.780631
+335,28.552335,77.062373,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-07-31T06:03:47.780645
+336,28.665591,77.283899,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-08-08T06:42:47.780658
+337,28.71146,77.111028,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-06T04:28:47.780671
+338,28.646387,77.216833,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Kashmere Gate ISBT,2026-07-21T20:51:47.780685
+339,28.507841,77.232884,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-08-11T19:37:47.780698
+340,28.702935,77.229273,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Delhi University North Campus,2026-08-04T19:21:47.780711
+341,28.535325,77.189664,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-07-20T14:27:47.780728
+342,28.532132,77.162341,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-07-30T05:54:47.780741
+343,28.506168,77.217295,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-07-26T17:03:47.780755
+344,28.639195,77.210378,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Paharganj / New Delhi Station,2026-08-07T03:14:47.780770
+345,28.699564,77.216864,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-08-30T11:33:47.780784
+346,28.711186,77.13399,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-09-04T12:37:47.780798
+347,28.639984,77.250239,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Chandni Chowk / Red Fort,2026-08-16T22:53:47.780814
+348,28.651697,77.211357,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Paharganj / New Delhi Station,2026-08-27T21:38:47.780828
+349,28.651792,77.296233,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Anand Vihar ISBT,2026-09-08T10:53:47.780844
+350,28.66076,77.312226,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-08-21T15:20:47.780860
+351,28.681059,77.225935,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Delhi University North Campus,2026-09-03T02:07:47.780886
+352,28.581535,77.024873,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-09-03T23:31:47.780897
+353,28.568751,77.05509,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-25T19:10:47.780908
+354,28.475794,77.115822,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Cyber City / DLF Phase 2 Gurgaon,2026-07-31T04:14:47.780920
+355,28.611571,77.241447,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-07-28T09:55:47.780932
+356,28.650065,77.313549,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-09-14T20:16:47.780943
+357,28.680726,77.216187,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-08-03T23:52:47.780954
+358,28.548835,77.21665,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-08-01T11:29:47.780964
+359,28.496713,77.091755,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-07-27T03:41:47.780975
+360,28.561746,77.209146,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near AIIMS / Safdarjung,2026-07-21T16:20:47.780986
+361,28.617517,77.203847,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-08-26T09:22:47.780997
+362,28.635977,77.252149,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Chandni Chowk / Red Fort,2026-09-17T05:47:47.781008
+363,28.551963,77.19734,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Hauz Khas / Green Park,2026-08-28T12:38:47.781019
+364,28.613177,77.234714,Pickpocketing,2,Delhi Police Reported: Pickpocketing near India Gate / Kartavya Path,2026-08-05T11:58:47.781033
+365,28.561904,77.308325,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-09-18T14:45:47.781044
+366,28.670438,77.213824,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Kashmere Gate ISBT,2026-08-13T17:08:47.781056
+367,28.648924,77.190461,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-07-31T07:31:47.781073
+368,28.607537,77.053089,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Dwarka Sector 10 & 21,2026-09-03T03:06:47.781086
+369,28.65074,77.32974,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Anand Vihar ISBT,2026-09-11T01:08:47.781097
+370,28.564982,77.170216,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-08-16T22:31:47.781108
+371,28.496887,77.187406,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-09-17T21:24:47.781119
+372,28.557828,77.210391,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near AIIMS / Safdarjung,2026-09-06T19:04:47.781130
+373,28.663965,77.230114,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Chandni Chowk / Red Fort,2026-09-14T00:12:47.781141
+374,28.645602,77.204669,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Paharganj / New Delhi Station,2026-09-17T03:51:47.781152
+375,28.560827,77.2989,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Sector 18 / Atta Market Noida,2026-08-25T05:30:47.781163
+376,28.616552,77.197425,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Connaught Place / Rajiv Chowk,2026-08-27T09:00:47.781174
+377,28.534762,77.215905,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Hauz Khas / Green Park,2026-08-01T06:38:47.781185
+378,28.598659,77.268986,Pickpocketing,3,Delhi Police Reported: Pickpocketing near India Gate / Kartavya Path,2026-08-27T20:35:47.781196
+379,28.5024,77.092273,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-09T10:55:47.781208
+380,28.511625,77.217105,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-07-31T02:44:47.781218
+381,28.583465,77.04783,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-07-30T09:50:47.781230
+382,28.651301,77.228059,Pickpocketing,2,Delhi Police Reported: Pickpocketing near India Gate / Kartavya Path,2026-08-17T03:54:47.781241
+383,28.557239,77.144452,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-09-15T20:34:47.781256
+384,28.591575,77.072562,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Dwarka Sector 10 & 21,2026-07-24T20:25:47.781267
+385,28.658095,77.255687,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Kashmere Gate ISBT,2026-08-22T03:59:47.781278
+386,28.505616,77.081063,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Cyber City / DLF Phase 2 Gurgaon,2026-09-07T01:02:47.781289
+387,28.579486,77.334588,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Sector 18 / Atta Market Noida,2026-09-01T14:00:47.781300
+388,28.631227,77.064247,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Janakpuri District Centre,2026-08-11T11:12:47.781312
+389,28.581193,77.042287,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Dwarka Sector 10 & 21,2026-09-13T06:04:47.781323
+390,28.590983,77.05531,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Dwarka Sector 10 & 21,2026-08-10T18:19:47.781334
+391,28.654366,77.17057,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Karol Bagh / Pusa Road,2026-08-27T02:44:47.781344
+392,28.694603,77.219359,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-08-31T19:56:47.781356
+393,28.621297,77.245712,Phone Snatching,3,Delhi Police Reported: Phone Snatching near India Gate / Kartavya Path,2026-08-09T04:23:47.781367
+394,28.655309,77.222888,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Paharganj / New Delhi Station,2026-09-08T16:37:47.781380
+395,28.645848,77.290086,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-09-16T12:42:47.781391
+396,28.573644,77.213115,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near AIIMS / Safdarjung,2026-08-26T04:10:47.781402
+397,28.616974,77.210349,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near India Gate / Kartavya Path,2026-08-06T02:23:47.781413
+398,28.672684,77.225997,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Delhi University North Campus,2026-08-13T12:13:47.781424
+399,28.688307,77.220423,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Delhi University North Campus,2026-08-08T08:31:47.781435
+400,28.549825,77.200546,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Hauz Khas / Green Park,2026-09-07T01:13:47.781446
+401,28.626774,77.269559,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Mayur Vihar / Akshardham,2026-09-02T08:01:47.781460
+402,28.496442,77.082566,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Cyber City / DLF Phase 2 Gurgaon,2026-08-30T17:48:47.781473
+403,28.563483,77.315362,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-09-10T14:18:47.781487
+404,28.655032,77.183419,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Karol Bagh / Pusa Road,2026-09-12T18:52:47.781501
+405,28.735436,77.103181,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Rohini Sector 10 / Rithala,2026-08-04T14:11:47.781512
+406,28.537197,77.148404,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-07-26T11:01:47.781523
+407,28.673405,77.193548,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Karol Bagh / Pusa Road,2026-09-04T13:34:47.781534
+408,28.539978,77.184317,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Saket / Select Citywalk,2026-09-17T05:11:47.781545
+409,28.669006,77.288344,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-07-28T23:38:47.781556
+410,28.648134,77.330982,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-08-30T04:01:47.781568
+411,28.562241,77.34114,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Sector 18 / Atta Market Noida,2026-07-31T02:54:47.781579
+412,28.699483,77.269557,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Seelampur / Shahdara,2026-08-28T20:42:47.781590
+413,28.488317,77.111301,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Cyber City / DLF Phase 2 Gurgaon,2026-08-16T05:38:47.781601
+414,28.563694,77.147157,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-09-07T12:19:47.781615
+415,28.636497,77.211773,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Paharganj / New Delhi Station,2026-08-16T12:27:47.781626
+416,28.631533,77.17682,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Karol Bagh / Pusa Road,2026-07-20T18:32:47.781637
+417,28.673838,77.198683,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-07-26T14:30:47.781648
+418,28.56948,77.243513,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Lajpat Nagar / Central Market,2026-09-01T12:06:47.781659
+419,28.615358,77.031025,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-09-13T00:05:47.781670
+420,28.666465,77.18739,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-09-09T11:04:47.781681
+421,28.646158,77.325122,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-08-27T22:44:47.781692
+422,28.613559,77.223436,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Connaught Place / Rajiv Chowk,2026-07-19T19:57:47.781705
+423,28.667497,77.282387,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-09-04T22:20:47.781716
+424,28.651238,77.35183,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-08-17T20:12:47.781727
+425,28.582534,77.038035,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-08-19T08:55:47.781738
+426,28.603353,77.268968,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-09-13T18:43:47.781751
+427,28.642139,77.208435,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Karol Bagh / Pusa Road,2026-08-19T02:33:47.781762
+428,28.737908,77.108039,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-08-28T18:26:47.781773
+429,28.676415,77.217271,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Delhi University North Campus,2026-08-01T05:14:47.781784
+430,28.531717,77.164494,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-09-03T02:39:47.781795
+431,28.670544,77.205764,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-09-09T13:43:47.781806
+432,28.615313,77.072938,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-23T08:51:47.781817
+433,28.642508,77.184784,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Karol Bagh / Pusa Road,2026-08-03T06:34:47.781828
+434,28.655988,77.195617,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Karol Bagh / Pusa Road,2026-08-20T00:50:47.781839
+435,28.601978,77.076153,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-09-13T04:14:47.781849
+436,28.492346,77.077526,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Cyber City / DLF Phase 2 Gurgaon,2026-08-12T05:43:47.781861
+437,28.59221,77.218536,Pickpocketing,2,Delhi Police Reported: Pickpocketing near India Gate / Kartavya Path,2026-08-10T20:03:47.781872
+438,28.569503,77.346918,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Sector 18 / Atta Market Noida,2026-09-18T13:19:47.781883
+439,28.516736,77.209957,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-08-26T04:23:47.781894
+440,28.612654,77.247326,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-08-12T23:34:47.781905
+441,28.726804,77.202237,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-09-14T04:14:47.781930
+442,28.487658,77.105162,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-07-27T21:03:47.781945
+443,28.657128,77.342701,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Anand Vihar ISBT,2026-09-12T04:23:47.781957
+444,28.725359,77.111211,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-08-01T12:34:47.781969
+445,28.65576,77.331631,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Anand Vihar ISBT,2026-08-17T15:44:47.781981
+446,28.625207,77.237109,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near India Gate / Kartavya Path,2026-08-28T01:13:47.781993
+447,28.511,77.107039,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Cyber City / DLF Phase 2 Gurgaon,2026-07-23T00:38:47.782005
+448,28.737332,77.126331,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-09-08T04:07:47.782017
+449,28.589593,77.048201,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-08-17T00:12:47.782029
+450,28.588098,77.307746,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Sector 18 / Atta Market Noida,2026-08-30T00:54:47.782041
+451,28.63593,77.2118,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Connaught Place / Rajiv Chowk,2026-08-06T13:20:47.782055
+452,28.665431,77.294177,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Seelampur / Shahdara,2026-07-24T18:06:47.782068
+453,28.633266,77.218397,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Connaught Place / Rajiv Chowk,2026-09-01T19:56:47.782082
+454,28.644602,77.286194,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Seelampur / Shahdara,2026-08-03T15:09:47.782094
+455,28.579682,77.352449,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-08-08T17:07:47.782106
+456,28.608083,77.280587,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Mayur Vihar / Akshardham,2026-09-03T15:10:47.782119
+457,28.553141,77.223762,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Hauz Khas / Green Park,2026-08-21T06:20:47.782131
+458,28.523071,77.210785,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Saket / Select Citywalk,2026-09-05T03:14:47.782145
+459,28.656018,77.317799,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Anand Vihar ISBT,2026-08-03T15:01:47.782158
+460,28.517803,77.209511,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Saket / Select Citywalk,2026-08-14T06:04:47.782183
+461,28.586104,77.304602,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Sector 18 / Atta Market Noida,2026-08-29T11:17:47.782196
+462,28.541995,77.144498,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-08-26T18:57:47.782207
+463,28.685426,77.205652,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-09-06T09:29:47.782218
+464,28.531616,77.160658,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Vasant Kunj Promenade,2026-07-20T06:57:47.782230
+465,28.615583,77.045014,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-08-04T18:15:47.782241
+466,28.708272,77.144817,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Rohini Sector 10 / Rithala,2026-08-13T17:29:47.782252
+467,28.57038,77.013018,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Dwarka Sector 10 & 21,2026-08-05T23:22:47.782263
+468,28.6193,77.269769,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Mayur Vihar / Akshardham,2026-08-31T15:28:47.782274
+469,28.640882,77.251625,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Chandni Chowk / Red Fort,2026-08-08T07:59:47.782288
+470,28.573657,77.311539,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-07-27T23:29:47.782299
+471,28.520795,77.168087,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-09-10T13:07:47.782310
+472,28.674753,77.273512,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Seelampur / Shahdara,2026-09-14T18:49:47.782321
+473,28.6705,77.199949,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-09-04T15:40:47.782332
+474,28.599017,77.077421,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Janakpuri District Centre,2026-08-19T13:03:47.782343
+475,28.523816,77.21025,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-07-21T11:20:47.782354
+476,28.566381,77.325281,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-09-06T07:26:47.782365
+477,28.573327,77.067656,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-07-22T14:05:47.782376
+478,28.663768,77.291759,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Seelampur / Shahdara,2026-08-01T16:52:47.782390
+479,28.618041,77.236351,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near India Gate / Kartavya Path,2026-07-24T10:47:47.782401
+480,28.621447,77.236216,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-09-06T16:51:47.782412
+481,28.601741,77.065937,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Dwarka Sector 10 & 21,2026-08-29T22:08:47.782425
+482,28.552348,77.210735,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Hauz Khas / Green Park,2026-08-19T20:12:47.782437
+483,28.641454,77.237602,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Paharganj / New Delhi Station,2026-07-26T00:17:47.782448
+484,28.657354,77.255514,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Kashmere Gate ISBT,2026-08-28T11:00:47.782459
+485,28.494398,77.068038,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-04T11:46:47.782470
+486,28.718522,77.106384,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Rohini Sector 10 / Rithala,2026-08-06T10:35:47.782481
+487,28.65951,77.305211,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-07-28T03:14:47.782493
+488,28.709907,77.088257,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-07T13:35:47.782504
+489,28.517715,77.170242,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Saket / Select Citywalk,2026-07-21T09:46:47.782515
+490,28.643741,77.239906,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-08-21T08:25:47.782525
+491,28.603887,77.052382,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Dwarka Sector 10 & 21,2026-08-13T16:30:47.782537
+492,28.674395,77.209484,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Delhi University North Campus,2026-09-14T19:39:47.782548
+493,28.494946,77.072125,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-08-23T19:14:47.782559
+494,28.614651,77.05916,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-08-09T07:23:47.782570
+495,28.643586,77.315403,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-09-10T01:37:47.782582
+496,28.498126,77.058874,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Cyber City / DLF Phase 2 Gurgaon,2026-08-26T03:02:47.782592
+497,28.536292,77.14477,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-07-28T18:54:47.782606
+498,28.554976,77.235783,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Lajpat Nagar / Central Market,2026-07-31T20:51:47.782617
+499,28.683165,77.250613,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Chandni Chowk / Red Fort,2026-08-15T18:23:47.782628
+500,28.647632,77.249589,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Chandni Chowk / Red Fort,2026-09-14T22:49:47.782641
+501,28.66379,77.22987,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-08-15T12:36:47.782652
+502,28.717494,77.106896,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-09-10T19:33:47.782665
+503,28.675473,77.280902,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-07-23T00:18:47.782677
+504,28.626328,77.239028,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-08-17T03:17:47.782688
+505,28.680743,77.266971,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Seelampur / Shahdara,2026-08-19T18:55:47.782699
+506,28.611861,77.048964,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-08-24T07:54:47.782712
+507,28.661529,77.207362,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-08-12T14:44:47.782723
+508,28.647939,77.090769,Pickpocketing,3,Delhi Police Reported: Pickpocketing near Janakpuri District Centre,2026-09-13T23:43:47.782734
+509,28.646429,77.233742,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Chandni Chowk / Red Fort,2026-08-31T03:35:47.782745
+510,28.519695,77.212962,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-08-08T03:23:47.782756
+511,28.620543,77.268694,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Mayur Vihar / Akshardham,2026-08-25T14:03:47.782770
+512,28.539635,77.187134,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Vasant Kunj Promenade,2026-07-25T05:39:47.782782
+513,28.677613,77.197145,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Karol Bagh / Pusa Road,2026-08-16T12:00:47.782793
+514,28.56777,77.2118,Phone Snatching,1,Delhi Police Reported: Phone Snatching near AIIMS / Safdarjung,2026-08-30T02:03:47.782805
+515,28.549203,77.139658,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-08-25T09:31:47.782816
+516,28.491139,77.064471,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Cyber City / DLF Phase 2 Gurgaon,2026-09-01T09:47:47.782827
+517,28.555388,77.209808,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Hauz Khas / Green Park,2026-08-22T20:57:47.782839
+518,28.623152,77.24131,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-09-14T13:08:47.782851
+519,28.594514,77.207534,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near India Gate / Kartavya Path,2026-08-05T17:51:47.782862
+520,28.616267,77.245206,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near India Gate / Kartavya Path,2026-09-16T04:18:47.782875
+521,28.592459,77.203117,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near AIIMS / Safdarjung,2026-08-01T15:38:47.782886
+522,28.65898,77.215422,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Paharganj / New Delhi Station,2026-07-27T17:10:47.782900
+523,28.714011,77.129855,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Rohini Sector 10 / Rithala,2026-07-30T18:54:47.782911
+524,28.726385,77.092954,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Rohini Sector 10 / Rithala,2026-07-24T12:04:47.782922
+525,28.664948,77.236701,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-08-30T08:43:47.782934
+526,28.530617,77.160937,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Vasant Kunj Promenade,2026-07-22T11:06:47.782945
+527,28.62931,77.09171,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Janakpuri District Centre,2026-09-15T05:05:47.782957
+528,28.604445,77.267226,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Mayur Vihar / Akshardham,2026-08-05T03:20:47.782969
+529,28.524117,77.224191,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-09-06T23:16:47.782980
+530,28.575354,77.204441,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near AIIMS / Safdarjung,2026-07-25T18:37:47.782995
+531,28.506575,77.046772,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Cyber City / DLF Phase 2 Gurgaon,2026-08-23T03:11:47.783016
+532,28.660031,77.189904,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Paharganj / New Delhi Station,2026-09-03T08:33:47.783037
+533,28.711163,77.099805,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Rohini Sector 10 / Rithala,2026-07-21T01:52:47.783050
+534,28.66948,77.227612,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Delhi University North Campus,2026-08-03T10:43:47.783061
+535,28.660484,77.233698,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-08-10T21:44:47.783080
+536,28.655496,77.248156,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Chandni Chowk / Red Fort,2026-08-02T19:11:47.783093
+537,28.571152,77.220755,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Lajpat Nagar / Central Market,2026-07-25T06:27:47.783105
+538,28.645344,77.210294,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-08-02T12:59:47.783116
+539,28.546651,77.313578,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Sector 18 / Atta Market Noida,2026-08-10T18:33:47.783130
+540,28.635211,77.290053,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Mayur Vihar / Akshardham,2026-08-29T07:22:47.783142
+541,28.48977,77.084261,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-08-27T07:30:47.783155
+542,28.684075,77.241351,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Delhi University North Campus,2026-08-20T12:55:47.783167
+543,28.575729,77.326451,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Sector 18 / Atta Market Noida,2026-08-26T06:20:47.783178
+544,28.628354,77.233082,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near India Gate / Kartavya Path,2026-08-02T12:45:47.783189
+545,28.663614,77.225555,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-08-11T17:20:47.783201
+546,28.591026,77.045442,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Dwarka Sector 10 & 21,2026-08-28T09:22:47.783212
+547,28.675914,77.275779,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Seelampur / Shahdara,2026-08-13T20:03:47.783223
+548,28.72759,77.115389,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Rohini Sector 10 / Rithala,2026-08-02T19:59:47.783235
+549,28.57118,77.290027,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Sector 18 / Atta Market Noida,2026-08-03T05:36:47.783246
+550,28.538245,77.211797,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-08-18T10:48:47.783257
+551,28.55497,77.111556,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Vasant Kunj Promenade,2026-08-16T14:53:47.783269
+552,28.687526,77.238906,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Chandni Chowk / Red Fort,2026-08-01T16:20:47.783280
+553,28.541123,77.191001,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-09-13T18:37:47.783296
+554,28.639592,77.201899,Eve-Teasing & Harassment,5,Delhi Police Reported: Eve-Teasing & Harassment near Connaught Place / Rajiv Chowk,2026-08-20T05:43:47.783308
+555,28.637543,77.34371,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Anand Vihar ISBT,2026-07-20T20:48:47.783319
+556,28.56714,77.323261,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Sector 18 / Atta Market Noida,2026-09-17T16:12:47.783331
+557,28.553051,77.162435,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Vasant Kunj Promenade,2026-09-17T00:00:47.783342
+558,28.669756,77.233974,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-09-16T23:54:47.783353
+559,28.657951,77.086936,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Janakpuri District Centre,2026-07-22T13:13:47.783366
+560,28.527516,77.22236,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Saket / Select Citywalk,2026-08-10T00:30:47.783378
+561,28.705483,77.228005,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Delhi University North Campus,2026-09-13T05:21:47.783389
+562,28.504581,77.072355,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-08-05T09:27:47.783401
+563,28.680701,77.223805,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Chandni Chowk / Red Fort,2026-08-01T15:41:47.783413
+564,28.61724,77.265986,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Mayur Vihar / Akshardham,2026-08-14T01:43:47.783426
+565,28.629438,77.222631,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Connaught Place / Rajiv Chowk,2026-09-13T00:52:47.783438
+566,28.62672,77.094129,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Janakpuri District Centre,2026-08-13T12:49:47.783449
+567,28.667006,77.222803,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Paharganj / New Delhi Station,2026-09-04T17:50:47.783461
+568,28.661338,77.289461,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-09-16T14:03:47.783473
+569,28.685342,77.210086,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Kashmere Gate ISBT,2026-08-07T15:35:47.783485
+570,28.725561,77.127118,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Rohini Sector 10 / Rithala,2026-08-12T11:58:47.783496
+571,28.608237,77.297936,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Mayur Vihar / Akshardham,2026-09-07T22:31:47.783508
+572,28.662749,77.276884,Vehicle Theft,3,Delhi Police Reported: Vehicle Theft near Seelampur / Shahdara,2026-07-22T23:25:47.783521
+573,28.610104,77.277534,Suspicious Activity,1,Delhi Police Reported: Suspicious Activity near Mayur Vihar / Akshardham,2026-07-29T18:00:47.783531
+574,28.639756,77.219399,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Chandni Chowk / Red Fort,2026-08-27T15:40:47.783543
+575,28.645818,77.075096,Eve-Teasing & Harassment,3,Delhi Police Reported: Eve-Teasing & Harassment near Janakpuri District Centre,2026-08-27T20:57:47.783556
+576,28.632029,77.282699,Dark Alley Robbery,4,Delhi Police Reported: Dark Alley Robbery near Anand Vihar ISBT,2026-07-31T06:45:47.783568
+577,28.657916,77.208654,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Kashmere Gate ISBT,2026-09-04T05:11:47.783580
+578,28.63733,77.292447,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Mayur Vihar / Akshardham,2026-08-05T22:04:47.783593
+579,28.602378,77.311087,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Mayur Vihar / Akshardham,2026-08-31T09:01:47.783606
+580,28.670926,77.236128,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Chandni Chowk / Red Fort,2026-09-09T04:01:47.783617
+581,28.487009,77.240964,Suspicious Activity,2,Delhi Police Reported: Suspicious Activity near Saket / Select Citywalk,2026-08-29T05:40:47.783629
+582,28.635356,77.216319,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Chandni Chowk / Red Fort,2026-08-21T04:58:47.783641
+583,28.682839,77.265096,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Kashmere Gate ISBT,2026-09-13T11:19:47.783652
+584,28.515764,77.097959,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Cyber City / DLF Phase 2 Gurgaon,2026-08-17T03:40:47.783664
+585,28.639321,77.230501,Phone Snatching,2,Delhi Police Reported: Phone Snatching near Connaught Place / Rajiv Chowk,2026-08-14T14:08:47.783675
+586,28.658284,77.319218,Pickpocketing,2,Delhi Police Reported: Pickpocketing near Anand Vihar ISBT,2026-09-18T07:20:47.783687
+587,28.614263,77.276361,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Mayur Vihar / Akshardham,2026-07-22T22:49:47.783699
+588,28.555891,77.20579,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near AIIMS / Safdarjung,2026-09-07T19:22:47.783712
+589,28.626306,77.189125,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Karol Bagh / Pusa Road,2026-08-30T08:15:47.783724
+590,28.509671,77.190046,Phone Snatching,1,Delhi Police Reported: Phone Snatching near Saket / Select Citywalk,2026-08-22T08:20:47.783736
+591,28.594798,77.06688,Vehicle Theft,1,Delhi Police Reported: Vehicle Theft near Dwarka Sector 10 & 21,2026-08-26T08:31:47.783748
+592,28.583775,77.296442,Dark Alley Robbery,5,Delhi Police Reported: Dark Alley Robbery near Sector 18 / Atta Market Noida,2026-09-06T02:40:47.783760
+593,28.509656,77.220712,Pickpocketing,1,Delhi Police Reported: Pickpocketing near Saket / Select Citywalk,2026-07-20T04:25:47.783772
+594,28.632163,77.311631,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Anand Vihar ISBT,2026-08-21T06:19:47.783788
+595,28.655151,77.300475,Eve-Teasing & Harassment,4,Delhi Police Reported: Eve-Teasing & Harassment near Anand Vihar ISBT,2026-08-28T21:02:47.783800
+596,28.571581,77.21999,Vehicle Theft,2,Delhi Police Reported: Vehicle Theft near Lajpat Nagar / Central Market,2026-09-07T04:26:47.783816
+597,28.583079,77.050797,Suspicious Activity,3,Delhi Police Reported: Suspicious Activity near Dwarka Sector 10 & 21,2026-08-09T01:10:47.783828
+598,28.543305,77.216607,Pickpocketing,2,Delhi Police Reported: Pickpocketing near AIIMS / Safdarjung,2026-09-01T04:23:47.783841
+599,28.549105,77.208387,Dark Alley Robbery,3,Delhi Police Reported: Dark Alley Robbery near Hauz Khas / Green Park,2026-08-11T23:35:47.783853
+600,28.543359,77.175462,Phone Snatching,3,Delhi Police Reported: Phone Snatching near Vasant Kunj Promenade,2026-08-19T18:33:47.783865

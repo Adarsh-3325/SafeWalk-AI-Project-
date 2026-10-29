@@ -48,8 +48,9 @@ class CrowdService:
 
 class WeatherService:
     def __init__(self):
-        if settings.OPENWEATHER_API_KEY and not settings.USE_MOCK_DATA:
-            self.provider: WeatherProvider = OpenWeatherProvider(settings.OPENWEATHER_API_KEY)
+        api_key = settings.clean_openweather_api_key
+        if api_key and not settings.USE_MOCK_DATA:
+            self.provider: WeatherProvider = OpenWeatherProvider(api_key)
         else:
             self.provider: WeatherProvider = MockWeatherProvider()
 

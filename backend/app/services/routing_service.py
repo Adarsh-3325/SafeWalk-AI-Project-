@@ -4,8 +4,9 @@ from backend.app.services.providers import RoutingProvider, GoogleRoutingProvide
 
 class RoutingService:
     def __init__(self):
-        if settings.GOOGLE_MAPS_API_KEY and not settings.USE_MOCK_DATA:
-            self.provider: RoutingProvider = GoogleRoutingProvider(settings.GOOGLE_MAPS_API_KEY)
+        api_key = settings.clean_google_maps_api_key
+        if api_key and not settings.USE_MOCK_DATA:
+            self.provider: RoutingProvider = GoogleRoutingProvider(api_key)
         else:
             self.provider: RoutingProvider = MockRoutingProvider()
 

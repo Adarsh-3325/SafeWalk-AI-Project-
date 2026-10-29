@@ -1,101 +1,251 @@
 id,category,severity,description,latitude,longitude,user_id,status,created_at
-1,Accident,3,Community report: Accident near street segment,37.736773,-122.459883,,ACTIVE,2026-08-08T18:28:37.936501
-2,Accident,2,Community report: Accident near street segment,37.839901,-122.459473,,ACTIVE,2026-08-06T18:28:37.936569
-3,Theft,2,Community report: Theft near street segment,37.738412,-122.377896,,ACTIVE,2026-08-15T18:28:37.936596
-4,Poor Lighting,4,Community report: Poor Lighting near street segment,37.766858,-122.375126,,ACTIVE,2026-08-17T18:28:37.936621
-5,Harassment,5,Community report: Harassment near street segment,37.705359,-122.421389,,ACTIVE,2026-08-12T18:28:37.936647
-6,Unsafe Area,1,Community report: Unsafe Area near street segment,37.700278,-122.489375,,ACTIVE,2026-08-12T18:28:37.936670
-7,Poor Lighting,4,Community report: Poor Lighting near street segment,37.83993,-122.477121,,ACTIVE,2026-08-04T18:28:37.936693
-8,Unsafe Area,3,Community report: Unsafe Area near street segment,37.780087,-122.433625,,ACTIVE,2026-08-16T18:28:37.936715
-9,Harassment,5,Community report: Harassment near street segment,37.750475,-122.355427,,ACTIVE,2026-08-14T18:28:37.936752
-10,Accident,4,Community report: Accident near street segment,37.698392,-122.393194,,ACTIVE,2026-08-17T18:28:37.936775
-11,Harassment,3,Community report: Harassment near street segment,37.849043,-122.409773,,ACTIVE,2026-08-16T18:28:37.936816
-12,Poor Lighting,2,Community report: Poor Lighting near street segment,37.844792,-122.491039,,ACTIVE,2026-08-03T18:28:37.936843
-13,Road Block,5,Community report: Road Block near street segment,37.761907,-122.457775,,ACTIVE,2026-08-11T18:28:37.936869
-14,Unsafe Area,3,Community report: Unsafe Area near street segment,37.811831,-122.342392,,ACTIVE,2026-08-10T18:28:37.936893
-15,Unsafe Area,1,Community report: Unsafe Area near street segment,37.735945,-122.394732,,ACTIVE,2026-08-08T18:28:37.936918
-16,Poor Lighting,5,Community report: Poor Lighting near street segment,37.726596,-122.408947,,ACTIVE,2026-08-15T18:28:37.936943
-17,Unsafe Area,4,Community report: Unsafe Area near street segment,37.769129,-122.343879,,ACTIVE,2026-08-16T18:28:37.936979
-18,Theft,5,Community report: Theft near street segment,37.792264,-122.443479,,ACTIVE,2026-08-17T18:28:37.936999
-19,Accident,2,Community report: Accident near street segment,37.713155,-122.475201,,ACTIVE,2026-08-14T18:28:37.937033
-20,Suspicious Activity,3,Community report: Suspicious Activity near street segment,37.730951,-122.459245,,ACTIVE,2026-08-04T18:28:37.937056
-21,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.830999,-122.409604,,ACTIVE,2026-08-06T18:28:37.937110
-22,Road Block,3,Community report: Road Block near street segment,37.778643,-122.481037,,ACTIVE,2026-08-12T18:28:37.937134
-23,Accident,3,Community report: Accident near street segment,37.832522,-122.38375,,ACTIVE,2026-08-14T18:28:37.937157
-24,Poor Lighting,2,Community report: Poor Lighting near street segment,37.705727,-122.386146,,ACTIVE,2026-08-15T18:28:37.937180
-25,Road Block,5,Community report: Road Block near street segment,37.781866,-122.486324,,ACTIVE,2026-08-16T18:28:37.937204
-26,Harassment,1,Community report: Harassment near street segment,37.768228,-122.421849,,ACTIVE,2026-08-15T18:28:37.937227
-27,Accident,4,Community report: Accident near street segment,37.721424,-122.348088,,ACTIVE,2026-08-12T18:28:37.937263
-28,Accident,1,Community report: Accident near street segment,37.830896,-122.392356,,ACTIVE,2026-08-09T18:28:37.937286
-29,Suspicious Activity,2,Community report: Suspicious Activity near street segment,37.768867,-122.433518,,ACTIVE,2026-08-10T18:28:37.937307
-30,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.799056,-122.412131,,ACTIVE,2026-08-13T18:28:37.937327
-31,Road Block,1,Community report: Road Block near street segment,37.704864,-122.4174,,ACTIVE,2026-08-16T18:28:37.937348
-32,Harassment,3,Community report: Harassment near street segment,37.823925,-122.425922,,ACTIVE,2026-08-04T18:28:37.937369
-33,Unsafe Area,5,Community report: Unsafe Area near street segment,37.703213,-122.373595,,ACTIVE,2026-08-17T18:28:37.937390
-34,Harassment,3,Community report: Harassment near street segment,37.727118,-122.458021,,ACTIVE,2026-08-15T18:28:37.937411
-35,Poor Lighting,2,Community report: Poor Lighting near street segment,37.721253,-122.446566,,ACTIVE,2026-08-12T18:28:37.937432
-36,Accident,5,Community report: Accident near street segment,37.81598,-122.416298,,ACTIVE,2026-08-17T18:28:37.937452
-37,Unsafe Area,3,Community report: Unsafe Area near street segment,37.727681,-122.358947,,ACTIVE,2026-08-13T18:28:37.937472
-38,Road Block,2,Community report: Road Block near street segment,37.835633,-122.360107,,ACTIVE,2026-08-17T18:28:37.937492
-39,Accident,4,Community report: Accident near street segment,37.733107,-122.427202,,ACTIVE,2026-08-09T18:28:37.937536
-40,Unsafe Area,5,Community report: Unsafe Area near street segment,37.852498,-122.375878,,ACTIVE,2026-08-14T18:28:37.937582
-41,Poor Lighting,4,Community report: Poor Lighting near street segment,37.699247,-122.488967,,ACTIVE,2026-08-16T18:28:37.937617
-42,Road Block,2,Community report: Road Block near street segment,37.769129,-122.353925,,ACTIVE,2026-08-16T18:28:37.937637
-43,Poor Lighting,1,Community report: Poor Lighting near street segment,37.781092,-122.41975,,ACTIVE,2026-08-04T18:28:37.937657
-44,Road Block,2,Community report: Road Block near street segment,37.711776,-122.394315,,ACTIVE,2026-08-15T18:28:37.937678
-45,Harassment,4,Community report: Harassment near street segment,37.826437,-122.438533,,ACTIVE,2026-08-12T18:28:37.937699
-46,Unsafe Area,1,Community report: Unsafe Area near street segment,37.818998,-122.345084,,ACTIVE,2026-08-08T18:28:37.937721
-47,Theft,3,Community report: Theft near street segment,37.727503,-122.415667,,ACTIVE,2026-08-03T18:28:37.937742
-48,Road Block,1,Community report: Road Block near street segment,37.740842,-122.372543,,ACTIVE,2026-08-17T18:28:37.937763
-49,Poor Lighting,2,Community report: Poor Lighting near street segment,37.787315,-122.397867,,ACTIVE,2026-08-03T18:28:37.937785
-50,Unsafe Area,4,Community report: Unsafe Area near street segment,37.822566,-122.436045,,ACTIVE,2026-08-05T18:28:37.937807
-51,Harassment,1,Community report: Harassment near street segment,37.841314,-122.414115,,ACTIVE,2026-08-03T18:28:37.937828
-52,Road Block,3,Community report: Road Block near street segment,37.720173,-122.388056,,ACTIVE,2026-08-16T18:28:37.937848
-53,Poor Lighting,4,Community report: Poor Lighting near street segment,37.821822,-122.448718,,ACTIVE,2026-08-17T18:28:37.937869
-54,Harassment,5,Community report: Harassment near street segment,37.832049,-122.354417,,ACTIVE,2026-08-11T18:28:37.937890
-55,Road Block,4,Community report: Road Block near street segment,37.739205,-122.342037,,ACTIVE,2026-08-10T18:28:37.937911
-56,Poor Lighting,4,Community report: Poor Lighting near street segment,37.717414,-122.467077,,ACTIVE,2026-08-07T18:28:37.937933
-57,Accident,2,Community report: Accident near street segment,37.724376,-122.356362,,ACTIVE,2026-08-12T18:28:37.937950
-58,Harassment,2,Community report: Harassment near street segment,37.799587,-122.475063,,ACTIVE,2026-08-13T18:28:37.937963
-59,Suspicious Activity,4,Community report: Suspicious Activity near street segment,37.765352,-122.400952,,ACTIVE,2026-08-03T18:28:37.937976
-60,Harassment,1,Community report: Harassment near street segment,37.708254,-122.358213,,ACTIVE,2026-08-08T18:28:37.937988
-61,Theft,5,Community report: Theft near street segment,37.823477,-122.418567,,ACTIVE,2026-08-14T18:28:37.938000
-62,Unsafe Area,3,Community report: Unsafe Area near street segment,37.84964,-122.432558,,ACTIVE,2026-08-10T18:28:37.938012
-63,Accident,5,Community report: Accident near street segment,37.852358,-122.392533,,ACTIVE,2026-08-10T18:28:37.938024
-64,Poor Lighting,1,Community report: Poor Lighting near street segment,37.796447,-122.472847,,ACTIVE,2026-08-13T18:28:37.938036
-65,Accident,2,Community report: Accident near street segment,37.836008,-122.431002,,ACTIVE,2026-08-11T18:28:37.938048
-66,Harassment,5,Community report: Harassment near street segment,37.720857,-122.497383,,ACTIVE,2026-08-14T18:28:37.938061
-67,Unsafe Area,5,Community report: Unsafe Area near street segment,37.784461,-122.415016,,ACTIVE,2026-08-05T18:28:37.938073
-68,Poor Lighting,4,Community report: Poor Lighting near street segment,37.809997,-122.356959,,ACTIVE,2026-08-05T18:28:37.938085
-69,Unsafe Area,3,Community report: Unsafe Area near street segment,37.707605,-122.382361,,ACTIVE,2026-08-10T18:28:37.938097
-70,Theft,4,Community report: Theft near street segment,37.724886,-122.362092,,ACTIVE,2026-08-12T18:28:37.938109
-71,Theft,5,Community report: Theft near street segment,37.82595,-122.412873,,ACTIVE,2026-08-12T18:28:37.938121
-72,Accident,3,Community report: Accident near street segment,37.808539,-122.449104,,ACTIVE,2026-08-15T18:28:37.938147
-73,Poor Lighting,3,Community report: Poor Lighting near street segment,37.770287,-122.367938,,ACTIVE,2026-08-08T18:28:37.938201
-74,Harassment,1,Community report: Harassment near street segment,37.768382,-122.442152,,ACTIVE,2026-08-03T18:28:37.938213
-75,Road Block,3,Community report: Road Block near street segment,37.773974,-122.36688,,ACTIVE,2026-08-17T18:28:37.938225
-76,Road Block,4,Community report: Road Block near street segment,37.748533,-122.471598,,ACTIVE,2026-08-09T18:28:37.938237
-77,Suspicious Activity,5,Community report: Suspicious Activity near street segment,37.808822,-122.367243,,ACTIVE,2026-08-14T18:28:37.938249
-78,Harassment,1,Community report: Harassment near street segment,37.711002,-122.46102,,ACTIVE,2026-08-14T18:28:37.938267
-79,Unsafe Area,2,Community report: Unsafe Area near street segment,37.717616,-122.443729,,ACTIVE,2026-08-13T18:28:37.938279
-80,Theft,1,Community report: Theft near street segment,37.766956,-122.379588,,ACTIVE,2026-08-05T18:28:37.938291
-81,Harassment,5,Community report: Harassment near street segment,37.799084,-122.400051,,ACTIVE,2026-08-04T18:28:37.938303
-82,Road Block,4,Community report: Road Block near street segment,37.75128,-122.364768,,ACTIVE,2026-08-12T18:28:37.938315
-83,Road Block,2,Community report: Road Block near street segment,37.770306,-122.342743,,ACTIVE,2026-08-15T18:28:37.938327
-84,Harassment,5,Community report: Harassment near street segment,37.796363,-122.479198,,ACTIVE,2026-08-12T18:28:37.938339
-85,Road Block,3,Community report: Road Block near street segment,37.803088,-122.447383,,ACTIVE,2026-08-03T18:28:37.938350
-86,Theft,1,Community report: Theft near street segment,37.804712,-122.488257,,ACTIVE,2026-08-06T18:28:37.938362
-87,Unsafe Area,3,Community report: Unsafe Area near street segment,37.722881,-122.362482,,ACTIVE,2026-08-08T18:28:37.938374
-88,Theft,2,Community report: Theft near street segment,37.731249,-122.365473,,ACTIVE,2026-08-08T18:28:37.938386
-89,Harassment,4,Community report: Harassment near street segment,37.739584,-122.396539,,ACTIVE,2026-08-09T18:28:37.938398
-90,Suspicious Activity,2,Community report: Suspicious Activity near street segment,37.805964,-122.417375,,ACTIVE,2026-08-10T18:28:37.938410
-91,Poor Lighting,1,Community report: Poor Lighting near street segment,37.74375,-122.465377,,ACTIVE,2026-08-17T18:28:37.938421
-92,Harassment,5,Community report: Harassment near street segment,37.70021,-122.450769,,ACTIVE,2026-08-14T18:28:37.938433
-93,Poor Lighting,5,Community report: Poor Lighting near street segment,37.799406,-122.349271,,ACTIVE,2026-08-10T18:28:37.938460
-94,Poor Lighting,3,Community report: Poor Lighting near street segment,37.834293,-122.37683,,ACTIVE,2026-08-03T18:28:37.938475
-95,Theft,2,Community report: Theft near street segment,37.821052,-122.393002,,ACTIVE,2026-08-05T18:28:37.938487
-96,Harassment,3,Community report: Harassment near street segment,37.736546,-122.354249,,ACTIVE,2026-08-06T18:28:37.938499
-97,Harassment,3,Community report: Harassment near street segment,37.802217,-122.409729,,ACTIVE,2026-08-17T18:28:37.938511
-98,Poor Lighting,2,Community report: Poor Lighting near street segment,37.712658,-122.427871,,ACTIVE,2026-08-08T18:28:37.938523
-99,Unsafe Area,2,Community report: Unsafe Area near street segment,37.768557,-122.36107,,ACTIVE,2026-08-05T18:28:37.938535
-100,Poor Lighting,5,Community report: Poor Lighting near street segment,37.782364,-122.438536,,ACTIVE,2026-08-04T18:28:37.938547
+1,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Cyber City / DLF Phase 2 Gurgaon,28.495192,77.096697,,ACTIVE,2026-09-13T11:46:47.893700
+2,Suspicious Activity,3,Delhi Citizen Alert: Suspicious Activity observed near India Gate / Kartavya Path,28.60887,77.201955,,ACTIVE,2026-09-11T20:46:47.893737
+3,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Delhi University North Campus,28.682408,77.222107,,ACTIVE,2026-09-14T00:46:47.893755
+4,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near Chandni Chowk / Red Fort,28.651739,77.237304,,ACTIVE,2026-09-08T11:46:47.893770
+5,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near Hauz Khas / Green Park,28.564196,77.18942,,ACTIVE,2026-09-10T06:46:47.893785
+6,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Rohini Sector 10 / Rithala,28.693458,77.114191,,ACTIVE,2026-09-13T19:46:47.893799
+7,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Delhi University North Campus,28.681637,77.195706,,ACTIVE,2026-09-09T05:46:47.893812
+8,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Saket / Select Citywalk,28.521869,77.213973,,ACTIVE,2026-09-10T07:46:47.893825
+9,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Delhi University North Campus,28.688761,77.214805,,ACTIVE,2026-09-12T06:46:47.893838
+10,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Karol Bagh / Pusa Road,28.678901,77.185457,,ACTIVE,2026-09-16T00:46:47.893852
+11,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near AIIMS / Safdarjung,28.571375,77.202362,,ACTIVE,2026-09-09T21:46:47.893865
+12,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Paharganj / New Delhi Station,28.630105,77.207226,,ACTIVE,2026-09-09T18:46:47.893879
+13,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Hauz Khas / Green Park,28.542219,77.205492,,ACTIVE,2026-09-17T13:46:47.893892
+14,Poor Lighting,4,Delhi Citizen Alert: Poor Lighting observed near Saket / Select Citywalk,28.559736,77.195859,,ACTIVE,2026-09-13T07:46:47.893905
+15,Harassment,4,Delhi Citizen Alert: Harassment observed near Delhi University North Campus,28.682651,77.209253,,ACTIVE,2026-09-09T00:46:47.893919
+16,Harassment,3,Delhi Citizen Alert: Harassment observed near Rohini Sector 10 / Rithala,28.722537,77.120553,,ACTIVE,2026-09-17T17:46:47.893932
+17,Harassment,2,Delhi Citizen Alert: Harassment observed near Hauz Khas / Green Park,28.568661,77.163704,,ACTIVE,2026-09-15T18:46:47.893947
+18,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near AIIMS / Safdarjung,28.531396,77.202562,,ACTIVE,2026-09-15T12:46:47.893960
+19,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Chandni Chowk / Red Fort,28.67266,77.217515,,ACTIVE,2026-09-17T16:46:47.893973
+20,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Sector 18 / Atta Market Noida,28.524886,77.328568,,ACTIVE,2026-09-18T10:46:47.893987
+21,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Hauz Khas / Green Park,28.553055,77.183747,,ACTIVE,2026-09-09T15:46:47.894001
+22,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Sector 18 / Atta Market Noida,28.555217,77.305454,,ACTIVE,2026-09-18T14:46:47.894017
+23,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.593758,77.036605,,ACTIVE,2026-09-17T13:46:47.894041
+24,Harassment,5,Delhi Citizen Alert: Harassment observed near Anand Vihar ISBT,28.654311,77.272181,,ACTIVE,2026-09-15T11:46:47.894068
+25,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Delhi University North Campus,28.676047,77.193309,,ACTIVE,2026-09-15T17:46:47.894087
+26,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Kashmere Gate ISBT,28.663655,77.220429,,ACTIVE,2026-09-13T11:46:47.894101
+27,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Paharganj / New Delhi Station,28.654768,77.18811,,ACTIVE,2026-09-15T00:46:47.894115
+28,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Seelampur / Shahdara,28.665682,77.283375,,ACTIVE,2026-09-09T16:46:47.894129
+29,Harassment,2,Delhi Citizen Alert: Harassment observed near Paharganj / New Delhi Station,28.67065,77.208774,,ACTIVE,2026-09-14T11:46:47.894152
+30,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Vasant Kunj Promenade,28.544867,77.127942,,ACTIVE,2026-09-15T00:46:47.894177
+31,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Sector 18 / Atta Market Noida,28.534121,77.332672,,ACTIVE,2026-09-16T02:46:47.894192
+32,Harassment,3,Delhi Citizen Alert: Harassment observed near Hauz Khas / Green Park,28.549317,77.217778,,ACTIVE,2026-09-12T03:46:47.894206
+33,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near Lajpat Nagar / Central Market,28.549399,77.247799,,ACTIVE,2026-09-12T13:46:47.894219
+34,Poor Lighting,4,Delhi Citizen Alert: Poor Lighting observed near Rohini Sector 10 / Rithala,28.744632,77.122896,,ACTIVE,2026-09-17T00:46:47.894233
+35,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Saket / Select Citywalk,28.528649,77.206728,,ACTIVE,2026-09-13T23:46:47.894245
+36,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near India Gate / Kartavya Path,28.589337,77.249834,,ACTIVE,2026-09-11T13:46:47.894259
+37,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Mayur Vihar / Akshardham,28.603537,77.284867,,ACTIVE,2026-09-08T17:46:47.894272
+38,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.568654,77.028308,,ACTIVE,2026-09-14T23:46:47.894285
+39,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Janakpuri District Centre,28.643426,77.08259,,ACTIVE,2026-09-15T14:46:47.894298
+40,Active Police PCR Van,3,Delhi Citizen Alert: Active Police PCR Van observed near Sector 18 / Atta Market Noida,28.591799,77.318827,,ACTIVE,2026-09-16T16:46:47.894312
+41,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Sector 18 / Atta Market Noida,28.542372,77.333381,,ACTIVE,2026-09-12T02:46:47.894325
+42,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Paharganj / New Delhi Station,28.633952,77.22648,,ACTIVE,2026-09-17T12:46:47.894338
+43,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Mayur Vihar / Akshardham,28.613078,77.254153,,ACTIVE,2026-09-16T17:46:47.894352
+44,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Karol Bagh / Pusa Road,28.654164,77.223543,,ACTIVE,2026-09-15T06:46:47.894365
+45,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Lajpat Nagar / Central Market,28.577395,77.239137,,ACTIVE,2026-09-17T09:46:47.894379
+46,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Janakpuri District Centre,28.63803,77.09096,,ACTIVE,2026-09-13T18:46:47.894392
+47,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Seelampur / Shahdara,28.668143,77.258626,,ACTIVE,2026-09-08T04:46:47.894405
+48,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Delhi University North Campus,28.692408,77.225732,,ACTIVE,2026-09-12T01:46:47.894419
+49,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Paharganj / New Delhi Station,28.630259,77.237367,,ACTIVE,2026-09-11T13:46:47.894432
+50,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Hauz Khas / Green Park,28.548024,77.186783,,ACTIVE,2026-09-11T09:46:47.894446
+51,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Saket / Select Citywalk,28.539464,77.202298,,ACTIVE,2026-09-18T14:46:47.894460
+52,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Sector 18 / Atta Market Noida,28.581393,77.315624,,ACTIVE,2026-09-16T04:46:47.894474
+53,Active Police PCR Van,3,Delhi Citizen Alert: Active Police PCR Van observed near Anand Vihar ISBT,28.646003,77.322403,,ACTIVE,2026-09-16T07:46:47.894487
+54,Snatching Hotspot,1,Delhi Citizen Alert: Snatching Hotspot observed near Anand Vihar ISBT,28.651263,77.285067,,ACTIVE,2026-09-16T19:46:47.894501
+55,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Paharganj / New Delhi Station,28.625981,77.229941,,ACTIVE,2026-09-11T10:46:47.894514
+56,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.590118,77.038144,,ACTIVE,2026-09-11T00:46:47.894527
+57,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Kashmere Gate ISBT,28.647121,77.212304,,ACTIVE,2026-09-09T23:46:47.894540
+58,Broken Streetlight,1,Delhi Citizen Alert: Broken Streetlight observed near Connaught Place / Rajiv Chowk,28.600073,77.216181,,ACTIVE,2026-09-12T13:46:47.894559
+59,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Mayur Vihar / Akshardham,28.603723,77.262801,,ACTIVE,2026-09-12T02:46:47.894579
+60,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Cyber City / DLF Phase 2 Gurgaon,28.493978,77.09496,,ACTIVE,2026-09-15T23:46:47.894592
+61,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.623498,77.023322,,ACTIVE,2026-09-11T03:46:47.894605
+62,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Saket / Select Citywalk,28.541891,77.221197,,ACTIVE,2026-09-11T13:46:47.894623
+63,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Seelampur / Shahdara,28.653314,77.278049,,ACTIVE,2026-09-07T23:46:47.894641
+64,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Vasant Kunj Promenade,28.533136,77.157785,,ACTIVE,2026-09-10T23:46:47.894654
+65,Snatching Hotspot,1,Delhi Citizen Alert: Snatching Hotspot observed near Karol Bagh / Pusa Road,28.674337,77.199684,,ACTIVE,2026-09-12T08:46:47.894667
+66,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Sector 18 / Atta Market Noida,28.577629,77.313545,,ACTIVE,2026-09-08T19:46:47.894681
+67,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Delhi University North Campus,28.666639,77.207073,,ACTIVE,2026-09-13T15:46:47.894694
+68,Snatching Hotspot,1,Delhi Citizen Alert: Snatching Hotspot observed near Connaught Place / Rajiv Chowk,28.648499,77.194792,,ACTIVE,2026-09-16T05:46:47.894707
+69,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Delhi University North Campus,28.673074,77.212094,,ACTIVE,2026-09-17T20:46:47.894720
+70,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Rohini Sector 10 / Rithala,28.70183,77.104712,,ACTIVE,2026-09-12T05:46:47.894733
+71,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Delhi University North Campus,28.682546,77.189716,,ACTIVE,2026-09-17T19:46:47.894746
+72,Harassment,2,Delhi Citizen Alert: Harassment observed near AIIMS / Safdarjung,28.552588,77.220551,,ACTIVE,2026-09-08T07:46:47.894759
+73,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Seelampur / Shahdara,28.645389,77.251032,,ACTIVE,2026-09-14T13:46:47.894772
+74,Harassment,1,Delhi Citizen Alert: Harassment observed near Rohini Sector 10 / Rithala,28.70715,77.127579,,ACTIVE,2026-09-10T06:46:47.894785
+75,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near India Gate / Kartavya Path,28.609946,77.222531,,ACTIVE,2026-09-09T00:46:47.894797
+76,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Janakpuri District Centre,28.622565,77.061614,,ACTIVE,2026-09-10T22:46:47.894810
+77,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Connaught Place / Rajiv Chowk,28.637821,77.223452,,ACTIVE,2026-09-09T04:46:47.894823
+78,Snatching Hotspot,1,Delhi Citizen Alert: Snatching Hotspot observed near Rohini Sector 10 / Rithala,28.71046,77.131689,,ACTIVE,2026-09-11T13:46:47.894837
+79,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Lajpat Nagar / Central Market,28.553088,77.256919,,ACTIVE,2026-09-09T19:46:47.894850
+80,Harassment,5,Delhi Citizen Alert: Harassment observed near Rohini Sector 10 / Rithala,28.718917,77.111552,,ACTIVE,2026-09-14T05:46:47.894863
+81,Harassment,4,Delhi Citizen Alert: Harassment observed near Janakpuri District Centre,28.621602,77.086191,,ACTIVE,2026-09-08T14:46:47.894875
+82,Harassment,3,Delhi Citizen Alert: Harassment observed near Vasant Kunj Promenade,28.558304,77.13885,,ACTIVE,2026-09-14T15:46:47.894888
+83,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Dwarka Sector 10 & 21,28.580662,77.061545,,ACTIVE,2026-09-14T21:46:47.894901
+84,Active Police PCR Van,5,Delhi Citizen Alert: Active Police PCR Van observed near Chandni Chowk / Red Fort,28.647267,77.254508,,ACTIVE,2026-09-16T22:46:47.894914
+85,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Rohini Sector 10 / Rithala,28.742092,77.110573,,ACTIVE,2026-09-09T00:46:47.894926
+86,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near Sector 18 / Atta Market Noida,28.58022,77.302695,,ACTIVE,2026-09-13T14:46:47.894946
+87,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Dwarka Sector 10 & 21,28.603421,77.048991,,ACTIVE,2026-09-11T19:46:47.894959
+88,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Vasant Kunj Promenade,28.547096,77.145316,,ACTIVE,2026-09-12T04:46:47.894972
+89,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Kashmere Gate ISBT,28.642584,77.236049,,ACTIVE,2026-09-10T19:46:47.894984
+90,Harassment,1,Delhi Citizen Alert: Harassment observed near Vasant Kunj Promenade,28.509049,77.15024,,ACTIVE,2026-09-07T18:46:47.894997
+91,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Paharganj / New Delhi Station,28.656918,77.218878,,ACTIVE,2026-09-09T01:46:47.895010
+92,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Lajpat Nagar / Central Market,28.599225,77.255377,,ACTIVE,2026-09-13T20:46:47.895023
+93,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Vasant Kunj Promenade,28.530192,77.15541,,ACTIVE,2026-09-11T22:46:47.895035
+94,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near India Gate / Kartavya Path,28.612189,77.205767,,ACTIVE,2026-09-13T02:46:47.895049
+95,Harassment,2,Delhi Citizen Alert: Harassment observed near Saket / Select Citywalk,28.510394,77.198189,,ACTIVE,2026-09-08T07:46:47.895062
+96,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Janakpuri District Centre,28.591357,77.088512,,ACTIVE,2026-09-16T20:46:47.895075
+97,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Lajpat Nagar / Central Market,28.566264,77.214907,,ACTIVE,2026-09-14T07:46:47.895088
+98,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Karol Bagh / Pusa Road,28.657763,77.201338,,ACTIVE,2026-09-15T04:46:47.895101
+99,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near AIIMS / Safdarjung,28.570606,77.205139,,ACTIVE,2026-09-15T16:46:47.895113
+100,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near AIIMS / Safdarjung,28.576072,77.220203,,ACTIVE,2026-09-11T01:46:47.895129
+101,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Vasant Kunj Promenade,28.544611,77.142631,,ACTIVE,2026-09-08T15:46:47.895150
+102,Harassment,3,Delhi Citizen Alert: Harassment observed near Lajpat Nagar / Central Market,28.574149,77.257932,,ACTIVE,2026-09-16T16:46:47.895164
+103,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Kashmere Gate ISBT,28.658551,77.259969,,ACTIVE,2026-09-07T23:46:47.895177
+104,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Karol Bagh / Pusa Road,28.643816,77.191086,,ACTIVE,2026-09-11T16:46:47.895194
+105,Broken Streetlight,1,Delhi Citizen Alert: Broken Streetlight observed near India Gate / Kartavya Path,28.602813,77.232849,,ACTIVE,2026-09-12T21:46:47.895214
+106,Broken Streetlight,1,Delhi Citizen Alert: Broken Streetlight observed near Dwarka Sector 10 & 21,28.565967,77.037809,,ACTIVE,2026-09-12T05:46:47.895228
+107,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near Chandni Chowk / Red Fort,28.639818,77.24303,,ACTIVE,2026-09-15T13:46:47.895241
+108,Active Police PCR Van,5,Delhi Citizen Alert: Active Police PCR Van observed near Seelampur / Shahdara,28.679917,77.28469,,ACTIVE,2026-09-17T00:46:47.895254
+109,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Seelampur / Shahdara,28.629425,77.305631,,ACTIVE,2026-09-14T01:46:47.895266
+110,Harassment,5,Delhi Citizen Alert: Harassment observed near Chandni Chowk / Red Fort,28.660629,77.229353,,ACTIVE,2026-09-17T06:46:47.895280
+111,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Rohini Sector 10 / Rithala,28.718957,77.119243,,ACTIVE,2026-09-11T17:46:47.895293
+112,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near AIIMS / Safdarjung,28.557197,77.212969,,ACTIVE,2026-09-16T13:46:47.895306
+113,Harassment,3,Delhi Citizen Alert: Harassment observed near Karol Bagh / Pusa Road,28.642588,77.184535,,ACTIVE,2026-09-11T03:46:47.895319
+114,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Kashmere Gate ISBT,28.657206,77.20701,,ACTIVE,2026-09-18T01:46:47.895332
+115,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Vasant Kunj Promenade,28.542188,77.163779,,ACTIVE,2026-09-12T23:46:47.895344
+116,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near Janakpuri District Centre,28.629623,77.100099,,ACTIVE,2026-09-14T12:46:47.895357
+117,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Delhi University North Campus,28.693765,77.202209,,ACTIVE,2026-09-14T16:46:47.895370
+118,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Anand Vihar ISBT,28.659495,77.294637,,ACTIVE,2026-09-08T09:46:47.895383
+119,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Kashmere Gate ISBT,28.65399,77.214037,,ACTIVE,2026-09-13T20:46:47.895396
+120,Broken Streetlight,1,Delhi Citizen Alert: Broken Streetlight observed near Delhi University North Campus,28.705101,77.224342,,ACTIVE,2026-09-10T09:46:47.895409
+121,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Cyber City / DLF Phase 2 Gurgaon,28.50231,77.105579,,ACTIVE,2026-09-12T08:46:47.895422
+122,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Dwarka Sector 10 & 21,28.578911,77.051229,,ACTIVE,2026-09-14T10:46:47.895435
+123,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Karol Bagh / Pusa Road,28.649822,77.203303,,ACTIVE,2026-09-08T03:46:47.895449
+124,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near India Gate / Kartavya Path,28.611172,77.223726,,ACTIVE,2026-09-11T01:46:47.895462
+125,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Janakpuri District Centre,28.630014,77.100943,,ACTIVE,2026-09-12T13:46:47.895475
+126,Active Police PCR Van,3,Delhi Citizen Alert: Active Police PCR Van observed near Karol Bagh / Pusa Road,28.641675,77.189684,,ACTIVE,2026-09-10T14:46:47.895487
+127,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Delhi University North Campus,28.673023,77.172729,,ACTIVE,2026-09-09T17:46:47.895500
+128,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Rohini Sector 10 / Rithala,28.719607,77.125734,,ACTIVE,2026-09-17T20:46:47.895513
+129,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Karol Bagh / Pusa Road,28.655631,77.161357,,ACTIVE,2026-09-08T12:46:47.895525
+130,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near Connaught Place / Rajiv Chowk,28.625137,77.184425,,ACTIVE,2026-09-08T07:46:47.895539
+131,Snatching Hotspot,1,Delhi Citizen Alert: Snatching Hotspot observed near Rohini Sector 10 / Rithala,28.737146,77.100309,,ACTIVE,2026-09-17T11:46:47.895552
+132,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near AIIMS / Safdarjung,28.586031,77.224188,,ACTIVE,2026-09-08T19:46:47.895576
+133,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Janakpuri District Centre,28.608391,77.070808,,ACTIVE,2026-09-11T01:46:47.895589
+134,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Saket / Select Citywalk,28.529756,77.193935,,ACTIVE,2026-09-07T22:46:47.895602
+135,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Rohini Sector 10 / Rithala,28.718137,77.109358,,ACTIVE,2026-09-15T14:46:47.895614
+136,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Janakpuri District Centre,28.595183,77.054343,,ACTIVE,2026-09-12T04:46:47.895627
+137,Harassment,1,Delhi Citizen Alert: Harassment observed near Seelampur / Shahdara,28.6684,77.266577,,ACTIVE,2026-09-17T23:46:47.895645
+138,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Anand Vihar ISBT,28.638604,77.325438,,ACTIVE,2026-09-17T02:46:47.895658
+139,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Lajpat Nagar / Central Market,28.587602,77.235912,,ACTIVE,2026-09-18T04:46:47.895671
+140,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Anand Vihar ISBT,28.641791,77.322502,,ACTIVE,2026-09-14T12:46:47.895684
+141,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Chandni Chowk / Red Fort,28.635846,77.244347,,ACTIVE,2026-09-09T13:46:47.895697
+142,Active Police PCR Van,5,Delhi Citizen Alert: Active Police PCR Van observed near Connaught Place / Rajiv Chowk,28.638678,77.227903,,ACTIVE,2026-09-12T02:46:47.895720
+143,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Sector 18 / Atta Market Noida,28.540949,77.30858,,ACTIVE,2026-09-15T10:46:47.895736
+144,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Kashmere Gate ISBT,28.654326,77.229998,,ACTIVE,2026-09-12T12:46:47.895749
+145,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Janakpuri District Centre,28.629111,77.110251,,ACTIVE,2026-09-09T10:46:47.895761
+146,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.584676,77.038536,,ACTIVE,2026-09-12T11:46:47.895782
+147,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Janakpuri District Centre,28.639145,77.092249,,ACTIVE,2026-09-18T07:46:47.895798
+148,Harassment,5,Delhi Citizen Alert: Harassment observed near Kashmere Gate ISBT,28.686515,77.232831,,ACTIVE,2026-09-11T09:46:47.895811
+149,Snatching Hotspot,4,Delhi Citizen Alert: Snatching Hotspot observed near Delhi University North Campus,28.671543,77.190203,,ACTIVE,2026-09-17T16:46:47.895824
+150,Harassment,3,Delhi Citizen Alert: Harassment observed near Sector 18 / Atta Market Noida,28.546727,77.329931,,ACTIVE,2026-09-11T19:46:47.895838
+151,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Lajpat Nagar / Central Market,28.587829,77.26774,,ACTIVE,2026-09-11T17:46:47.895851
+152,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Anand Vihar ISBT,28.659547,77.332443,,ACTIVE,2026-09-16T23:46:47.895864
+153,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near India Gate / Kartavya Path,28.6042,77.212154,,ACTIVE,2026-09-15T01:46:47.895876
+154,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Delhi University North Campus,28.701651,77.216465,,ACTIVE,2026-09-18T16:46:47.895890
+155,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Kashmere Gate ISBT,28.669112,77.234311,,ACTIVE,2026-09-12T07:46:47.895903
+156,Active Police PCR Van,3,Delhi Citizen Alert: Active Police PCR Van observed near Mayur Vihar / Akshardham,28.617548,77.296557,,ACTIVE,2026-09-15T23:46:47.895916
+157,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near India Gate / Kartavya Path,28.632325,77.237663,,ACTIVE,2026-09-14T11:46:47.895929
+158,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Paharganj / New Delhi Station,28.655487,77.223711,,ACTIVE,2026-09-11T12:46:47.895941
+159,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Chandni Chowk / Red Fort,28.649282,77.252348,,ACTIVE,2026-09-12T12:46:47.895954
+160,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Kashmere Gate ISBT,28.646583,77.244308,,ACTIVE,2026-09-18T12:46:47.895966
+161,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Sector 18 / Atta Market Noida,28.552082,77.324287,,ACTIVE,2026-09-13T03:46:47.895979
+162,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Dwarka Sector 10 & 21,28.579423,77.054301,,ACTIVE,2026-09-14T00:46:47.895992
+163,Deserted Underpass,2,Delhi Citizen Alert: Deserted Underpass observed near Rohini Sector 10 / Rithala,28.716091,77.092679,,ACTIVE,2026-09-12T17:46:47.896005
+164,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Sector 18 / Atta Market Noida,28.57631,77.311331,,ACTIVE,2026-09-09T19:46:47.896018
+165,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Cyber City / DLF Phase 2 Gurgaon,28.508217,77.08952,,ACTIVE,2026-09-16T15:46:47.896030
+166,Harassment,1,Delhi Citizen Alert: Harassment observed near AIIMS / Safdarjung,28.573131,77.195636,,ACTIVE,2026-09-11T08:46:47.896043
+167,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Karol Bagh / Pusa Road,28.64286,77.18372,,ACTIVE,2026-09-12T13:46:47.896055
+168,Poor Lighting,4,Delhi Citizen Alert: Poor Lighting observed near Sector 18 / Atta Market Noida,28.582851,77.345161,,ACTIVE,2026-09-12T18:46:47.896068
+169,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Vasant Kunj Promenade,28.527922,77.171153,,ACTIVE,2026-09-11T13:46:47.896081
+170,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Saket / Select Citywalk,28.491955,77.188687,,ACTIVE,2026-09-17T10:46:47.896093
+171,Harassment,2,Delhi Citizen Alert: Harassment observed near Dwarka Sector 10 & 21,28.577718,77.025712,,ACTIVE,2026-09-10T08:46:47.896106
+172,Active Police PCR Van,5,Delhi Citizen Alert: Active Police PCR Van observed near Seelampur / Shahdara,28.641246,77.281195,,ACTIVE,2026-09-14T22:46:47.896119
+173,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Connaught Place / Rajiv Chowk,28.627189,77.223391,,ACTIVE,2026-09-16T03:46:47.896131
+174,Harassment,4,Delhi Citizen Alert: Harassment observed near Chandni Chowk / Red Fort,28.666557,77.244984,,ACTIVE,2026-09-08T13:46:47.896145
+175,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Rohini Sector 10 / Rithala,28.726466,77.115557,,ACTIVE,2026-09-07T19:46:47.896158
+176,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Hauz Khas / Green Park,28.531595,77.215967,,ACTIVE,2026-09-09T13:46:47.896171
+177,Harassment,1,Delhi Citizen Alert: Harassment observed near Rohini Sector 10 / Rithala,28.707763,77.102566,,ACTIVE,2026-09-17T02:46:47.896183
+178,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Sector 18 / Atta Market Noida,28.567331,77.306308,,ACTIVE,2026-09-08T19:46:47.896196
+179,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Connaught Place / Rajiv Chowk,28.624139,77.222861,,ACTIVE,2026-09-07T21:46:47.896209
+180,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Cyber City / DLF Phase 2 Gurgaon,28.500225,77.076033,,ACTIVE,2026-09-16T10:46:47.896222
+181,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near India Gate / Kartavya Path,28.605584,77.245615,,ACTIVE,2026-09-13T15:46:47.896234
+182,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Chandni Chowk / Red Fort,28.663646,77.272126,,ACTIVE,2026-09-12T14:46:47.896247
+183,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Mayur Vihar / Akshardham,28.630402,77.294464,,ACTIVE,2026-09-15T04:46:47.896260
+184,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Chandni Chowk / Red Fort,28.635382,77.252458,,ACTIVE,2026-09-16T04:46:47.896273
+185,Suspicious Activity,2,Delhi Citizen Alert: Suspicious Activity observed near Mayur Vihar / Akshardham,28.611903,77.269035,,ACTIVE,2026-09-17T07:46:47.896291
+186,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Sector 18 / Atta Market Noida,28.57252,77.334178,,ACTIVE,2026-09-13T19:46:47.896310
+187,Harassment,3,Delhi Citizen Alert: Harassment observed near Anand Vihar ISBT,28.654412,77.301823,,ACTIVE,2026-09-08T13:46:47.896323
+188,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near Delhi University North Campus,28.700037,77.200636,,ACTIVE,2026-09-11T02:46:47.896339
+189,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Mayur Vihar / Akshardham,28.61595,77.27275,,ACTIVE,2026-09-08T21:46:47.896361
+190,Poor Lighting,4,Delhi Citizen Alert: Poor Lighting observed near Janakpuri District Centre,28.618617,77.099294,,ACTIVE,2026-09-12T21:46:47.896376
+191,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Karol Bagh / Pusa Road,28.636097,77.219778,,ACTIVE,2026-09-17T15:46:47.896389
+192,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Paharganj / New Delhi Station,28.615484,77.207035,,ACTIVE,2026-09-08T09:46:47.896402
+193,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Saket / Select Citywalk,28.530053,77.215365,,ACTIVE,2026-09-07T20:46:47.896415
+194,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Paharganj / New Delhi Station,28.641293,77.215139,,ACTIVE,2026-09-11T03:46:47.896427
+195,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Chandni Chowk / Red Fort,28.662358,77.237534,,ACTIVE,2026-09-14T12:46:47.896440
+196,Active Police PCR Van,3,Delhi Citizen Alert: Active Police PCR Van observed near Saket / Select Citywalk,28.545398,77.21919,,ACTIVE,2026-09-15T00:46:47.896452
+197,Suspicious Activity,5,Delhi Citizen Alert: Suspicious Activity observed near Janakpuri District Centre,28.634992,77.073308,,ACTIVE,2026-09-17T23:46:47.896465
+198,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Chandni Chowk / Red Fort,28.655009,77.236493,,ACTIVE,2026-09-17T00:46:47.896478
+199,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Janakpuri District Centre,28.606816,77.093202,,ACTIVE,2026-09-10T19:46:47.896490
+200,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Seelampur / Shahdara,28.656935,77.284831,,ACTIVE,2026-09-13T08:46:47.896503
+201,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Seelampur / Shahdara,28.648947,77.300786,,ACTIVE,2026-09-18T13:46:47.896516
+202,Harassment,2,Delhi Citizen Alert: Harassment observed near Cyber City / DLF Phase 2 Gurgaon,28.481555,77.09279,,ACTIVE,2026-09-12T15:46:47.896529
+203,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Chandni Chowk / Red Fort,28.668078,77.23244,,ACTIVE,2026-09-12T22:46:47.896542
+204,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Cyber City / DLF Phase 2 Gurgaon,28.507787,77.071062,,ACTIVE,2026-09-09T08:46:47.896555
+205,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Rohini Sector 10 / Rithala,28.738382,77.116812,,ACTIVE,2026-09-15T11:46:47.896568
+206,Active Police PCR Van,5,Delhi Citizen Alert: Active Police PCR Van observed near Chandni Chowk / Red Fort,28.647254,77.236512,,ACTIVE,2026-09-13T19:46:47.896580
+207,Deserted Underpass,5,Delhi Citizen Alert: Deserted Underpass observed near Hauz Khas / Green Park,28.561534,77.191333,,ACTIVE,2026-09-18T16:46:47.896593
+208,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Mayur Vihar / Akshardham,28.60146,77.273977,,ACTIVE,2026-09-15T20:46:47.896605
+209,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Sector 18 / Atta Market Noida,28.552346,77.347308,,ACTIVE,2026-09-07T17:46:47.896618
+210,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Anand Vihar ISBT,28.638404,77.327474,,ACTIVE,2026-09-13T21:46:47.896631
+211,Suspicious Activity,4,Delhi Citizen Alert: Suspicious Activity observed near Anand Vihar ISBT,28.650042,77.300232,,ACTIVE,2026-09-14T14:46:47.896644
+212,Harassment,1,Delhi Citizen Alert: Harassment observed near Saket / Select Citywalk,28.524411,77.21836,,ACTIVE,2026-09-15T13:46:47.896656
+213,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Connaught Place / Rajiv Chowk,28.627576,77.235597,,ACTIVE,2026-09-18T10:46:47.896669
+214,Active Police PCR Van,2,Delhi Citizen Alert: Active Police PCR Van observed near Sector 18 / Atta Market Noida,28.585323,77.333784,,ACTIVE,2026-09-08T09:46:47.896681
+215,Broken Streetlight,5,Delhi Citizen Alert: Broken Streetlight observed near Janakpuri District Centre,28.615005,77.071602,,ACTIVE,2026-09-15T14:46:47.896694
+216,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Dwarka Sector 10 & 21,28.582896,77.048944,,ACTIVE,2026-09-16T01:46:47.896706
+217,Poor Lighting,1,Delhi Citizen Alert: Poor Lighting observed near Janakpuri District Centre,28.630087,77.055226,,ACTIVE,2026-09-16T12:46:47.896719
+218,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Cyber City / DLF Phase 2 Gurgaon,28.494878,77.091871,,ACTIVE,2026-09-18T02:46:47.896731
+219,Harassment,2,Delhi Citizen Alert: Harassment observed near Seelampur / Shahdara,28.660837,77.294369,,ACTIVE,2026-09-13T22:46:47.896744
+220,Poor Lighting,3,Delhi Citizen Alert: Poor Lighting observed near Mayur Vihar / Akshardham,28.619027,77.296953,,ACTIVE,2026-09-18T13:46:47.896757
+221,Deserted Underpass,4,Delhi Citizen Alert: Deserted Underpass observed near Janakpuri District Centre,28.618661,77.101862,,ACTIVE,2026-09-08T21:46:47.896770
+222,Suspicious Activity,1,Delhi Citizen Alert: Suspicious Activity observed near Vasant Kunj Promenade,28.564526,77.174675,,ACTIVE,2026-09-11T04:46:47.896783
+223,Snatching Hotspot,5,Delhi Citizen Alert: Snatching Hotspot observed near Sector 18 / Atta Market Noida,28.553618,77.316195,,ACTIVE,2026-09-08T19:46:47.896795
+224,Harassment,1,Delhi Citizen Alert: Harassment observed near Sector 18 / Atta Market Noida,28.564823,77.327339,,ACTIVE,2026-09-10T16:46:47.896808
+225,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Janakpuri District Centre,28.632195,77.075217,,ACTIVE,2026-09-10T14:46:47.896821
+226,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Kashmere Gate ISBT,28.668518,77.198201,,ACTIVE,2026-09-11T13:46:47.896833
+227,Snatching Hotspot,3,Delhi Citizen Alert: Snatching Hotspot observed near Sector 18 / Atta Market Noida,28.591629,77.312314,,ACTIVE,2026-09-10T18:46:47.896846
+228,Poor Lighting,2,Delhi Citizen Alert: Poor Lighting observed near Janakpuri District Centre,28.622738,77.083155,,ACTIVE,2026-09-13T17:46:47.896864
+229,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Lajpat Nagar / Central Market,28.58719,77.197437,,ACTIVE,2026-09-11T09:46:47.896883
+230,Harassment,5,Delhi Citizen Alert: Harassment observed near Paharganj / New Delhi Station,28.642551,77.214413,,ACTIVE,2026-09-08T06:46:47.896896
+231,Broken Streetlight,4,Delhi Citizen Alert: Broken Streetlight observed near Anand Vihar ISBT,28.640095,77.340893,,ACTIVE,2026-09-16T07:46:47.896908
+232,Deserted Underpass,3,Delhi Citizen Alert: Deserted Underpass observed near Mayur Vihar / Akshardham,28.59939,77.288877,,ACTIVE,2026-09-11T11:46:47.896924
+233,Harassment,3,Delhi Citizen Alert: Harassment observed near Anand Vihar ISBT,28.652244,77.333923,,ACTIVE,2026-09-16T19:46:47.896944
+234,Harassment,2,Delhi Citizen Alert: Harassment observed near Sector 18 / Atta Market Noida,28.559992,77.309005,,ACTIVE,2026-09-15T11:46:47.896959
+235,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Anand Vihar ISBT,28.663341,77.32138,,ACTIVE,2026-09-12T01:46:47.896972
+236,Harassment,2,Delhi Citizen Alert: Harassment observed near Dwarka Sector 10 & 21,28.568926,77.03791,,ACTIVE,2026-09-10T15:46:47.896984
+237,Suspicious Activity,3,Delhi Citizen Alert: Suspicious Activity observed near Connaught Place / Rajiv Chowk,28.636196,77.230266,,ACTIVE,2026-09-12T19:46:47.896997
+238,Harassment,5,Delhi Citizen Alert: Harassment observed near Karol Bagh / Pusa Road,28.641512,77.146886,,ACTIVE,2026-09-18T14:46:47.897009
+239,Deserted Underpass,1,Delhi Citizen Alert: Deserted Underpass observed near Rohini Sector 10 / Rithala,28.724448,77.098295,,ACTIVE,2026-09-09T09:46:47.897022
+240,Snatching Hotspot,2,Delhi Citizen Alert: Snatching Hotspot observed near Hauz Khas / Green Park,28.51914,77.157615,,ACTIVE,2026-09-11T08:46:47.897041
+241,Broken Streetlight,3,Delhi Citizen Alert: Broken Streetlight observed near Rohini Sector 10 / Rithala,28.72881,77.118529,,ACTIVE,2026-09-17T23:46:47.897054
+242,Harassment,5,Delhi Citizen Alert: Harassment observed near Kashmere Gate ISBT,28.664115,77.249335,,ACTIVE,2026-09-08T19:46:47.897068
+243,Active Police PCR Van,1,Delhi Citizen Alert: Active Police PCR Van observed near Hauz Khas / Green Park,28.55896,77.224345,,ACTIVE,2026-09-11T02:46:47.897081
+244,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Hauz Khas / Green Park,28.528509,77.199582,,ACTIVE,2026-09-09T13:46:47.897094
+245,Poor Lighting,5,Delhi Citizen Alert: Poor Lighting observed near Vasant Kunj Promenade,28.515749,77.151559,,ACTIVE,2026-09-17T11:46:47.897107
+246,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Hauz Khas / Green Park,28.545671,77.209499,,ACTIVE,2026-09-13T11:46:47.897120
+247,Active Police PCR Van,4,Delhi Citizen Alert: Active Police PCR Van observed near Dwarka Sector 10 & 21,28.592783,77.055351,,ACTIVE,2026-09-10T01:46:47.897132
+248,Harassment,3,Delhi Citizen Alert: Harassment observed near Hauz Khas / Green Park,28.559952,77.232424,,ACTIVE,2026-09-13T12:46:47.897145
+249,Broken Streetlight,2,Delhi Citizen Alert: Broken Streetlight observed near Hauz Khas / Green Park,28.544671,77.185985,,ACTIVE,2026-09-11T03:46:47.897158
+250,Harassment,4,Delhi Citizen Alert: Harassment observed near Connaught Place / Rajiv Chowk,28.634091,77.205666,,ACTIVE,2026-09-13T07:46:47.897171
