@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SafeWalk AI - Machine Learning-Based Safety-Aware Route Recommendation System
 
 SafeWalk AI is a complete, production-grade navigation platform that evaluates urban routes using real-world spatial safety factors alongside travel distance and time. Instead of recommending purely the shortest or fastest path, it computes a machine-learning-based **Safety Score** for multiple route alternatives and recommends the safest viable corridor.
@@ -127,3 +128,6 @@ python -m pytest
 
 ## 📜 License
 MIT License. SafeWalk AI Project.
+=======
+# SafeWalk-AI-Project-
+>>>>>>> 9b9fe954b2ca2af9f1b1570943e08735e76b1823
