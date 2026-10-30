@@ -4,7 +4,9 @@
  * Provides automatic resilient mock fallback for Delhi NCR spatial routes if offline.
  */
 
-const API_BASE = '/api';
+// const API_BASE = '/api';
+const BACKEND_URL = import.meta.env.VITE_API_URL || '';
+const API_BASE = `${BACKEND_URL}/api`;
 
 // Realistic Delhi Road Polylines & Spatial Data for offline demo resilience
 const MOCK_DELHI_ROUTES = {
@@ -160,7 +162,7 @@ export async function checkBackendHealth() {
         const data = await res.json();
         return { online: true, data };
       }
-    } catch (e) {}
+    } catch (e) { }
   }
   return { online: false };
 }
@@ -201,7 +203,7 @@ export async function searchSafetyRoutes(params) {
   // Resilient fallback generator
   const fallbackKey = `${origin} to ${destination}`;
   let routes = MOCK_DELHI_ROUTES[fallbackKey] || generateDynamicFallbackRoutes(origin, destination, hour_of_day, is_weekend);
-  
+
   if (weights) {
     routes = recalculateScoresWithWeights(routes, weights);
     routes.sort((a, b) => b.final_score - a.final_score);
@@ -226,7 +228,7 @@ export async function fetchSearchHistory() {
       if (res.ok) {
         return await res.json();
       }
-    } catch (err) {}
+    } catch (err) { }
   }
 
   return [
@@ -243,7 +245,7 @@ export async function fetchCommunityReports() {
       if (res.ok) {
         return await res.json();
       }
-    } catch (err) {}
+    } catch (err) { }
   }
 
   return [
@@ -291,7 +293,7 @@ export async function submitCommunityReport(payload) {
       if (res.ok) {
         return { success: true, data: await res.json() };
       }
-    } catch (err) {}
+    } catch (err) { }
   }
 
   // Local offline storage simulation fallback
