@@ -5,7 +5,13 @@
  */
 
 // const API_BASE = '/api';
-const BACKEND_URL = import.meta.env.VITE_API_URL || '';
+//const BACKEND_URL = import.meta.env.VITE_API_URL || '';
+//const API_BASE = `${BACKEND_URL}/api`;
+const BACKEND_URL = (
+  import.meta.env.VITE_API_URL ||
+  'https://safewalk-ai-project-backend.onrender.com'
+).replace(/\/$/, '');
+
 const API_BASE = `${BACKEND_URL}/api`;
 
 // Realistic Delhi Road Polylines & Spatial Data for offline demo resilience
@@ -155,15 +161,18 @@ export const SPATIAL_LAYERS_DATA = {
 };
 
 export async function checkBackendHealth() {
-  for (const url of ['/health', 'http://localhost:8000/health']) {
-    try {
-      const res = await fetch(url, { method: 'GET' });
-      if (res.ok) {
-        const data = await res.json();
-        return { online: true, data };
-      }
-    } catch (e) { }
+  try {
+    // const BACKEND_URL = import.meta.env.VITE_API_URL || '';
+    const res = await fetch(`${BACKEND_URL}/health`);
+
+    if (res.ok) {
+      const data = await res.json();
+      return { online: true, data };
+    }
+  } catch (e) {
+    console.error("Backend health check failed:", e);
   }
+
   return { online: false };
 }
 
